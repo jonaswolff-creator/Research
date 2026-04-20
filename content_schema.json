@@ -1,0 +1,19 @@
+{
+  "_comment": "Schema für den täglichen Wissenschafts-Report. Nur dieses JSON muss Claude produzieren – das Design wird vom science_report_builder.py übernommen.",
+  "date": "YYYY-MM-DD",
+  "generated_date": "YYYY-MM-DD",
+  "footer_sources": "Kommagetrennte Liste der verwendeten Quellen",
+  "sections": [
+    {
+      "heading": "Themenbereich (z.B. Künstliche Intelligenz)",
+      "items": [
+        {
+          "title": "Kurzer, prägnanter Titel des Themas",
+          "body": "2–4 Sätze sachliche Erklärung der Entwicklung.",
+          "relevance": "Relevanz: Warum ist das wichtig? Welche Auswirkungen hat es?",
+          "source": "Quelle: Quellenname / Medium (Datum)"
+        }
+      ]
+    }
+  ]
+}
