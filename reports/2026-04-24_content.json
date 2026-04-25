@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-24",
+  "generated_date": "2026-04-25",
+  "footer_sources": "Bloomberg, US News, Analytics India Mag, NxCode.io, Cryptonomist, Hugging Face, Xinhua, NASA / SpaceNews / Scientific American, Volkswagen Group Press, GlobeNewsWire, ChinaTechNews, GV Wire, TheAutoExec, Distill Intelligence Semiconductors Briefing, DARPA, Quantum Computing Report, ScienceDaily",
+  "sections": [
+    {
+      "heading": "Künstliche Intelligenz",
+      "items": [
+        {
+          "title": "DeepSeek V4 Pro & Flash: 1,6-Billionen-Parameter-MoE mit 1-Million-Token-Kontext",
+          "body": "DeepSeek veröffentlichte am 24. April zwei neue Flagship-Modelle: V4-Pro (1,6 Billionen Parameter, Mixture-of-Experts, 37 Mrd. aktiv/Token) und V4-Flash (284 Mrd. Parameter, 13 Mrd. aktiv/Token). Kernarchitekturinnovation ist ein Hybrid-Attention-Mechanismus aus Compressed Sparse Attention (CSA) und Heavily Compressed Attention (HCA), der KV-Cache auf nur 10 % und Inferenz-FLOPs auf 27 % gegenüber V3.2 reduziert. Das Kontextfenster beträgt 1 Million Token; Manifold-Constrained Hyper-Connections (mHC) stabilisieren die Signalpropagation über sehr tiefe Schichten; als Optimierer kommt Muon zum Einsatz. Im Benchmark SWE-bench Verified erreicht V4-Pro 80,6 % (nahezu gleichauf mit Claude Opus 4.6), auf LiveCodeBench 93,5 % und auf Codeforces ein Rating von 3206 – Bestwerte im Open-Weight-Bereich.",
+          "relevance": "Für KI-Studierende besonders lehrreich: Die MoE-Architektur mit 1-Millionen-Token-Kontext durch effizientes Sparse Attention zeigt, wie chinesische Labs via architekturelle Effizienzinnovation den Ressourcenvorsprung westlicher Closed-Source-Modelle ausgleichen. Das Modell ist als Open Weight auf Hugging Face frei verfügbar.",
+          "source": "Bloomberg / Analytics India Mag / NxCode.io / Cryptonomist (24. April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Raumfahrt",
+      "items": [
+        {
+          "title": "11. China Space Day in Chengdu: Chang'e-6-Kapsel und Mondproben ausgestellt",
+          "body": "In Chengdu eröffnete der 11. China Space Day unter dem Motto 'A Seven-Decade Celestial Path, A Shared Cosmos Faith'. Herzstücke der Ausstellung waren die Rückkehrkapsel der Chang'e-6-Mission sowie echte Mondproben aus der Mondkraterrückseite, die China 2024 erstmals in der Geschichte der Raumfahrt geborgen hat. Neben der Schau fand ein Aerospace-Kulturforum statt, das Chinas Roadmap für eine bemannte Mondlandung, wiederverwendbare Schwerlastraketen und internationale Kooperationen vorstellte. China begeht den Space Day seit 2016 jährlich am 24. April – dem Tag des Starts seines ersten Satelliten Dongfanghong-1 im Jahr 1970.",
+          "relevance": "Die Ausstellung markiert Chinas wachsende Stärke in der Erkundung der Mondkraterrückseite und verstärkt das geopolitische Narrativ einer eigenständigen Weltraummacht – als direktes Gegengewicht zum westlichen Artemis-Programm.",
+          "source": "Xinhua (24. April 2026)"
+        },
+        {
+          "title": "NASA Roman Space Telescope: Starttermin September 2026 bestätigt – 100× Hubbles Sichtfeld",
+          "body": "NASA bestätigte den Starttermin des Nancy Grace Roman Space Telescope auf frühestens September 2026 an Bord einer SpaceX Falcon Heavy von Kennedy Space Center. Das Kerninstrument WFI ist eine 300,8-Megapixel-Kamera im sicht- und nahinfraroten Bereich mit einem Gesichtsfeld 100-mal größer als Hubble bei identischer Bildschärfe. Roman ist Monate vor Plan und unter Budget; seine fünfjährige Primärmission soll Zehntausende neue Exoplaneten, Milliarden Galaxien entdecken und erstmals statistisch präzise Karten dunkler Materie und dunkler Energie liefern.",
+          "relevance": "Roman wird die umfassendste Kartierung des Universums in der Geschichte der Astronomie ermöglichen und die statistische Basis für Kosmologiemodelle sowie die Suche nach habitablen Welten fundamental verändern.",
+          "source": "NASA / SpaceNews / Scientific American (24. April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Automobilindustrie",
+      "items": [
+        {
+          "title": "Volkswagen Group Night in Peking: Vier Weltpremieren mit lokal entwickelter KI",
+          "body": "Auf der Auto China 2026 präsentierte die Volkswagen Group vier Weltpremieren für VW, Audi und Porsche, deren Fahrerassistenzsysteme auf in China entwickelten KI-Plattformen basieren. Parallel stellte Hyundai den IONIQ V vor – ein elektrisches Liftback auf 800-Volt-Plattform mit CATL-Batterien und über 600 km CLTC-Reichweite. Die Messe steht ganz im Zeichen chinesischer Chiparchitekturen und lokalisierter Software-Ökosysteme.",
+          "relevance": "Westliche Hersteller lokalisieren KI-Entwicklung in China, um im weltgrößten EV-Markt konkurrenzfähig zu bleiben – ein strategischer Wandel, der die globale Fahrzeugplattformarchitektur dauerhaft verändert.",
+          "source": "Volkswagen Group Pressemitteilung / TheAutoExec (24. April 2026)"
+        },
+        {
+          "title": "Pekings Direktive: Chinas Autoindustrie integriert selbstdenkende KI in alle EVs",
+          "body": "Nach einer offiziellen Direktive aus Peking bündeln chinesische Automobilhersteller ihre Ressourcen, um KI tief in Fahrzeugsysteme zu integrieren. Xpengs aktualisiertes Modell erlaubt Sprachbefehle wie 'Parke nahe am Eingang des Einkaufszentrums' – das Fahrzeug navigiert anhand von Kameradaten ohne Karte oder GPS-Koordinaten. Das Ziel: eine neue Generation selbstdenkender Elektrofahrzeuge, die ausschließlich auf chinesischen Chips und chinesischer Software laufen.",
+          "relevance": "Diese staatlich forcierte KI-Vertiefung könnte westliche Assistenzsystem-Anbieter langfristig aus dem chinesischen Markt verdrängen und einen eigenständigen globalen Technologiestandard für softwaredefinierende Fahrzeuge setzen.",
+          "source": "GV Wire / ChinaTechNews (24. April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Chips & Halbleiter",
+      "items": [
+        {
+          "title": "TSMC kündigt A13- und N2U-Knoten für 2029 an; SK Hynix meldet HBM-Rekordnachfrage",
+          "body": "TSMC veröffentlichte seine Produktions-Roadmap mit den Prozessknoten A13 und N2U für Serienproduktion ab 2029 sowie die Eröffnung einer neuen Packaging-Anlage in Arizona. SK Hynix und Intel meldeten starke Q1-2026-Zahlen, getrieben durch explodierende HBM-Nachfrage für Nvidias KI-Ökosystem. Nvidia vertiefte seine Infrastrukturpartnerschaften durch einen Sovereign-AI-Deal mit BT sowie eine Allianz mit Google Cloud für Vera-Rubin-powered Instanzen und Blackwell-GP-Prozessoren. PC-Chiphersteller warnten gleichzeitig vor neuen CPU-Engpässen, die die Lieferkette bis 2027 belasten könnten.",
+          "relevance": "Die Roadmap-Ankündigung von TSMC definiert die KI-Chip-Generation der späten 2020er Jahre; HBM-Engpässe könnten das Tempo des KI-Infrastrukturausbaus weltweit bremsen.",
+          "source": "Distill Intelligence Semiconductors Briefing / Digitimes (24. April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Robotik",
+      "items": [
+        {
+          "title": "DEEP Robotics auf Hannover Messe: Industrieroboter-Hunde im globalen Einsatz",
+          "body": "Das chinesische Unternehmen DEEP Robotics stellte auf der Hannover Messe 2026 drei Vierbein-Roboter vor, darunter den X30 mit LiDAR, 360°-Kamerasystem und Thermalsensoren. Inspektionsdaten werden in Echtzeit in ein Digital-Twin-System eingespeist und von einer zentralen Leitstelle koordiniert. Die Roboter sind bereits in Schweizer und deutschen Industrieanlagen im Einsatz – für Gaslecksuche, Überlastprüfung und Teilentladungsscans in Treppen und Tunneln – in über 50 Ländern.",
+          "relevance": "DEEP Robotics hält laut eigenen Angaben den globalen Marktführerstatus im Segment industrieller Laufroboter (2025); der Auftritt illustriert, wie schnell chinesische Robotik-Unternehmen etablierte Industriemärkte in Europa durchdringen.",
+          "source": "GlobeNewsWire (24. April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin & Biologie",
+      "items": [
+        {
+          "title": "Nanodisc-Technologie enthüllt versteckte Angriffspunkte bei HIV und Ebola",
+          "body": "Wissenschaftler nutzten Nanodisc-Technologie, um virale Membranproteine in einer Konfiguration zu untersuchen, die lebenden Viren nah kommt. Dabei wurden bislang verborgene Epitope an der Oberfläche von HIV- und Ebola-Hüllproteinen sichtbar, die bisher durch klassische Isolationsmethoden verloren gingen. Diese Schwachstellen könnten als Zielstrukturen für neue Impfstoffe oder breit wirksame antivirale Therapeutika dienen.",
+          "relevance": "Breit wirksame Impfstoffe gegen HIV und Ebola sind seit Jahrzehnten ein ungelöstes Problem; die Methode ermöglicht strukturbiologische Einblicke, die bisher technisch nicht zugänglich waren.",
+          "source": "ScienceDaily / Health & Medicine News (24. April 2026)"
+        },
+        {
+          "title": "Baxdrostat senkt Blutdruck um 14 mmHg – größter Effekt einer neuen Wirkstoffklasse",
+          "body": "In einer Phase-III-Studie reduzierte der Aldosteron-Synthase-Hemmer Baxdrostat den systolischen Blutdruck um rund 14 mmHg gegenüber Placebo – einer der größten je gemessenen Effekte eines einzelnen Antihypertensivums. Das Medikament blockiert selektiv das Enzym CYP11B2, das Aldosteron produziert, ohne andere Steroidhormone signifikant zu beeinträchtigen. Die Ergebnisse sind besonders relevant für therapieresistente Hypertonie.",
+          "relevance": "Über 1,3 Milliarden Menschen leiden weltweit an Bluthochdruck; ein neues Wirkprinzip mit diesem Ausmaß könnte die Behandlung schwer kontrollierbarer Hypertonie revolutionieren und das kardiovaskuläre Risiko stark senken.",
+          "source": "ScienceDaily / Health & Medicine News (24. April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Quantencomputing",
+      "items": [
+        {
+          "title": "IonQ demonstriert ersten Remote-Photonen-Interconnect zwischen zwei Ionenfallen",
+          "body": "IonQ und das Air Force Research Laboratory (AFRL) realisierten erstmals einen erfolgreichen Remote-Photonen-Interconnect zwischen zwei unabhängigen Ionenfallen-Quantensystemen: Verschränkung wurde über eine optische Verbindung hergestellt, die Vernetzung kommerzieller Quantenprozessoren damit praktisch bewiesen. IonQ wurde außerdem für das DARPA-Programm HARQ (Heterogeneous Architectures for Quantum) ausgewählt, das Multi-Qubit-Modalitäten kombinieren und skalierbare Quantenarchitekturen entwickeln soll.",
+          "relevance": "Verteilte Quantennetzwerke sind ein entscheidender Enabler für skalierbare Quantencomputer; dieser Durchbruch markiert den Übergang von Einzelsystem- zu Netzwerk-Quantenarchitekturen und legt die Grundlage für ein Quanteninternet.",
+          "source": "DARPA / Quantum Computing Report (April 2026)"
+        }
+      ]
+    }
+  ]
+}
