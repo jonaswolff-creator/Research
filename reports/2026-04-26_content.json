@@ -1,0 +1,143 @@
+{
+  "date": "2026-04-26",
+  "generated_date": "2026-04-27",
+  "footer_sources": "TechCrunch, Bloomberg, DeepSeek API Docs, ScienceDaily, My Engineers, Sony AI, NASA, Space.com, Scientific American, The AI Journal / APASL 2026, ACEA, Planet News, EurekAlert, Quantum Computing Report, NASA APOD, New Space Tracker, Semiwiki / TSMC, Omdia",
+  "sections": [
+    {
+      "heading": "Künstliche Intelligenz",
+      "items": [
+        {
+          "title": "DeepSeek V4: Open-Source-Modell mit 1,6-Billionen-Parametern und 1M-Token-Kontext",
+          "body": "DeepSeek veröffentlichte am 24. April 2026 das V4-Modell als Open-Source unter MIT-Lizenz in zwei Varianten: V4-Pro mit 1,6 Billionen Gesamtparametern (49 Mrd. aktiv pro Token, vortrainiert auf 33 Billionen Tokens) und V4-Flash mit 284 Mrd. Parametern. Die Architektur kombiniert Compressed Sparse Attention (CSA) und Heavily Compressed Attention (HCA) für effiziente Verarbeitung langer Kontexte – V4-Pro benötigt bei 1M-Token-Kontext nur 27 % der Rechenoperationen und 10 % des KV-Cache von V3.2. Neu eingeführt wurden Manifold-Constrained Hyper-Connections (mHC) zur Signalstabilisierung sowie der Muon-Optimizer für schnellere Konvergenz.",
+          "relevance": "DeepSeek V4 schließt laut Benchmarks die Lücke zu proprietären Frontier-Modellen in Coding und Reasoning – als vollständig offenes Modell unter MIT-Lizenz ein bedeutender Schritt zur Demokratisierung leistungsstarker KI-Systeme.",
+          "source": "TechCrunch / Bloomberg / DeepSeek API Docs (24. April 2026)"
+        },
+        {
+          "title": "Neuromorphes Hafniumoxid-Chip: KI-Energieverbrauch um bis zu 70 % gesenkt",
+          "body": "Forscher haben ein nanoelektronisches Bauteil aus modifiziertem Hafniumoxid entwickelt, das Informationsverarbeitung und Speicherung biologischer Neuronen in einer einzigen Einheit imitiert. Das Device ahmt synaptische Plastizität nach und kommt ohne klassische Von-Neumann-Trennung von Prozessor und Speicher aus. Im Vergleich zu konventionellen Transistorarchitekturen soll der Energieverbrauch um bis zu 70 % sinken.",
+          "relevance": "Neuromorphe Chips adressieren das größte Skalierbarkeitsproblem moderner KI: den explodierenden Energiebedarf großer Sprachmodelle und KI-Rechenzentren, der zunehmend als kritische Infrastrukturgrenze gilt.",
+          "source": "ScienceDaily (22. April 2026)"
+        },
+        {
+          "title": "Claude Mythos Preview: KI plant und führt Cyber-Operationen autonom aus",
+          "body": "Anthropics neuestes Modell Claude Mythos Preview wird als das bisher leistungsfähigste der Claude-Familie eingestuft. Tests zeigen, dass das Modell eigenständig komplexe Cyber-Operationen planen und ausführen kann – mit minimaler menschlicher Anleitung und bei Geschwindigkeiten, die menschliche Fähigkeiten weit übertreffen.",
+          "relevance": "Die autonome Handlungsfähigkeit von Claude Mythos markiert einen qualitativen Sprung in der Agentic-AI-Entwicklung mit weitreichenden Implikationen für Cybersicherheit und KI-Governance.",
+          "source": "My Engineers (26. April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Robotik",
+      "items": [
+        {
+          "title": "Sony AI Project Ace: Erster Roboter auf Elite-Niveau im Tischtennis",
+          "body": "Sony AI präsentierte mit Project Ace das weltweit erste bekannte autonome System, das mit Elite- und Profi-Tischtennisspielern auf Augenhöhe konkurrieren kann. Das System kombiniert Echtzeit-Bildverarbeitung, hochpräzise Motorsteuerung und KI-basierte Spielstrategie. Project Ace ist damit der erste dokumentierte Fall, in dem ein Roboter menschliches Expertenniveau in einem weit verbreiteten Wettkampfsport in der physischen Welt erreicht hat.",
+          "relevance": "Die Überwindung der Reaktions- und Koordinationslücke zwischen Mensch und Roboter in hochdynamischen Umgebungen ist ein Meilenstein auf dem Weg zu universell einsetzbaren physischen KI-Systemen.",
+          "source": "Sony AI (April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Raumfahrt",
+      "items": [
+        {
+          "title": "Progress MS-34 erfolgreich gestartet: 3 Tonnen Versorgungsgüter für ISS-Expedition 74",
+          "body": "Das unbemannte Frachtraumschiff Progress MS-34 (NASA-Bezeichnung: Progress 95) startete am 25./26. April 2026 mit einer Sojus-Rakete vom Baikonur-Kosmodrom und transportiert rund drei Tonnen Lebensmittel, Treibstoff und Ausrüstung für die Expedition-74-Besatzung. Es ist der 187. Flug eines Progress-Raumschiffs. Das autonome Andocken am Swesda-Modul der ISS ist für den 27. April 2026 geplant.",
+          "relevance": "Regelmäßige Versorgungsflüge sichern den Dauerbetrieb der ISS und demonstrieren die trotz geopolitischer Spannungen weiterhin funktionierende russisch-amerikanische Zusammenarbeit in der bemannten Raumfahrt.",
+          "source": "NASA / Space.com (25.–26. April 2026)"
+        },
+        {
+          "title": "Nancy Grace Roman Space Telescope: NASA bestätigt Startfenster September 2026",
+          "body": "NASA-Administrator Jared Isaacman hat das Startfenster für das Nancy Grace Roman Space Telescope auf September 2026 festgelegt. Das Multimilliarden-Dollar-Observatorium soll die beschleunigte Expansion des Universums untersuchen, Dunkle Energie kartieren und Tausende Exoplaneten abbilden. Roman verfügt über ein Sichtfeld, das 100-mal größer ist als das von Hubble.",
+          "relevance": "Das Roman-Teleskop gilt als nächste große astronomische Revolution nach JWST – mit der Kapazität, in Einzelaufnahmen mehr Himmelsobjekte zu erfassen als Hubble in Jahrzehnten Betrieb.",
+          "source": "Scientific American (April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin & Biologie",
+      "items": [
+        {
+          "title": "Hepatitis B: Kombinationstherapie BRII-179 + Elebsiran zeigt stabilen HBsAg-Verlust",
+          "body": "Brii Biosciences präsentierte auf dem 35. APASL-Jahrestreffen am 26. April 2026 eine Kreuzstudienanalyse zu HBsAg-Rebound-Profilen nach Behandlungsende. Die Auswertung der Phase-2-Studien ENSURE und BRII-179-002 zeigt, dass die Kombination aus BRII-179 und Elebsiran bei NRTI-erfahrenen Patienten mit chronischer HBV-Infektion stabilen HBsAg-Verlust induzieren kann. Die Ergebnisse stärken das Konzept einer funktionellen HBV-Heilung durch Kombinations-Immuntherapie.",
+          "relevance": "Chronische Hepatitis-B betrifft weltweit rund 296 Millionen Menschen und verursacht jährlich über 800.000 Todesfälle – eine dauerhafte Heilungsstrategie wäre ein globaler medizinischer Durchbruch.",
+          "source": "The AI Journal / APASL 2026 (26. April 2026)"
+        },
+        {
+          "title": "RNA-Barcodes kartieren neuronale Synapsen mit Einzelsynapsen-Präzision",
+          "body": "Forscher haben eine neue Technik entwickelt, die RNA-Barcodes einsetzt, um neuronale Verbindungen im Gehirn mit Einzelsynapsen-Auflösung zu kartieren. Die Methode erfasst gleichzeitig Tausende synaptischer Verbindungen und ermöglicht erstmals eine systematische Kartierung komplexer neuronaler Netzwerke auf einer bisher unerreichten Detailebene.",
+          "relevance": "Ein präzises Konnektom des Gehirns ist Grundvoraussetzung für das Verständnis neurologischer Erkrankungen wie Alzheimer und Autismus und liefert Inspiration für biologisch realistische KI-Architekturen.",
+          "source": "ScienceDaily (April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Automobilindustrie",
+      "items": [
+        {
+          "title": "BYD Megawatt-Flash-Ladesystem: 400 km Reichweite in 5 Minuten",
+          "body": "BYD hat ein Megawatt-Flash-Ladesystem vorgestellt, das in nur fünf Minuten Ladezeit eine Reichweite von 400 Kilometern liefert. Das System operiert im Megawattbereich und setzt damit neue Industriemaßstäbe für Ladegeschwindigkeit. Die Ladezeit rückt damit in einen Bereich, der mit konventionellen Tankstopps bei Verbrennungsmotoren vergleichbar ist.",
+          "relevance": "Lange Ladezeiten sind eines der zentralen Hemmnisse für die Akzeptanz von Elektrofahrzeugen – ein derartiger Durchbruch könnte die globale EV-Adoption erheblich beschleunigen.",
+          "source": "Planet News / InsideEVs (April 2026)"
+        },
+        {
+          "title": "ACEA: Elektroautos erreichen 19,4 % EU-Marktanteil in Q1 2026",
+          "body": "Der europäische Automobilherstellerverband ACEA meldete für das erste Quartal 2026 einen Marktanteil batterieelektrischer Fahrzeuge von 19,4 %, gegenüber 15,2 % im Vorjahresquartal. Die Gesamtzahl der EU-Neuzulassungen stieg um 4 %. Der EV-Marktanteil nähert sich damit der symbolisch bedeutsamen 20-Prozent-Schwelle.",
+          "relevance": "Der steigende EV-Marktanteil verdeutlicht die Beschleunigung der Elektrifizierung des europäischen Transportwesens und erhöht den Druck auf Ladeinfrastruktur, Stromnetzkapazitäten und Rohstoffversorgung.",
+          "source": "ACEA (April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Quantencomputing",
+      "items": [
+        {
+          "title": "Pennsylvania startet staatsweites KI- und Quantenforschungsnetzwerk \"Keystone AI + Quantum Factory\"",
+          "body": "Der US-Bundesstaat Pennsylvania hat am 25. April 2026 das Keystone AI + Quantum Factory gestartet – ein Innovationsnetzwerk führender Forschungsuniversitäten, das KI- und Quantenforschung in industrielle Anwendungen überführen soll. Schwerpunkte sind Energie, Fertigung und Biowissenschaften. Das Programm umfasst gemeinsam genutzte Advanced-Computing-Infrastruktur und gezielte Fachkräfteentwicklung.",
+          "relevance": "Die Initiative reiht sich in den wachsenden nationalen Wettbewerb um Führungspositionen im Quantencomputing ein – einem Bereich mit strategischer Bedeutung für Kryptographie, Materialwissenschaft und Arzneimittelforschung.",
+          "source": "EurekAlert! (25. April 2026)"
+        },
+        {
+          "title": "NQAC vergibt fünf Grand-Challenge-Forschungspreise für praxistaugliche Quanten-Algorithmen",
+          "body": "Das National Quantum Algorithm Center (NQAC) hat fünf Grand-Challenge-Awards für 2026 vergeben, die Postdoktoranden in Kooperationen zwischen Universitäten, Quantenunternehmen und Industrie fördern. Ziel ist die Entwicklung praxistauglicher Quantenanwendungen in den Bereichen Energie, Chemie und Medikamentenentwicklung, um theoretische Quantenvorteile in reale Lösungen zu überführen.",
+          "relevance": "Die Überbrückung von Theorie und Praxis ist die zentrale Herausforderung des Quantencomputings – gezielte Förderung in Schlüsselbranchen beschleunigt diesen Übergang konkret.",
+          "source": "Quantum Computing Report (April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "NASA APOD: Hubble zeigt \"Mystic Mountain\" im Carina-Nebel",
+          "body": "Das NASA Astronomy Picture of the Day vom 26. April 2026 präsentiert eine Hubble-Aufnahme der Mystic-Mountain-Region im Carina-Nebel, rund 7.500 Lichtjahre entfernt. Zu sehen sind monumentale Gas- und Staubsäulen, die durch intensive UV-Strahlung und Sternwinde junger, massereicher Sterne geformt und langsam zerstört werden.",
+          "relevance": "Hochauflösende Bilder aktiver Sternbildungsregionen liefern empirische Testdaten für astrophysikalische Simulationsmodelle und veranschaulichen die physikalischen Prozesse, die Planetensysteme hervorbringen.",
+          "source": "NASA APOD (26. April 2026)"
+        },
+        {
+          "title": "JWST: Spektraldaten für Dutzende Exoplaneten verschiedener Klassen akkumuliert",
+          "body": "Nach fast vier Jahren Betrieb hat das James-Webb-Weltraumteleskop Transmissions- und Emissionsspektren für Dutzende Exoplaneten gesammelt – von heißen Jupitern bis zu felsigen Super-Erden. Die wachsende Datenbasis ermöglicht erstmals systematische atmosphärische Vergleiche verschiedener Planetenklassen, inklusive Nachweis von Wasserdampf, CO₂ und potenziell biomarkerrelevanten Molekülen.",
+          "relevance": "Die akkumulierten JWST-Atmosphärendaten revolutionieren die Exoplanetenforschung und bringen die empirische Suche nach potenziell bewohnbaren Welten außerhalb unseres Sonnensystems in greifbare Nähe.",
+          "source": "New Space Tracker / JWST Science (April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Halbleiter & Prozessoren",
+      "items": [
+        {
+          "title": "Arm AGI CPU: Arm Holdings bringt ersten eigenen Produktionschip auf den Markt",
+          "body": "Arm Holdings hat mit dem Arm AGI CPU seinen ersten vollständig selbst entwickelten Produktionschip vorgestellt, basierend auf Neoverse-V3-Kernen und gefertigt im TSMC-3-nm-Prozess. Das Unternehmen steigt damit direkt in die Chipfertigung ein, statt ausschließlich Architekturlizenzen zu verkaufen. Der Schritt signalisiert eine strategische Neuausrichtung in der Halbleiterindustrie.",
+          "relevance": "Arms direkter Einstieg in die Chipproduktion könnte das seit Jahrzehnten etablierte Lizenzmodell der Halbleiterindustrie grundlegend verändern und Spannungen mit langjährigen Lizenznehmern wie Qualcomm und Apple erzeugen.",
+          "source": "Omdia / Semiwiki (März–April 2026)"
+        },
+        {
+          "title": "TSMC N2U: 3–4 % Geschwindigkeitsgewinn und 10 % Energieeinsparung gegenüber N2",
+          "body": "TSMC hat auf dem Technology Symposium 2026 Details zum verbesserten N2U-Prozessknoten veröffentlicht. Im Vergleich zum N2-Basisknoten liefert N2U einen 3–4 % Geschwindigkeitsvorteil bei gleicher Leistungsaufnahme sowie bis zu 10 % Energieeinsparung bei gleicher Geschwindigkeit. Die Verbesserungen basieren auf Design-Technology Co-Optimization (DTCO).",
+          "relevance": "TSMCs N2/N2U-Nodes bilden die Fertigungsgrundlage der nächsten Generation von KI-Beschleunigern und Smartphone-SoCs – Effizienzgewinne auf Chipfertigungsebene wirken direkt auf globale Geräte- und Serverleistung.",
+          "source": "Semiwiki / TSMC Technology Symposium 2026 (April 2026)"
+        }
+      ]
+    }
+  ]
+}
