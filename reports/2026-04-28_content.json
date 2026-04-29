@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-28",
+  "generated_date": "2026-04-29",
+  "footer_sources": "TechCrunch, CNBC, SiliconANGLE, The Register, AccessNewswire, MIT News, ScienceDaily, EurekAlert, Spaceflight Now, Space.com, NASA Blog, TechStartups.com, Tokyo University of Science, JPL/NASA",
+  "sections": [
+    {
+      "heading": "Künstliche Intelligenz",
+      "items": [
+        {
+          "title": "Ineffable Intelligence: 1,1 Mrd. USD Seed für RL-basierten Superlearner ohne Human-Daten",
+          "body": "Das britische KI-Labor Ineffable Intelligence – gegründet von David Silver, dem langjährigen Leiter des Reinforcement-Learning-Teams bei Google DeepMind und Schöpfer von AlphaGo – sammelte in Europas bisher größter Seed-Runde 1,1 Milliarden USD bei einer Bewertung von 5,1 Milliarden USD ein. Co-Leader sind Sequoia und Lightspeed; weitere Investoren umfassen Nvidia, Google, DST Global und den britischen Sovereign AI Fund. Silvers Ziel ist ein „Superlearner“: ein KI-System, das sämtliches Wissen durch eigene Erfahrung per Reinforcement Learning entdeckt – vollständig ohne menschlich erzeugte Trainingsdaten. Ein konkretes Produkt oder eine öffentliche Roadmap existiert bislang nicht.",
+          "relevance": "Für KI-Studierende besonders relevant: Ineffable setzt ausschließlich auf Reinforcement Learning (RL) als Lernparadigma – eine direkte Gegenthese zur Dominanz von Supervised-Learning- und RLHF-basierten Large Language Models. Die Runde signalisiert, dass der Markt trotz bisheriger Skalierungsschwierigkeiten von RL außerhalb von Spielumgebungen erneut stark an einen RL-First-Pfad zu Superintelligenz glaubt.",
+          "source": "TechCrunch (27.04.2026); CNBC (27.04.2026); SiliconANGLE (27.04.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Halbleiter & Prozessoren",
+      "items": [
+        {
+          "title": "Tenstorrent Galaxy Blackhole: RISC-V-KI-Server ab 28. April allgemein verfügbar",
+          "body": "Tenstorrent hat am 28. April die General Availability (GA) seiner Galaxy-Blackhole-Plattform bekannt gegeben. Jedes 6U-Chassis enthält 32 Blackhole-Beschleuniger mit 1 TB GDDR6, 16 TB/s Speicherbandbreite, 23 Petaflops FP8-Rechenleistung und 100 Tbit/s Aggregat-Interconnect-Bandbreite. Der Listenpreis beträgt 110.000 USD pro System; ein Galaxy Supercluster aus vier Einheiten kostet 440.000 USD. Die Architektur skaliert ohne proprietäre Interconnects von einem Kern bis zu Tausenden von Servern unter einem einheitlichen Softwaremodell. Erste Datacenter-Kunden sind Cirrascale, Equinix und das japanische Unternehmen ai&.",
+          "relevance": "Tenstorrent ist einer der wenigen ernsthaften Challengers gegenüber Nvidias Dominanz im KI-Accelerator-Markt und baut auf eine offene RISC-V-Basis. Der Verzicht auf proprietäre Interconnects ist ein direkter Angriff auf Nvidias NVLink/NVSwitch-Ökosystem und adressiert den Vendor-Lock-in als zentralen Kritikpunkt großer Cloud-Anbieter.",
+          "source": "The Register (28.04.2026); AccessNewswire (28.04.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin & Biologie",
+      "items": [
+        {
+          "title": "MIT: Selbstorganisierender Pencil-Beam-Laser bildet Blut-Hirn-Schranke 25-mal schneller ab",
+          "body": "Forscher des MIT entdeckten, dass chaotisches Laserlicht sich unter spezifischen optischen Bedingungen spontan zu einem hochfokussierten „Pencil Beam” selbst organisiert – ein Verhalten, das klassische Optiktheorie nicht vorhersagte. Mit diesem Strahl erzeugten sie vollständige 3D-Volumina der menschlichen Blut-Hirn-Schranke (BBB) bei 25-fach höherer Geschwindigkeit als das bisherige Goldstandard-Verfahren, bei vergleichbarer Auflösung. Zusätzlich lässt sich in Echtzeit beobachten, wie Wirkstoffmoleküle durch Einzelzellen der BBB transportiert werden. Das Team plant Kommerzialisierung sowie die Ausweitung auf direkte Neuronen-Bildgebung.",
+          "relevance": "Die Blut-Hirn-Schranke ist das größte pharmakologische Hindernis bei ZNS-Therapien (Alzheimer, ALS, Hirntumoren). Ein 25-facher Geschwindigkeitsgewinn bei der 3D-BBB-Bildgebung könnte die Vorauswahl hirngängiger Wirkstoffe drastisch beschleunigen und Tierversuchszahlen in der Wirkstoffforschung senken.",
+          "source": "ScienceDaily (28.04.2026); MIT News (27.04.2026)"
+        },
+        {
+          "title": "Enzym zyklisiert labile Peptidmoleküle – Haltbarkeit von GLP-1-Medikamenten wie Ozempic verlängerbar",
+          "body": "Forschende identifizierten ein Enzym, das fragile lineare Peptidstrukturen effizient in stabile Ringformen (zyklische Peptide) umwandelt. Zyklisierte Moleküle sind deutlich resistenter gegenüber proteolytischem Abbau im Körper. Als direkte Anwendung nennen die Autoren GLP-1-Agonisten wie Semaglutid (Ozempic/Wegovy): Eine enzymatische Zyklisierung könnte deren Halbwertszeit im Organismus verlängern, niedrigere Dosierungen ermöglichen und Nebenwirkungen reduzieren.",
+          "relevance": "GLP-1-Agonisten gehören zu den umsatzstärksten Medikamenten weltweit und gelten als Revolution in der Adipositas- und Diabetestherapie. Eine erhöhte Molekülstabilität durch Zyklisierung könnte Produktionskosten senken, die Injektionsfrequenz verringern und orale Formulierungen mittelfristig erreichbar machen.",
+          "source": "ScienceDaily / TechStartups.com (28.04.2026)"
+        },
+        {
+          "title": "Curiosity-Rover entdeckt überraschende Vielfalt organischer Moleküle auf dem Mars",
+          "body": "Der NASA-Rover Curiosity hat in alten, tonreichen Sedimentgesteinen des Gale-Kraters eine unerwartet breite Palette organischer Verbindungen nachgewiesen – darunter Molekülklassen, die auf der Erde eng mit biologischer Chemie assoziiert sind. Die Verbindungen könnten mehrere Milliarden Jahre alt sein und wurden in einstmals wasserführenden Schichten gefunden. Die Entstehung (abiotisch oder biotisch) bleibt ungeklärt; das Ergebnis stärkt jedoch die Hypothese, dass der frühe Mars die chemischen Vorbedingungen für Leben erfüllte.",
+          "relevance": "Jede Entdeckung komplexer organischer Chemie auf dem Mars hält die Frage der vergangenen Habitabilität offen. Die dokumentierte Vielfalt der Molekülklassen ist ein zusätzliches wissenschaftliches Argument für die Prioritisierung der Mars Sample Return-Mission, die Proben zur Analyse in irdische Labore bringen soll.",
+          "source": "TechStartups.com (28.04.2026); NASA / JPL"
+        }
+      ]
+    },
+    {
+      "heading": "Physik & Quantenphysik",
+      "items": [
+        {
+          "title": "Positronium erstmals als Quantenwelle beobachtet – Antimaterie bestätigt Welle-Teilchen-Dualismus",
+          "body": "Ein Team der Tokyo University of Science unter Professor Yasuyuki Nagashima hat erstmals Wellendiffraktion in einem Strahl aus Positronium-Atomen nachgewiesen – dem instabilen Gebilde aus einem Elektron und seinem Antimaterie-Pendant, dem Positron. Im Doppelspalt-Experiment erzeugte der Positronium-Strahl kohärente Interferenzmuster und verhielt sich als einheitliches Quantenobjekt, nicht als zwei separate Teilchen. Damit ist der Welle-Teilchen-Dualismus erstmals direkt für ein Antimaterie-Atom experimentell belegt. Die Ergebnisse erschienen am 28. April auf ScienceDaily.",
+          "relevance": "Dieser Nachweis ist ein fundamentaler Test der Quantenmechanik jenseits der Materie-Welt. Positronium trägt keine elektrische Nettoladung und eignet sich daher als nicht-störende Sonde für Materialoberflächen – insbesondere für Isolatoren und magnetische Materialien, bei denen geladene Teilchenstrahlen scheitern. Langfristig eröffnet dies neue Messmethoden für Gravitationsexperimente mit Antimaterie.",
+          "source": "ScienceDaily (28.04.2026); Tokyo University of Science"
+        }
+      ]
+    },
+    {
+      "heading": "Luft- und Raumfahrt",
+      "items": [
+        {
+          "title": "SpaceX Falcon Heavy: Zweiter Startversuch mit ViaSat-3 F3 ebenfalls abgebrochen – neuer Termin 29. April",
+          "body": "Nach dem wetterbedingten Abbruch am 27. April unternahm SpaceX am 28. April einen zweiten Startversuch für die Falcon-Heavy-Rakete mit dem finalen ViaSat-3-Satelliten (F3) vom Launch Complex 39A. Auch dieser Versuch wurde abgebrochen; Space.com meldete als nächstes Startfenster den 29. April. Es handelt sich um den ersten Falcon-Heavy-Einsatz seit 18 Monaten. ViaSat-3 F3 soll nach der Platzierung das globale Hochkapazitäts-Breitbandnetz von Viasat als dritter und letzter Satellit der Serie komplettieren.",
+          "relevance": "Die Rückkehr des Falcon Heavy nach 18 Monaten Pause zeigt den zunehmenden Bedarf an schwerer Nutzlastkapazität im kommerziellen Markt. Wiederholte wetterbedingte Abbrüche verdeutlichen, wie sehr atmosphärische Bedingungen selbst hochentwickelte Trägerraketen im Startkalender einschränken.",
+          "source": "Spaceflight Now (28.04.2026); Space.com (28.04.2026)"
+        },
+        {
+          "title": "NASA Artemis III: SLS-Kernstufe per Barge am Kennedy Space Center eingetroffen",
+          "body": "Die NASA-Transporthbarge Pegasus hat die oberen vier Fünftel der SLS-Kernstufe für die Artemis-III-Mission am Kennedy Space Center abgeliefert. Das Bauteil wurde per Binnenschiff vom Michoud Assembly Facility in New Orleans transportiert und legte am 27. April am Turn-Basin-Kai des Komplexes 39 an. Die Kernstufe wird anschließend im Vehicle Assembly Building (VAB) mit dem Oberstufensystem und dem Orion-Raumschiff zur vollständigen Artemis-III-Rakete integriert. Artemis III soll die erste bemannte Mondlandung seit Apollo 17 (1972) durchführen.",
+          "relevance": "Die physische Ankunft der Kernstufe am KSC ist ein konkreter Meilenstein im oft verzögerten Artemis-Zeitplan und bringt die Mission einen messbaren Schritt näher. Eine erfolgreiche Artemis-III-Landung würde die Grundlage für die permanente Mondpräsenz via Gateway legen und das US-amerikanische Mondprogramm gegenüber Chinas Lunarmission strategisch positionieren.",
+          "source": "NASA Blog (27.04.2026); Spaceflight Now"
+        }
+      ]
+    }
+  ]
+}
