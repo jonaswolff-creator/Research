@@ -1,0 +1,132 @@
+{
+  "date": "2026-04-30",
+  "generated_date": "2026-05-01",
+  "footer_sources": "VentureBeat, TechCrunch, DataCamp, devFlokers, CFR, NASA, Space.com, Spaceflight Now, ScienceDaily, phys.org, Bloomberg, QuantoSei News, Yahoo Finance, The Quantum Insider, University of Delaware, GlobeNewswire",
+  "sections": [
+    {
+      "heading": "Künstliche Intelligenz",
+      "items": [
+        {
+          "title": "DeepSeek V4 veröffentlicht – Frontier-Leistung zum Bruchteil der Kosten",
+          "body": "DeepSeek hat am 29. April 2026 sein lang erwartetes V4-Modell in zwei Varianten veröffentlicht: V4-Pro (1,6 Billionen Parameter, 49 Milliarden aktiv) und V4-Flash (284 Milliarden Parameter, 13 Milliarden aktiv). Beide Modelle sind unter MIT-Lizenz open-weights und unterstützen ein 1-Millionen-Token-Kontextfenster. Auf agentischen Benchmarks erreicht V4-Pro Ergebnisse gleichauf mit GPT-5.5 und Claude Opus 4.7 – zu etwa 10–13× niedrigeren API-Kosten pro Output-Token (1,74 $ pro Million Input-Token). Architektonisch setzt DeepSeek V4 auf eine Mixture-of-Experts-Architektur (MoE), bei der nur 49 von 1.600 Milliarden Parametern je Inferenzschritt aktiv sind, was die Recheneffizienz drastisch erhöht.",
+          "relevance": "Die Kombination aus Frontier-Leistung, offenem Gewichts-Release und extrem niedrigen Kosten verschiebt die Wettbewerbsdynamik im LLM-Markt erheblich. Für KI-Studenten besonders relevant: Die MoE-Architektur ist ein zentrales Forschungsfeld, und DeepSeek V4 zeigt, dass sparse activation auf industriellem Maßstab funktioniert.",
+          "source": "VentureBeat / DataCamp / CFR (30. April 2026)"
+        },
+        {
+          "title": "GPT-5.5: OpenAIs erstes Modell mit echtem 1M-Token-Kontextfenster",
+          "body": "OpenAI hat GPT-5.5 am 23. April 2026 veröffentlicht; am 30. April folgten erweiterte Verfügbarkeit und neue Sicherheitsfeatures. Das Modell ist das erste von OpenAI, bei dem das 1-Millionen-Token-Kontextfenster tatsächlich ohne Qualitätsverlust nutzbar ist – Vorgänger GPT-5.4 degradierte ab etwa 128.000 Token. Es erscheint in zwei Varianten: Standard (5 $/M Input-Token) und GPT-5.5 Pro (ca. 6× teurer), das für komplexe Anwendungen in Recht, Bildung und Datenwissenschaft konzipiert ist. OpenAI kündigte zudem Advanced Account Security-Features an.",
+          "relevance": "Ein funktionsfähiges 1M-Token-Fenster eröffnet neue Anwendungsklassen wie vollständige Codebase-Analyse, lange wissenschaftliche Dokumente und persistente Agenten-Sitzungen – ein technischer Durchbruch in der praktischen Nutzbarkeit von LLMs.",
+          "source": "blog.greeden.me / OpenAI News (30. April 2026)"
+        },
+        {
+          "title": "Google Cloud: Wechsel zur 'Agentic Enterprise'-Strategie",
+          "body": "Google Cloud CEO Thomas Kurian stellte am 30. April 2026 die 'Agentic Enterprise'-Strategie vor, die KI von einem 'System of Intelligence' zu einem 'System of Action' transformiert. Parallel meldete Meta Platforms sein stärkstes Umsatzwachstum seit 2021 (+33 %), hob jedoch seine Capex-Prognose für 2026 auf bis zu 145 Milliarden Dollar an – ein Signal für den massiven Infrastrukturausbau für KI-Rechenzentren.",
+          "relevance": "Der Übergang von generativer KI zu autonomen Agenten-Systemen ist die prägende strategische Entwicklung des Jahres 2026. Die Capex-Zahlen zeigen, in welchem Ausmaß Großkonzerne in KI-Infrastruktur investieren.",
+          "source": "devFlokers AI Roundup (30. April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Raumfahrt & Luft- und Raumfahrttechnik",
+      "items": [
+        {
+          "title": "Ariane 6 bringt 32 Amazon-Kuiper-Satelliten in den Orbit",
+          "body": "Die europäische Trägerrakete Ariane 6 hob am 30. April 2026 um 4:57 Uhr EDT vom Weltraumbahnhof Kourou ab und brachte 32 Broadband-Satelliten für Amazons Project Kuiper in den niedrigen Erdorbit. Es war der siebte Flug der Ariane 6 insgesamt und der zweite Einsatz der stärksten Variante Ariane 64 mit vier Feststoffboostern (Mission VA268).",
+          "relevance": "Project Kuiper ist Amazons direkte Antwort auf SpaceX Starlink. Mit der Ariane 6 als zuverlässigem Träger stärkt Europa zugleich seine strategische Unabhängigkeit im Weltraumzugang.",
+          "source": "Space.com (30. April 2026)"
+        },
+        {
+          "title": "Russlands neue Sojus-5-Rakete besteht Jungfernflug",
+          "body": "Die russische Trägerrakete Sojus 5 absolvierte am 30. April 2026 ihren ersten Flug – einen suborbitalen Testflug vom Kosmodrom Baikonur in Kasachstan. Russische Raumfahrtbehörden bestätigten den Erfolg des Flugs. Die Sojus 5 ist die erste vollständig neue russische Trägerrakete seit Jahrzehnten und nutzt eine modernisierte Antriebsarchitektur.",
+          "relevance": "Der erfolgreiche Erstflug stärkt Russlands eigenständige Startkapazitäten in einer Zeit, in der der globale Wettbewerb im Weltraumsektor intensiver wird.",
+          "source": "Space.com (30. April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "TESS-Daten revidieren Planetenformations-Modelle: Rote Zwerge beherbergen Rocky Super-Earths",
+          "body": "Mit Daten des NASA-Satelliten TESS entdeckten Forscher, dass die häufigsten Sterne der Milchstraße – kleine, massearme Rote Zwerge – in großer Zahl felsige Super-Erden beherbergen, aber praktisch keine Sub-Neptuns. Letztere galten bislang als die häufigste Planetenklasse. Der Befund fordert bestehende Planetenformationstheorien grundlegend heraus.",
+          "relevance": "Die Überarbeitung der Häufigkeitsverteilung von Exoplaneten hat weitreichende Konsequenzen für die Suche nach erdähnlichen Welten und bewohnbaren Zonen in unserer Galaxis.",
+          "source": "Space.com / ScienceDaily (30. April 2026)"
+        },
+        {
+          "title": "FLAMINGO-Datensatz: 2,5 Petabyte simuliertes Universum frei verfügbar",
+          "body": "Ein internationales Astrophysiker-Team hat den FLAMINGO-Datensatz veröffentlicht – eine der größten kosmologischen Simulationen aller Zeiten mit 2,5 Petabyte simuliertem Universum, das frei zugänglich ist. Die Simulation modelliert, wie sich Materie seit dem Urknall entwickelt hat, und dient als Referenz für aktuelle und zukünftige Himmelsdurchmusterungen.",
+          "relevance": "Frei verfügbare Simulationsdaten in dieser Größenordnung beschleunigen die kosmologische Forschung weltweit und ermöglichen KI-gestützte Analysen großer Strukturen des Universums.",
+          "source": "Universe Today / Space.com (30. April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin & Biologie",
+      "items": [
+        {
+          "title": "Rote Blutkörperchen als mRNA-Vehikel für In-vivo-Krebsimmuntherapie",
+          "body": "Wissenschaftler des Westlake Laboratory of Life Sciences and Biomedicine in Hangzhou, China, haben eine Methode entwickelt, bei der konstruierte Erythrozyten (rote Blutkörperchen) als Träger für mRNA-Sequenzen dienen. Diese mRNA programmiert Myeloidzellen im Inneren des Körpers zu tumorzielenden Immunzellen um – ganz ohne ex-vivo-Entnahme und Modifikation von Immunzellen. Die Studie wurde in Science Translational Medicine veröffentlicht.",
+          "relevance": "Dieser Ansatz könnte die Zelltherapie drastisch vereinfachen und kostengünstiger machen, da die aufwendige Entnahme und Kultivierung patienteneigener Immunzellen entfällt.",
+          "source": "Science Translational Medicine / ScienceDaily (30. April 2026)"
+        },
+        {
+          "title": "T-Zellen töten präzise: Nanoskopische Kontaktzone entdeckt",
+          "body": "Forscher haben aufgedeckt, wie zytotoxische T-Zellen des Immunsystems Zielzellen mit hoher Präzision eliminieren, ohne benachbartes Gewebe zu beschädigen: Sie bilden eine hochorganisierte, nanoskopische Kontaktzone, über die Tödungssignale lokal und kontrolliert übertragen werden. Der Mechanismus erklärt, wie das Immunsystem chirurgisch vorgeht.",
+          "relevance": "Das Verständnis dieser molekularen Präzisionsmechanismen ist grundlegend für die Entwicklung verbesserter Immuntherapien und CAR-T-Zell-Behandlungen gegen Krebs.",
+          "source": "ScienceDaily (30. April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Chips & Prozessoren",
+      "items": [
+        {
+          "title": "Amazons Custom-Silicon-Geschäft erreicht 50-Milliarden-Dollar-Laufrate",
+          "body": "Amazons interne Chip-Sparte – hauptsächlich getragen durch die Graviton-Prozessoren-Serie – hat eine jährliche Umsatz-Laufrate erreicht, die als eigenständiges Unternehmen etwa 50 Milliarden Dollar entsprechen würde. Das macht Amazon zu einem der drei größten Rechenzentrum-Chip-Anbieter weltweit. Graviton-Chips bieten laut Amazon bis zu 40 % besseres Preis-Leistungs-Verhältnis gegenüber vergleichbaren x86-Prozessoren und werden von 98 % der Top-1.000-EC2-Kunden genutzt.",
+          "relevance": "Der Aufstieg hyperscaler-eigener Chip-Designs reduziert die Abhängigkeit von NVIDIA und Intel im Rechenzentrumsmarkt und verändert die Chipindustrie strukturell.",
+          "source": "QuantoSei News / Bloomberg (30. April 2026)"
+        },
+        {
+          "title": "EU Chips Act II: Direktinvestitionen in Halbleiter-Fabs geplant",
+          "body": "Die Europäische Kommission plant laut einem Bloomberg-Bericht vom 30. April 2026 eine überarbeitete Version des EU Chips Act, die es der EU-Exekutive erlaubt, direkt in Halbleiterfabriken zu investieren. Der Entwurf des 'Chips Act II', der Ende Mai erwartet wird, soll die Schwächen des Vorgängers von 2022 beheben, der sein 20-Milliarden-Euro-Ziel verfehlte.",
+          "relevance": "Europa will seine strategische Abhängigkeit von asiatischen und amerikanischen Chip-Lieferketten reduzieren; direkte Staatsinfrastruktur-Investitionen sind ein Paradigmenwechsel in der EU-Industriepolitik.",
+          "source": "Bloomberg (30. April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Automobilindustrie",
+      "items": [
+        {
+          "title": "Tesla Semi: Hochvolumen-Produktion an der Gigafactory Nevada angelaufen",
+          "body": "Tesla hat den ersten Semi-Truck vom neuen Hochvolumen-Produktionsband in der Gigafactory Nevada gerollt – ein entscheidender Meilenstein für das langverzögerte Elektro-Lkw-Programm. Die dedizierte 158.000 m² große Produktionsstätte ist damit offiziell in Betrieb. CEO Elon Musk deutete zudem an, dass der neue Roadster möglicherweise 'in einem Monat' debütieren könnte.",
+          "relevance": "Die Serienproduktion des Tesla Semi markiert den Einstieg von E-Trucks in den Schwerlastverkehr in großem Maßstab – ein Schlüsselsegment für die Dekarbonisierung des Güterverkehrs.",
+          "source": "Planet News / Engineers Outlook (30. April 2026)"
+        },
+        {
+          "title": "BYD Megawatt Flash Charging: 400 km Reichweite in 5 Minuten",
+          "body": "BYDs neuestes Schnellladesystem – Megawatt Flash Charging – liefert in nur fünf Minuten Ladezeit rund 400 Kilometer Reichweite. Die zugehörige fortschrittliche Batteriechemie bleibt laut BYD bis −30 °C voll funktionsfähig. Das System übertrifft damit bisherige Schnellladetechnologien deutlich und nähert sich der Tankgeschwindigkeit konventioneller Fahrzeuge.",
+          "relevance": "Ladegeschwindigkeit ist das zentrale Akzeptanzhemmnis für Elektroautos. Eine weitgehende Gleichstellung mit Verbrenner-Tankzeiten würde die Marktdurchdringung von EVs signifikant beschleunigen.",
+          "source": "Planet News / InsideEVs (30. April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Quantencomputing",
+      "items": [
+        {
+          "title": "Erstmals Quantenteleportation über 270 m Freifeldstrecke zwischen unabhängigen Quantenpunkten",
+          "body": "Wissenschaftler haben erstmals den Quantenzustand eines Photons über eine 270 Meter lange Freifeldverbindung zwischen zwei unabhängigen Quantenpunkten teleportiert. Dies beweist, dass Quanteninformation zwischen separaten Geräten ohne physische Verbindung übertragen werden kann – eine Grundvoraussetzung für ein zukünftiges Quanteninternet.",
+          "relevance": "Quantenteleportation über Freifeldstrecken zwischen unabhängigen Geräten ist ein fundamentaler Schritt hin zu skalierbaren Quantennetzwerken und letztlich zum Quanteninternet.",
+          "source": "The Quantum Insider / ScienceDaily (30. April 2026)"
+        },
+        {
+          "title": "EuroHPC inauguriert Lucy – Europas neuen Quantencomputer bei Paris",
+          "body": "Das EuroHPC Joint Undertaking hat den Quantencomputer 'Lucy' in der Nähe von Paris offiziell in Betrieb genommen. Lucy ist Teil Europas Strategie, eine souveräne, weltklassige Quantenrechen-Infrastruktur aufzubauen. Parallel dazu hat Pennsylvania sein 'Keystone AI + Quantum Factory'-Netzwerk gestartet, das die führenden Forschungsuniversitäten des Bundesstaates zur industriellen Verwertung von Quantenforschung vernetzt.",
+          "relevance": "Die Inbetriebnahme nationaler und regionaler Quantenrechner markiert den Übergang von Forschungslabors zu echter geteilter Infrastruktur – ein entscheidender Schritt zur Skalierung von Quantenanwendungen.",
+          "source": "The Quantum Insider (30. April 2026)"
+        }
+      ]
+    }
+  ]
+}
