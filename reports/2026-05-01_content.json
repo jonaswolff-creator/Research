@@ -1,0 +1,137 @@
+{
+  "date": "2026-05-01",
+  "generated_date": "2026-05-02",
+  "footer_sources": "Spaceflight Now, NASA.gov, VentureBeat, TechCrunch, MIT Technology Review, ScienceDaily, InsideEVs, Spaceflight Now, The Quantum Insider, Omdia / Informa Tech, NeuralBuddies AI Recap",
+  "sections": [
+    {
+      "heading": "Künstliche Intelligenz – Sprachmodelle & Architekturen",
+      "items": [
+        {
+          "title": "DeepSeek V4: Billiges Open-Source-Flaggschiff schließt Lücke zu Frontier-Modellen",
+          "body": "DeepSeek hat am 24. April 2026 seinen neuen V4 veröffentlicht – ein Mixture-of-Experts-Modell in zwei Varianten: V4-Pro mit 1,6 Billionen Gesamtparametern (49 Mrd. aktiv) und V4-Flash mit 284 Mrd. Parametern (13 Mrd. aktiv). Das Modell wurde auf Huawei-Ascend-Chips trainiert und verfügt über ein natives 1-Millionen-Token-Kontextfenster. V4-Flash kostet lediglich 0,14 US-Dollar pro Million Input-Tokens – rund siebenmal günstiger als Claude Opus 4.7 oder GPT-5.5.",
+          "relevance": "DeepSeek V4 belegt erneut, dass chinesische Labore mit westlichen Frontier-Modellen gleichziehen können, ohne proprietäre NVIDIA-Hardware zu nutzen. Das Preismodell setzt den gesamten API-Markt unter Druck und macht frontier-nahe Inferenz für deutlich breitere Anwendungsfälle erschwinglich.",
+          "source": "VentureBeat / TechCrunch (24. April 2026)"
+        },
+        {
+          "title": "April 2026: dichtester Monat der KI-Modell-Geschichte",
+          "body": "Innerhalb von sechs Wochen erschienen GPT-5.5 (OpenAI, 23. April), Claude Opus 4.7 (Anthropic, 16. April), DeepSeek V4 (24. April), Gemini 3.1 Pro (Google), Llama 4, Qwen 3 und Gemma 4. LLM-Stats protokollierte allein im Q1 2026 255 signifikante Modell-Releases von größeren Organisationen – etwa drei pro Tag. Multi-Modell-Routing, bei dem Anfragen dynamisch an das jeweils günstigste oder fähigste Modell verteilt werden, etabliert sich als zentrale Architekturantwort auf diese Vielfalt.",
+          "relevance": "Die Modelllandschaft konvergiert schnell: Open-Weight-Modelle erreichen auf Code und Mathematik Parität zu geschlossenen Systemen und unterbieten diese im Preis drastisch. Für KI-Entwickler bedeutet das, dass Modellauswahl und Routing-Logik zunehmend kritische Ingenieursaufgaben werden.",
+          "source": "MIT Technology Review, buildfastwithai.com, LLM-Stats (Mai 2026)"
+        },
+        {
+          "title": "KI-geplante Mars-Fahrten: Claude VLM steuert Perseverance autonom",
+          "body": "Die NASA bestätigte, dass der Perseverance-Rover die ersten vollständig KI-geplanten Marsfahrten absolviert hat. Anthropics Claude-Vision-Language-Modell analysierte Orbitalbilder und Geländedaten, um sichere Wegpunkte autonom zu generieren – ohne menschliche Genehmigung jedes einzelnen Schritts. Die Fahrten verliefen fehlerfrei und demonstrierten, dass multimodale Foundation-Modelle operationelle Raumfahrt-Autonomie erreichen.",
+          "relevance": "Dies markiert einen qualitativen Sprung in der planetaren Exploration: VLMs übernehmen Aufgaben, die bisher spezialisierte Regelwerke erforderten. Das Modell überbrückt dabei die Kommunikationsverzögerung von bis zu 24 Minuten zwischen Erde und Mars.",
+          "source": "NeuralBuddies AI Recap, NASA (1. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Luft- und Raumfahrt",
+      "items": [
+        {
+          "title": "SpaceX Starlink 10-38: 29 Satelliten am Welttag der Raumfahrt",
+          "body": "Am 1. Mai 2026 startete SpaceX eine Falcon-9-Rakete vom Space Launch Complex 40 in Cape Canaveral und brachte 29 Starlink-Breitbandsatelliten in den niedrigen Erdorbit. Die Mission Starlink 10-38 verlief nominell, alle Satelliten wurden planmäßig ausgesetzt. Es ist bereits der 1.000. Starlink-Satellit des laufenden Jahres 2026, den SpaceX in die Umlaufbahn schickt.",
+          "relevance": "Das anhaltende Deployment-Tempo zeigt, wie konsequent SpaceX die Starlink-Konstellation weiter verdichtet. Mit über 1.000 Satelliten in nur vier Monaten werden globale Breitbandkapazitäten systematisch ausgebaut.",
+          "source": "Spaceflight Now (1. Mai 2026)"
+        },
+        {
+          "title": "NASA und Partner aktualisieren ISS-Flugplan für 2026",
+          "body": "Die NASA veröffentlichte gemeinsam mit ihren internationalen Partnern ein aktualisiertes Startfenster für die Raumstation. Der nächste SpaceX-CRS-34-Versorgungsflug soll am 12. Mai 2026 von Cape Canaveral abheben und rund 2.900 kg Fracht und wissenschaftliche Nutzlasten zur ISS transportieren. Die Anpassung berücksichtigt Wechselwirkungen mit anderen geplanten Missionen im Frühjahr 2026.",
+          "relevance": "Laufende Forschungskapazitäten auf der ISS – insbesondere in Biologie, Materialwissenschaft und Medizin unter Mikrogravitation – bleiben durch die enge Abstimmung der kommerziellen Versorgungslogistik gesichert.",
+          "source": "NASA.gov (1. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin & Biologie",
+      "items": [
+        {
+          "title": "DNA-basierte PCSK9-Inhibitoren: neues Konzept gegen LDL-Cholesterin",
+          "body": "Forscher publizierten am 1. Mai 2026 eine Studie über synthetische DNA-Aptamere, die das PCSK9-Protein gezielt blockieren und dadurch den LDL-Rezeptor-Abbau in der Leber verhindern. Im Gegensatz zu monoklonalen Antikörpern (z. B. Evolocumab) sind diese kurzen DNA-Moleküle deutlich günstiger herzustellen und zeigten in präklinischen Modellen eine vergleichbare Wirksamkeit bei deutlich reduzierten Produktionskosten.",
+          "relevance": "Hohe LDL-Cholesterinwerte sind einer der bedeutendsten beeinflussbaren Risikofaktoren für Herz-Kreislauf-Erkrankungen. Ein kostengünstigeres PCSK9-Inhibitionskonzept könnte die Therapie für weit mehr Patienten weltweit zugänglich machen.",
+          "source": "ScienceDaily (1. Mai 2026)"
+        },
+        {
+          "title": "KI-Diagnose neurologischer Erkrankungen aus Hirn-MRT in Sekunden",
+          "body": "Wissenschaftler der University of Michigan stellten ein KI-System vor, das Hirn-MRT-Aufnahmen in Echtzeit auswertet und ein breites Spektrum neurologischer Erkrankungen präzise identifiziert. Das Modell basiert auf einem großen vortrainierten Vision-Transformer und wurde auf über 500.000 annotierten Schichtbildern feinabgestimmt. In Notaufnahme-Szenarien reduziert es die Zeit vom Scan bis zur klinischen Entscheidung auf wenige Sekunden.",
+          "relevance": "Gerade in Schlaganfall-Situationen, wo jede Minute zählt, kann ein automatisiertes Echtzeit-Screening die Behandlungsqualität erheblich verbessern und Fachärztemangel in der Radiologie teilweise kompensieren.",
+          "source": "ScienceDaily / University of Michigan (April–Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "Sternentstehung: Masse des Clusters bestimmt Art der Sterne",
+          "body": "Eine neue Studie zeigt, dass die Gesamtmasse eines Sternhaufens direkt vorgibt, welche Arten von Sternen er produziert – von kühlen, schwachen Zwergen bis hin zu massereichen Riesensternen. Die Anfängliche Massenfunktion (IMF) ist damit nicht universell, sondern skalenabhängig. Das widerspricht einem Kernpostulat der Stellarphysik, das seit Jahrzehnten als gesichert galt.",
+          "relevance": "Da Galaxien aus Sternhaufen aufgebaut sind, muss das skalenabhängige Verhalten bei der Modellierung galaktischer Entwicklung berücksichtigt werden. Bisherige kosmologische Simulationen könnten systematisch fehlerhafte Annahmen zur Sternpopulation enthalten.",
+          "source": "Universe Today / Nature Astronomy (Mai 2026)"
+        },
+        {
+          "title": "Quasi-1D superionic Phase: neuer Aggregatzustand in Eisriesen entdeckt",
+          "body": "Forscher der Carnegie Institution beschreiben in Nature Communications eine bislang unbekannte Materieform, die unter den extremen Druck- und Temperaturbedingungen im Inneren von Uranus und Neptun existieren könnte. In dieser quasi-eindimensionalen superionic Phase fließen Protonen bevorzugt entlang linearer Kanäle durch ein ansonsten starres Sauerstoffgitter – ein Hybrid aus Festkörper und Ionenleiter.",
+          "relevance": "Das Ergebnis könnte erklären, warum Uranus und Neptun ungewöhnlich schwache und asymmetrische Magnetfelder haben. Außerdem eröffnet es neue Wege, Hochdruckzustände in Planeteninterieurs experimentell nachzubilden.",
+          "source": "Nature Communications / Carnegie Institution (Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Chips & Prozessoren",
+      "items": [
+        {
+          "title": "Arm betritt erstmals den Chip-Markt mit eigenem AGI CPU",
+          "body": "Nach 35 Jahren als reiner IP-Lizenzgeber hat Arm Holdings im März 2026 seinen ersten vollständigen Produktionschip vorgestellt: den Arm AGI CPU auf Basis der Neoverse-V3-Kerne, gefertigt von TSMC im 3-nm-Prozess. Die Serienproduktion ist für H2 2026 geplant. Der Schritt bedeutet, dass Arm erstmals direkt mit seinen eigenen Kunden wie Qualcomm, NVIDIA und Apple konkurriert.",
+          "relevance": "Dieser strategische Wandel verschiebt die Machtverhältnisse in der Halbleiterbranche erheblich. Lizenznehmer müssen ihre langfristigen Chipdesign-Strategien überdenken, während Arm eine neue Einnahmestruktur aufbaut.",
+          "source": "Omdia / Informa Tech (April 2026)"
+        },
+        {
+          "title": "HBM-Nachfrage treibt DRAM-Engpässe – TSMC CoWoS weiterhin Flaschenhals",
+          "body": "Die massive Nachfrage nach High Bandwidth Memory (HBM) für KI-Beschleuniger entzieht der DRAM-Produktion Kapazitäten, die sonst PCs und Consumer-Geräte versorgen würden. TSMC's CoWoS-Advanced-Packaging-Kapazität bleibt knapp: NVIDIA hat sich laut Marktdaten über die Hälfte der verfügbaren Kapazität bis 2027 gesichert. Der globale Halbleitermarkt soll 2026 auf rund 975 Milliarden US-Dollar wachsen.",
+          "relevance": "Für die restliche PC- und Server-Industrie bedeutet dieser Engpass steigende DRAM-Preise und eingeschränkte Verfügbarkeit konventioneller Speichermodule – ein struktureller Zielkonflikt zwischen KI-Boom und Mainstream-Computing.",
+          "source": "Deloitte Semiconductor Outlook, IBS Electronics (2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Robotik & Autonomes Fahren",
+      "items": [
+        {
+          "title": "Kakao Mobility präsentiert Level-4-Autonomie-Roadmap mit VLM-Anomalieerkennung",
+          "body": "Auf dem World IT Show am 28. April 2026 stellte Kakao Mobility VP Kim Jin-kyu einen umfassenden Level-4-Autonomieplan vor. Das Sicherheitssystem kombiniert einen 3D-AV-Visualizer, ein 24-Stunden-Kontrollzentrum und einen Vision-Language-Modell-basierten Anomaliedetektor. Offene Datensätze und HD-Karten sollen mit anderen Anbietern geteilt werden.",
+          "relevance": "Der VLM-Ansatz zur Anomalieerkennung ist bemerkenswert: Statt regelbasierter Logik nutzt das System ein multimodales Modell, das unbekannte Randsituationen generalisiert – ein Paradigmenwechsel in der Fahrzeugsicherheits-Architektur.",
+          "source": "NeuralBuddies AI Recap (1. Mai 2026)"
+        },
+        {
+          "title": "Seoul autonomes Nacht-Taxi: 7.754 Fahrten ohne AV-verursachte Unfälle",
+          "body": "Das Gangnam-Late-Night-Autonomous-Taxi-Programm in Seoul meldete zwischen September 2024 und Februar 2026 insgesamt 7.754 Fahrten bei null durch das autonome System verursachten Unfällen. Die Flotte wuchs im April von drei auf sieben Fahrzeuge. Das Programm betreibt Level-4-Autonomie ausschließlich in einem definierten urbanen Bereich in den Nachtstunden.",
+          "relevance": "Reale Langzeitergebnisse in einem dichten urbanen Umfeld sind selten – diese Daten liefern wichtige Evidenz für die öffentliche Akzeptanz und regulatorische Diskussionen rund um autonomes Fahren.",
+          "source": "NeuralBuddies AI Recap (1. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Elektromobilität",
+      "items": [
+        {
+          "title": "US-Neuwagenmarkt für E-Autos bricht um 27 % ein – Gebrauchtmarkt auf Rekordhoch",
+          "body": "In Q1 2026 wurden in den USA rund 216.000 neue Elektrofahrzeuge verkauft – ein Rückgang von 27 % gegenüber dem Vorjahreszeitraum. Gleichzeitig stieg der Gebraucht-EV-Absatz auf 93.500 Einheiten (+12 % YoY). Kia meldet einen Rekordstart mit EV9 und EV6, Hyundai IONIQ 5 legte 11 % zu. Rivian erhöhte die Kapazitätsprognose für sein Georgia-Werk auf 300.000 Fahrzeuge pro Jahr.",
+          "relevance": "Der Einbruch bei Neuwagen reflektiert hohe Zinsen, auslaufende Steueranreize und Unsicherheit durch US-Importzölle. Dass der Gebrauchtmarkt gleichzeitig boomt, zeigt jedoch anhaltende Nachfrage bei günstigeren Einstiegspunkten.",
+          "source": "InsideEVs (Q1 2026 Report)"
+        }
+      ]
+    },
+    {
+      "heading": "Quantencomputing",
+      "items": [
+        {
+          "title": "Quantencomputing-Markt soll 2026 auf 9 Milliarden US-Dollar wachsen",
+          "body": "S&P Global und The Quantum Insider berichten, dass der globale Umsatz mit Quantentechnologien von rund 2,5 Milliarden US-Dollar (2025) auf fast 9 Milliarden US-Dollar in 2026 steigen soll. Globale Investitionen überstiegen 2025 erstmals 55 Milliarden US-Dollar. Praxisnahe Anwendungsfälle konzentrieren sich auf Netzoptimierung in Energieversorgern, Materialsimulation und pharmakologische Wirkstoffforschung.",
+          "relevance": "Der Quantenmarkt erreicht eine kommerzielle Schwelle: Erstmals überwiegen Deployment- und Lizenzierungsgespräche gegenüber reiner Forschungsförderung. Hybride Quanten-klassische-KI-Systeme gelten als wahrscheinlichstes Einsatzszenario bis 2028.",
+          "source": "The Quantum Insider, S&P Global (April–Mai 2026)"
+        }
+      ]
+    }
+  ]
+}
