@@ -1,0 +1,85 @@
+{
+  "date": "2026-05-02",
+  "generated_date": "2026-05-03",
+  "footer_sources": "Apple Machine Learning Research / 9to5Mac, ICLR 2026, Vandenberg Space Force Base / SpaceX, ScienceDaily / Stellenbosch University, The Planetary Society, NPR / AAA, SMR NucNet / ITER Organization, European Commission Energy",
+  "sections": [
+    {
+      "heading": "Künstliche Intelligenz – ICLR 2026 Highlights",
+      "items": [
+        {
+          "title": "ParaRNN: Apple erreicht 665-fachen Speedup beim Training rekurrenter Netze",
+          "body": "Apple-Forscher präsentierten auf der ICLR 2026 (Rio de Janeiro, 23.–27. April) das Paper \"ParaRNN: Unlocking Parallel Training of Nonlinear RNNs for Large Language Models\". Die Methode überwindet die inhärente Sequentialität klassischer RNNs durch eine neue Parallelisierungsformulierung und erzielt einen 665-fachen Trainingsspeedup gegenüber herkömmlichen sequenziellen Ansätzen. Damit werden RNN-Architekturen erstmals für das Training auf großen Sprachmodell-Skalen praktikabel. Parallel dazu zeigte das Apple-Team mit \"To Infinity and Beyond\", dass State-Space-Modelle durch Werkzeugnutzung echte Längengeneralisierung erreichen können.",
+          "relevance": "RNNs galten wegen ihrer Sequentialität als für moderne LLM-Skalen ungeeignet. Wenn paralleles Training nun machbar ist, könnten selektiv-rekurrente Architekturen als energieeffizientere Alternative zu Transformern wieder an Bedeutung gewinnen – ein direkt relevantes Forschungsgebiet für KI-Studierende.",
+          "source": "Apple Machine Learning Research / 9to5Mac (27. April 2026)"
+        },
+        {
+          "title": "ICLR 2026: Über 5.300 angenommene Paper – Agentik und MoE im Fokus",
+          "body": "Die diesjährige ICLR in Rio de Janeiro verzeichnete mit über 5.300 angenommenen Beiträgen einen neuen Rekord. Thematische Schwerpunkte lagen auf agentenbasierten KI-Systemen, Mixture-of-Experts-Architekturen, kausalen Diffusionsmodellen und der Generalisierung von LLMs auf Out-of-Distribution-Daten. Große Tech-Konzerne wie Microsoft (100+ Paper), Google, Meta, Huawei und ByteDance dominierten das Sponsoring und die Einreichungszahlen. Die Workshoptage (26.–27. April) behandelten schwerpunktmäßig Effizienz in Foundation Models sowie KI-Sicherheit.",
+          "relevance": "ICLR ist neben NeurIPS und ICML die renommierteste Konferenz für Deep Learning. Die Rekordzahl an Einreichungen spiegelt das weltweite Wachstum der KI-Forschungsgemeinschaft wider; die Proceedings liefern den aktuellen Stand der Architekturforschung direkt aus der Quelle.",
+          "source": "ICLR 2026 / Microsoft Research / Georgia Tech Research (April 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Luft- und Raumfahrt",
+      "items": [
+        {
+          "title": "SpaceX CAS500-2 Rideshare: 45 Nutzlasten in sonnensynchronen Orbit gestartet",
+          "body": "In der Nacht vom 2. auf den 3. Mai 2026 startete eine Falcon-9-Rakete (Booster B1071, 33. Flug) vom Space Launch Complex 4 East in Vandenberg mit insgesamt 45 staatlichen und kommerziellen Nutzlasten. Primärnutzlast ist der CAS500-2-Satellit des Korea Aerospace Research Institute, der hochauflösende panchrome und multispektrale Erdbeobachtungsbilder liefern soll. Dazu gehören die Imaging-Satelliten Pelican-7, -8 und -9 von Planet Labs, die höhere Auflösung und kürzere Revisitzeiten als die bisherige Flotte bieten. Der erste Stufenbooster landete planmäßig auf Landing Zone 4 in Vandenberg.",
+          "relevance": "Rideshare-Missionen wie CAS500-2 ermöglichen Staaten und Start-ups kosteneffizienten Zugang zum Weltall. Die Pelican-Satelliten von Planet Labs erweitern die kommerzielle hochauflösende Erdbeobachtung erheblich, was für Krisenmonitoring, Landwirtschaft und Klimaforschung relevant ist.",
+          "source": "SpaceX / Vandenberg Space Force Base / Space.com (2. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin & Biologie",
+      "items": [
+        {
+          "title": "Erste Flavoalkaloid-Klasse in Cannabis-Blättern identifiziert",
+          "body": "Wissenschaftler der Stellenbosch University haben in Cannabis-Blättern erstmals eine seltene Gruppe phenolischer Verbindungen namens Flavoalkaloids nachgewiesen. Die Studie analysierte drei kommerziell angebaute Cannabis-Sorten aus Südafrika und katalogisierte insgesamt 79 phenolische Verbindungen, darunter viele bislang unbeschriebene Substanzen. Flavoalkaloids – Hybride aus Flavonoiden und Alkaloiden – waren zuvor nur in wenigen anderen Pflanzen bekannt und besitzen potenziell interessante biologische Aktivitäten. Die Ergebnisse wurden am 1. Mai 2026 auf ScienceDaily veröffentlicht.",
+          "relevance": "Die Entdeckung verbreitert das bekannte Phytochemikalienprofil von Cannabis deutlich über Cannabinoide hinaus. Flavoalkaloids könnten neue pharmazeutische Anwendungen erschließen – etwa als Antioxidantien, entzündungshemmende Mittel oder für neurologische Indikationen.",
+          "source": "ScienceDaily / Stellenbosch University (1. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "Asteroid Vesta in Opposition: Hellster und günstigster Beobachtungspunkt des Jahres",
+          "body": "Am 2. Mai 2026 erreicht der Asteroid (4) Vesta seinen jährlichen Oppositionspunkt, bei dem Erde, Sonne und Vesta in einer Linie stehen. Mit einer scheinbaren Helligkeit von etwa 6,5 mag ist Vesta an diesem Tag so hell wie nie sonst im Jahr – unter dunklem Himmel knapp mit bloßem Auge erreichbar. Der zweitmassereichste Körper im Asteroidengürtel befindet sich derzeit in rund 1,36 Astronomischen Einheiten Entfernung zur Erde. Bereits kleine Fernrohre zeigen Vesta als klar sichtbares Objekt im Sternbild Waage.",
+          "relevance": "Oppositionspunkte stellen die optimalen Beobachtungsfenster für Sonnenystem-Objekte dar. Vesta ist als einziger Asteroid der Lage nach mit bloßem Auge sichtbar und bietet Amateurastronomen eine seltene Gelegenheit, einen Kleinplaneten direkt zu verfolgen.",
+          "source": "The Planetary Society / Cosmobc Stargazing Calendar (2. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Elektromobilität",
+      "items": [
+        {
+          "title": "AAA-Großtest: Kälte kostet E-Autos 39 % Reichweite – Hitze nur noch 8,5 %",
+          "body": "Der US-Automobilclub AAA veröffentlichte am 1. Mai 2026 umfangreiche Testergebnisse zur Temperaturabhängigkeit von EV-Batterien. Bei −7 °C (20 °F) verloren getestete Elektrofahrzeuge durchschnittlich 39 % ihrer Reichweite gegenüber Normbedingungen, bei hohen Temperaturen hingegen nur noch 8,5 %. Im Vergleich zu AAAs 2019er-Studie (damals: 41 % Kälte- und 17 % Hitzeverlust) zeigt sich deutlicher technischer Fortschritt beim Thermomanagement im Sommer, während die Winterleistung kaum verbessert wurde. Hybridfahrzeuge büßten bei Kälte rund 23 % Kraftstoffeffizienz ein.",
+          "relevance": "Die Daten liefern eine solide Entscheidungsgrundlage für EV-Käufer in kälteren Regionen. Für Hersteller signalisieren sie, dass Wärmpumpen und Batterie-Vorheizstrategien der entscheidende nächste Differenzierungsfaktor im Winterbetrieb sind.",
+          "source": "NPR / AAA (1. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Energie & Kernkraft",
+      "items": [
+        {
+          "title": "ITER: Letzte US-Komponente des Zentralsolenoidmagneten geliefert",
+          "body": "Die US-ITER-Organisation hat die finalen Lieferungen für den Zentralsolenoidmagneten des internationalen Kernfusionsreaktors ITER in Cadarache (Frankreich) abgeschlossen. Der Zentralsolenoid ist das Herzstück des Tokamak-Reaktors und erzeugt das primäre magnetische Feld zum Einschluss des Plasmas. Das Gesamtprojekt mit einem Budget von rund 20 Mrd. Euro nähert sich damit einem wichtigen Meilenstein der Montage. ITER soll ab den frühen 2030er-Jahren Deuterium-Tritium-Fusionsexperimente durchführen.",
+          "relevance": "ITER ist das weltweit größte Wissenschaftsprojekt und soll beweisen, dass Kernfusion als Energiequelle netto mehr Energie produzieren kann als sie verbraucht. Die abgeschlossene Solenoid-Lieferung signalisiert, dass das Projekt trotz früherer Verzögerungen wieder auf Kurs ist.",
+          "source": "SMR NucNet / ITER Organization (Mai 2026)"
+        },
+        {
+          "title": "EU-Kommission: Strategie für erste europäische Kleinreaktoren bis Anfang der 2030er",
+          "body": "Die Europäische Kommission hat eine koordinierte Strategie zur Beschleunigung der Entwicklung und des Einsatzes von Small Modular Reactors (SMRs) und Advanced Modular Reactors (AMRs) in Europa vorgelegt. Ziel ist es, die ersten europäischen SMR-Projekte bis Anfang der 2030er Jahre in Betrieb zu nehmen. Die Strategie betont einheitliche Genehmigungsrahmen zwischen EU-Staaten, eine gemeinsame Industriefinanzierung und eine engere Zusammenarbeit mit nuklearen Aufsichtsbehörden. SMRs gelten als vielversprechende Option, um den stark wachsenden Energiebedarf durch KI-Rechenzentren klimaneutral zu decken.",
+          "relevance": "Angesichts des exponentiell steigenden Strombedarfs durch KI-Infrastruktur bieten SMRs eine zuverlässige, CO₂-freie Grundlastversorgung. Die EU-Strategie beschleunigt die kommerzielle Reife einer Technologie, die bisher vor allem in Nordamerika und Asien vorangetrieben wurde.",
+          "source": "European Commission Energy (10. März 2026, Strategiepapier)"
+        }
+      ]
+    }
+  ]
+}
