@@ -1,0 +1,155 @@
+{
+  "date": "2026-05-06",
+  "generated_date": "2026-05-07",
+  "footer_sources": "Stanford HAI AI Index 2026, Arm Holdings Pressemitteilung, The Hacker News, SIA / Tom's Hardware, Bloomberg, Space.com, NASA, Washington Times / NASA, Spaceflight Now, LiveScience, ScienceDaily, APOD/NASA, Lake County News, CNBC, Philip Metzger / humanoid.press, InsideEVs, Electrek, ARPA-E / Lawrence Livermore National Laboratory, Nature, Yahoo Finance / NVIDIA",
+  "sections": [
+    {
+      "heading": "Künstliche Intelligenz",
+      "items": [
+        {
+          "title": "KI-Agenten erreichen 66 % Erfolgsrate bei PC-Aufgaben",
+          "body": "Der Stanford AI Index 2026 zeigt, dass KI-Agenten auf dem OSWorld-Benchmark – der realistische Computeraufgaben über Betriebssysteme hinweg testet – eine Genauigkeit von 66,3 % erreichten; ein Anstieg von nur 12 % im Vorjahr. Das Ergebnis liegt nur noch sechs Prozentpunkte unter der menschlichen Leistung. Im Bereich Cybersicherheit lösen Agenten bereits 93 % der Aufgaben, verglichen mit 15 % in 2024. Diese Entwicklung markiert einen Qualitätssprung in der agentenbasierten KI.",
+          "relevance": "Die dramatische Verbesserung zeigt, dass agentenbasierte Systeme kurz davor stehen, Menschen bei komplexen digitalen Aufgaben zu übertreffen. Für KI-Studenten ist die Architekturverschiebung hin zu Agentic AI – Modelle, die mehrstufige Aufgaben autonom ausführen – das prägende Paradigma des Jahres 2026.",
+          "source": "Stanford HAI / AI Index 2026 (06.05.2026)"
+        },
+        {
+          "title": "Arm kündigt AGI CPU an – erster eigener Produktionschip",
+          "body": "Arm Holdings, bisher ausschließlich als IP-Lizenzierer bekannt, präsentierte mit dem Arm AGI CPU seinen ersten vollständigen Produktionschip und veröffentlichte gleichzeitig die Finanzergebnisse für das vierte Quartal des Geschäftsjahres 2026. Der Schritt markiert einen fundamentalen Wandel in Arms Geschäftsmodell und könnte die Halbleiter-Wertschöpfungskette neu gestalten. Kunden erhalten einen schnelleren, risikoärmeren Einstieg in KI-Infrastruktur.",
+          "relevance": "Arm war bislang neutrales IP-Fundament für Chips von Apple, Qualcomm und NVIDIA. Ein eigener Chip schafft direkten Wettbewerb mit Partnern und könnte den Markt für KI-Beschleuniger grundlegend verändern.",
+          "source": "Arm Holdings Pressemitteilung / Omdia (06.05.2026)"
+        },
+        {
+          "title": "2026: Das Jahr KI-gestützter Cyberangriffe",
+          "body": "The Hacker News bezeichnet 2026 als das Jahr, in dem KI-gestützte Cyberangriffe zum Mainstream werden. Angreifer setzen zunehmend auf autonome Agenten für Phishing, Social Engineering und Schwachstellenausnutzung im industriellen Maßstab. Gleichzeitig wurden neue Gegenmaßnahmen vorgestellt, darunter die Sicherheitsplattform eShield-Q von Quantum eMotion, die kryptografischen Schutz in Echtzeit gegen KI- und Quantencomputing-Angriffe bietet.",
+          "relevance": "Die Asymmetrie zwischen KI-gestützten Angreifern und konventionellen Abwehrsystemen ist eine der drängendsten Herausforderungen der IT-Sicherheit und treibt sowohl offensive als auch defensive KI-Forschung voran.",
+          "source": "The Hacker News / Quantum eMotion (06.05.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Chips & Halbleiter",
+      "items": [
+        {
+          "title": "Globaler Chip-Umsatz: Q1 2026 bei 298,5 Mrd. USD – Kurs auf 1 Billion",
+          "body": "Laut Semiconductor Industry Association (SIA) erzielte die globale Halbleiterbranche im ersten Quartal 2026 einen Umsatz von 298,5 Milliarden US-Dollar, ein Anstieg von 25 % gegenüber dem Vorquartal. Damit liegt die Branche auf Kurs, erstmals die 1-Billion-Dollar-Jahresumsatzmarke zu überschreiten. Treiber ist vor allem die Nachfrage aus KI-Rechenzentren nach Speicherchips und Hochleistungsprozessoren. Die Aktien von Micron (+90 %) und Seagate (+164 %) spiegeln diesen Boom wider.",
+          "relevance": "Ein Billionen-Dollar-Markt in einem Einzeljahr wäre ein historischer Meilenstein und unterstreicht, wie zentral Chips für die KI-Infrastruktur geworden sind.",
+          "source": "SIA / Tom's Hardware (06.05.2026)"
+        },
+        {
+          "title": "Regierungen und Konzerne überdenken globale Halbleiter-Lieferketten",
+          "body": "Bloomberg berichtet, dass Regierungen und Unternehmen weltweit begonnen haben, die jahrzehntelange Konzentration der Chipproduktion in wenigen asiatischen Ländern zu hinterfragen. TSMC, Samsung und neue Fabriken in den USA und Europa stehen im Mittelpunkt dieser Neuausrichtung. Geopolitische Spannungen und Exportkontrollen beschleunigen den Umbau der Lieferketten erheblich.",
+          "relevance": "Die Verlagerung der Chipproduktion hat direkte Folgen für Preise, Verfügbarkeit und technologische Souveränität. Für die EU und USA ist Halbleiterunabhängigkeit eine strategische Priorität.",
+          "source": "Bloomberg (06.05.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Raumfahrt & Luft- und Raumfahrt",
+      "items": [
+        {
+          "title": "Blue Origin MK1 Mondlander besteht Vakuumkammer-Tests",
+          "body": "Blue Origins MK1-Mondlander hat erfolgreich Tests in der Vakuumkammer abgeschlossen und damit einen wichtigen Meilenstein auf dem Weg zur geplanten Mission zum Südpol des Mondes erreicht. Die Mission soll Ende 2026 NASA-Wissenschaftsexperimente und Technologiedemonstratoren transportieren. Space.com veröffentlichte am 6. Mai das offizielle Bild des im Vakuum getesteten Landers.",
+          "relevance": "Der erfolgreiche Vakuumtest ist ein wesentlicher Schritt für die Rückkehr der USA zum Mond. Blue Origins MK1 bereitet das wissenschaftliche Instrumentarium für künftige bemannte Mondmissionen vor.",
+          "source": "Space.com / NASA (06.05.2026)"
+        },
+        {
+          "title": "NASA und SpaceX bestätigen 12. Mai als Starttermin für CRS-34",
+          "body": "NASA und SpaceX haben den 12. Mai 2026 um 19:16 Uhr EDT als Starttermin für die 34. kommerzielle Versorgungsmission (CRS-34) zur Internationalen Raumstation festgelegt. Eine SpaceX Dragon-Kapsel mit rund 2,95 Tonnen Fracht soll an Bord einer Falcon 9 vom Space Launch Complex 40 in Cape Canaveral starten. Der offizielle Starttermin wurde am 6. Mai bekannt gegeben.",
+          "relevance": "Die regelmäßigen Versorgungsflüge sichern den kontinuierlichen Betrieb der ISS und ermöglichen wichtige wissenschaftliche Forschung in der Schwerelosigkeit.",
+          "source": "Washington Times / NASA (06.05.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin & Biologie",
+      "items": [
+        {
+          "title": "Kurze Immuntherapie vor Darmkrebs-OP zeigt überraschend starke Wirkung",
+          "body": "Eine britisch geführte klinische Studie zeigt, dass neun Wochen Immuntherapie mit Pembrolizumab vor einer Operation bei bestimmten Darmkrebsformen (Mikrosatelliten-Instabilität) zu bemerkenswerten Ergebnissen führt: Patienten blieben nachweislich krebsfrei. Die Ergebnisse könnten den chirurgischen Standardweg bei dieser Krebsart grundlegend verändern und operative Eingriffe in ausgewählten Fällen überflüssig machen.",
+          "relevance": "Wenn Immuntherapie eine Operation ersetzen kann, revolutioniert das die onkologische Behandlung – besonders relevant für die etwa 15 % der kolorektalen Krebspatienten mit dieser Tumoreigenschaft.",
+          "source": "LiveScience / klinische Studie (UK, 06.05.2026)"
+        },
+        {
+          "title": "Meniskus-OP nicht besser als Scheinoperation – 10-Jahres-Studie",
+          "body": "Eine groß angelegte 10-Jahres-Kliniktrial hat ergeben, dass das operative Trimmen eines beschädigten Meniskus keinen messbaren Vorteil gegenüber einer Scheinoperation bietet. Patienten beider Gruppen zeigten vergleichbare Schmerzverläufe und funktionale Ergebnisse. Die Ergebnisse stellen die gängige Praxis der Meniskusresektion grundlegend in Frage.",
+          "relevance": "Meniskus-OPs gehören zu den häufigsten orthopädischen Eingriffen weltweit. Die Studie hat das Potenzial, Behandlungsrichtlinien zu revidieren und Milliarden an Gesundheitsausgaben umzuleiten.",
+          "source": "ScienceDaily (06.05.2026)"
+        },
+        {
+          "title": "Injizierbares Biomaterial repariert Gewebeschäden von innen",
+          "body": "Wissenschaftler haben ein neuartiges injizierbares Biomaterial entwickelt, das über den Blutkreislauf gezielt zu beschädigtem Gewebe transportiert wird und dort Heilungsprozesse aktiviert. In Tierversuchen wurden Herzinfarktschäden erfolgreich behandelt; das Material zeigte auch Potenzial bei traumatischen Hirnverletzungen und pulmonaler Hypertonie. Es reduziert Entzündungsreaktionen und stimuliert die natürliche Geweberegeneration.",
+          "relevance": "Wenn sich diese Technologie beim Menschen bewährt, könnte sie invasive Operationen bei schwer zugänglichen Organen teilweise ersetzen – mit besonderer Bedeutung für Herzerkrankungen als häufigste Todesursache weltweit.",
+          "source": "ScienceDaily (06.05.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Robotik",
+      "items": [
+        {
+          "title": "Japan Airlines testet Humanoide am Flughafen Haneda",
+          "body": "Japan Airlines hat in Kooperation mit GMO AI & Robotics begonnen, humanoide Roboter für Bodenoperationen am Tokioter Flughafen Haneda zu erproben. Die Maschinen übernehmen Aufgaben wie das Laden von Gepäck und die Kabinenreinigung. Hintergrund ist ein akuter Arbeitskräftemangel in Japan. Der Pilot läuft seit Anfang Mai 2026 und ist auf mehrere Monate ausgelegt.",
+          "relevance": "Der Einsatz humanoiderer Roboter im Flughafenbetrieb ist ein Praxistest unter realen Industriebedingungen – ein wichtiger Schritt zur kommerziellen Skalierung dieser Technologie.",
+          "source": "CNBC (Mai 2026)"
+        },
+        {
+          "title": "Figure-Roboter bewegen über 90.000 Teile im BMW-Werk Spartanburg",
+          "body": "Figure-Roboter haben im BMW-Werk Spartanburg, South Carolina, in über 1.250 Betriebsstunden mehr als 90.000 Fahrzeugteile bewegt. Der Pilot wird auf das BMW-Werk Leipzig ausgeweitet. Diese Zahlen machen den Einsatz zu einem der umfangreichsten dokumentierten Fälle humanoiderer Roboter in der Serienproduktion und belegen die Reife autonomer Manipulatoren für industrielle Umgebungen.",
+          "relevance": "Reale Produktionszahlen in einer der größten Automobilfabriken der Welt belegen, dass humanoide Roboter den Schritt vom Labor in die Serienfertigung vollzogen haben – ein Wendepunkt für die Industrie.",
+          "source": "humanoid.press / Philip Metzger (Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "Eta-Aquariid-Meteorschauer: Spitzenaktivität in der Nacht 5./6. Mai",
+          "body": "Der jährliche Eta-Aquariid-Meteorschauer – verursacht durch Staubpartikel des Halley'schen Kometen – erreichte in der Nacht vom 5. auf den 6. Mai 2026 seinen Höhepunkt. Beobachter auf der Südhalbkugel verzeichneten bis zu 50 Meteore pro Stunde. Der Schauer ist aktiv vom 19. April bis 28. Mai und war in diesem Jahr durch günstige Mondbedingungen besonders gut sichtbar.",
+          "relevance": "Meteorschauer liefern direkte Stichproben aus Kometenmaterial und sind wichtige Werkzeuge zur Erforschung der frühen Entstehungsgeschichte des Sonnensystems.",
+          "source": "Space.com / Lake County News (06.05.2026)"
+        },
+        {
+          "title": "NASA-Freiwillige verdoppeln die Zahl bekannter Brauner Zwerge",
+          "body": "Durch das Citizen-Science-Projekt Backyard Worlds: Planet 9 haben NASA-Freiwillige die bekannte Population Brauner Zwerge nahezu verdoppelt. Braune Zwerge sind Objekte zwischen Planeten und Sternen, die nicht groß genug für Kernfusion sind. Die Neuentdeckungen basieren auf WISE/NEOWISE-Infrarotdaten und erweitern das Verständnis der lokalen galaktischen Umgebung erheblich.",
+          "relevance": "Die Verdopplung der bekannten Braunen Zwerge ist ein bedeutender Fortschritt in der Stellarastronomie und demonstriert das enorme wissenschaftliche Potenzial von Citizen-Science-Projekten.",
+          "source": "Space.com / NASA (Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Automobilindustrie",
+      "items": [
+        {
+          "title": "Honda bricht C$15-Mrd.-EV-Hub in Kanada auf unbestimmte Zeit ab",
+          "body": "Honda setzt sein geplantes 15-Milliarden-Kanadische-Dollar-Großprojekt für EV- und Batterieproduktion in Ontario indefinit aus, was faktisch einem Abbruch gleichkommt. Das Vorhaben war als strategisches Standbein für die nordamerikanische Elektromobilität geplant. Veränderte Marktbedingungen, geopolitische Unsicherheiten und Förderpolitik werden als Gründe genannt.",
+          "relevance": "Der Rückzug Hondas verdeutlicht, wie volatil der EV-Markt trotz langfristiger Ambitionen geblieben ist, und wirft grundsätzliche Fragen über die Wettbewerbsfähigkeit der nordamerikanischen EV-Fertigung auf.",
+          "source": "InsideEVs / Electrek (Mai 2026)"
+        },
+        {
+          "title": "BYD verdrängt Tesla als meistverkaufte EV-Marke in Großbritannien",
+          "body": "BYD hat in Großbritannien mit einem Marktanteil von über 7 % im bisherigen Jahresverlauf 2026 Tesla, Kia und Volkswagen als meistverkaufte Elektromarke überholt. Das chinesische Unternehmen profitiert von wettbewerbsfähigen Preisen und einer wachsenden Modellpalette im Volumen- und Premiumsegment. Die Zahlen belegen die zunehmende Internationalisierung chinesischer EV-Hersteller in europäische Kernmärkte.",
+          "relevance": "BYDs Aufstieg auf dem britischen Markt ist symptomatisch für den globalen Wettbewerb im EV-Segment. Europäische Hersteller stehen unter erheblichem Druck, ihre Preis- und Produktstrategien anzupassen.",
+          "source": "InsideEVs (Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Energie & Quantencomputing",
+      "items": [
+        {
+          "title": "ARPA-E fördert quantenbeschleunigtes Suchen nach Magneten der nächsten Generation",
+          "body": "Das US-Energieministerium hat dem Lawrence Livermore National Laboratory 4,1 Millionen US-Dollar über das ARPA-E-Programm zugesprochen, um Quanten- und Machine-Learning-Software für die Entdeckung neuartiger magnetischer Materialien zu entwickeln. Neue Hochleistungsmagnete sind essenziell für effizientere Elektromotoren, Windkraftanlagen und Kernfusionsreaktoren. Das Projekt soll den Entwicklungszyklus von Jahrzehnten auf wenige Jahre verkürzen.",
+          "relevance": "Leistungsfähigere Magnete könnten Effizienz und Kosten in erneuerbaren Energiesystemen und Elektroantrieben transformieren – ein direkter Beitrag zur Energiewende und zur Dekarbonisierung des Verkehrssektors.",
+          "source": "ARPA-E / Lawrence Livermore National Laboratory (02.05.2026)"
+        },
+        {
+          "title": "Kernenergie kehrt auf globale Technologie-Agenda zurück",
+          "body": "Kernfusion und Kleine Modulare Reaktoren (SMRs) stehen 2026 erstmals auf Natures Technologie-Watchlist. Fortschritte in der Fusionsforschung und der rasante Ausbau von SMR-Projekten spiegeln den steigenden Energiebedarf von KI-Rechenzentren wider. NVIDIA engagiert sich aktiv in der Entwicklung nuklearer Energiesysteme für seine wachsende KI-Infrastruktur.",
+          "relevance": "KI-Rechenzentren haben einen massiven Strombedarf erzeugt, der mit erneuerbaren Energien allein kaum zu decken ist. SMRs und Fusionsenergie könnten zur Schlüsseltechnologie der KI-Ära werden.",
+          "source": "Nature / Yahoo Finance (Mai 2026)"
+        }
+      ]
+    }
+  ]
+}
