@@ -1,0 +1,126 @@
+{
+  "date": "2026-05-08",
+  "generated_date": "2026-05-09",
+  "footer_sources": "GlobeNewswire, llm-stats.com, AI Tool Recap, SpaceflightNow, Space.com, Aviation Week, KFGO, ScienceDaily, Semiconductor Industry Association (SIA), Omdia/EE Times, NHTSA/InsideEVs, BMW Group, Quantum Computing Inc.",
+  "sections": [
+    {
+      "heading": "Künstliche Intelligenz",
+      "items": [
+        {
+          "title": "NVIDIA Ising: Open-Source-KI-Modelle für Quantenfehlerkorrektur",
+          "body": "NVIDIA stellte Ising vor, eine Open-Source-Familie von KI-Modellen, die speziell für die Beschleunigung von Quantencomputing-Infrastruktur entwickelt wurden. Die Modelle erzielen laut NVIDIA eine bis zu 2,5-fach schnellere und 3-fach genauere Fehlerkorrektur-Dekodierung im Vergleich zu klassischen Verfahren. Ising kombiniert moderne Machine-Learning-Architekturen mit den spezifischen Anforderungen von Quantenfehlerkorrektur-Codes und ist vollständig quelloffen verfügbar. Der Ansatz markiert einen strategischen Schritt NVIDIAs, die eigene KI-Toolchain in die Quantencomputing-Entwicklung zu verlängern.",
+          "relevance": "Relevanz: Quantenfehlerkorrektur ist eines der zentralen Bottlenecks auf dem Weg zu fehlertoleranten Quantencomputern. Eine KI-gestützte, Open-Source-Lösung von NVIDIA senkt die Einstiegshürde und könnte die akademische und industrielle Quantenforschung erheblich beschleunigen – hochrelevant für KI-Studierende an der Schnittstelle von ML und Quantencomputing.",
+          "source": "Quelle: llm-stats.com / AI Model Releases May 2026 (08.05.2026)"
+        },
+        {
+          "title": "Google Gemini 3.1 Ultra veröffentlicht – größtes Kontextfenster der Modellreihe",
+          "body": "Google brachte Gemini 3.1 Ultra mit dem bislang größten Kontextfenster aller Gemini-Modelle auf den Markt. Das erweiterte Fenster erlaubt die Verarbeitung deutlich längerer Dokumente, umfangreicher Codebasen und komplexer multimodaler Eingaben in einem einzelnen Prompt. Das Release ist Teil einer dichten Folge von Modell-Updates, die Google im Mai 2026 herausbrachte.",
+          "relevance": "Relevanz: Größere Kontextfenster sind ein Schlüsseltrend großer Sprachmodelle und ermöglichen neue Anwendungsfelder in der Dokumentenanalyse, bei Langzeit-Agentensystemen und im Softwareengineering.",
+          "source": "Quelle: llm-stats.com / aitoolsrecap.com – AI Model Releases May 2026 (08.05.2026)"
+        },
+        {
+          "title": "Globaler Ovarialkarzinom-Forschungsverbund vergibt zweiten KI-Beschleuniger-Grant",
+          "body": "Das Global Ovarian Cancer Research Consortium kündigte seinen zweiten KI-Accelerator-Grant in Höhe von 1 Million USD an, um KI-gestützte Großdatenanalyse gegen Eierstockkrebs einzusetzen. Gefordert sind Projekte, die maschinelles Lernen für verbesserte Früherkennung und Therapiestrategien nutzen. Eierstockkrebs gilt als eine der tödlichsten gynäkologischen Krebserkrankungen, da er meist erst in fortgeschrittenen Stadien diagnostiziert wird.",
+          "relevance": "Relevanz: Das Programm verdeutlicht die wachsende institutionelle Bereitschaft, KI als primäres Werkzeug in der Krebsforschungsförderung einzusetzen – ein Signal für den Reifegrad von KI in der Biomedizin.",
+          "source": "Quelle: GlobeNewswire (08.05.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Raumfahrt",
+      "items": [
+        {
+          "title": "SpaceX absolviert 51. Falcon-9-Start des Jahres mit Starlink-Nutzlast",
+          "body": "SpaceX führte mit der Mission Starlink 17-36 den 51. Falcon-9-Start des Jahres 2026 durch. Der Liftoff erfolgte am 8. Mai um 22:42 Uhr EDT. Die Mission ergänzt die wachsende Starlink-Megakonstellation, die weltweit Breitband-Satellitenkommunikation bereitstellt.",
+          "relevance": "Relevanz: Das anhaltend hohe Starttempo von SpaceX – mehr als 51 Starts in etwa 4 Monaten – unterstreicht die industrielle Reife wiederverwendbarer Trägerraketen und SpaceX' dominante Stellung auf dem globalen Startmarkt.",
+          "source": "Quelle: SpaceflightNow / Space.com (08.05.2026)"
+        },
+        {
+          "title": "Rocket Lab sichert Fünf-Starts-Vertrag für Neutron-Rakete",
+          "body": "Rocket Lab gab den Abschluss eines Vertrages über fünf Starts mit der noch in Entwicklung befindlichen Neutron-Mittelklasserakete bekannt. Der Erstflug ist für das vierte Quartal 2026 geplant, nach einem früheren Misserfolg bei einem Erstsufen-Tanktest. Der erste Flug wird nicht wiederverwendbar sein; die Bergung der Erststufe ist ab dem zweiten Flug über eine Landebarke geplant.",
+          "relevance": "Relevanz: Neutron ist als direkter Konkurrent zu Falcon 9 im Mittelklasse-Startmarkt konzipiert. Der Vertragsabschluss signalisiert Kundenvertrauen trotz Verzögerungen und ist ein wichtiger Schritt für Rocket Labs Wachstumsstrategie.",
+          "source": "Quelle: SpaceflightNow / Aviation Week (08.05.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "Bisher detaillierteste Beobachtung einer Exoplanetenoberfläche gelingt Astronomen",
+          "body": "Astronomen veröffentlichten die bis dato präziseste direkte Charakterisierung der Oberfläche eines Exoplaneten. Die Messungen wurden mit modernen Teleskopverbünden durchgeführt und ermöglichen Rückschlüsse auf thermische Eigenschaften sowie Albedo. Die Ergebnisse liefern wichtige Kalibrierungsdaten für Atmosphärenmodelle terrestrischer Exoplaneten.",
+          "relevance": "Relevanz: Die direkte Oberflächencharakterisierung von Exoplaneten ist ein entscheidender Schritt über reine Transmissionsspektroskopie hinaus und bringt die Suche nach potenziell bewohnbaren Welten voran.",
+          "source": "Quelle: KFGO / Astronomer Research Release (08.05.2026)"
+        },
+        {
+          "title": "Webb-Teleskop: Super-Erde LHS 3844 b ist atmosphärenloser, metallschmelzender Fels",
+          "body": "Das James-Webb-Weltraumteleskop legte neue Daten zu LHS 3844 b (auch Kua'kua genannt) vor, einer tidally locked Super-Erde in 49 Lichtjahren Entfernung. Die permanente Tagseite ist heiß genug, um Metall zu schmelzen; eine Atmosphäre konnte nicht nachgewiesen werden. Der Planet gilt nun als dunkler, kahler Fels ohne messbare Gashülle.",
+          "relevance": "Relevanz: LHS 3844 b war ein vielversprechender Kandidat für Atmosphärenstudien. Das Ergebnis liefert wichtige Grenzen für die Habitabilität von Super-Erden mit kurzen Umlaufzeiten um kühle Sterne.",
+          "source": "Quelle: ScienceDaily / JWST-Mission (veröffentlicht 08.05.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin & Biologie",
+      "items": [
+        {
+          "title": "Bekanntes Verstopfungsmittel zeigt unerwartetes Potenzial gegen chronische Nierenerkrankung",
+          "body": "Forscher berichten, dass ein verbreitetes Laxativum einen bislang unbekannten Mechanismus zur Verlangsamung chronischer Nierenerkrankungen (CKD) besitzt. Der Wirkmechanismus unterscheidet sich grundlegend von bestehenden nephroprotektiven Therapien. Chronische Nierenerkrankung betrifft weltweit über 800 Millionen Menschen und ist eine der häufigsten Ursachen für Dialysepflicht.",
+          "relevance": "Relevanz: Die Repurposing-Strategie – bekannter Wirkstoff, neue Indikation – ermöglicht einen schnellen klinischen Entwicklungsweg. Ein Erfolg könnte Millionen Patienten weltweit zugutekommen.",
+          "source": "Quelle: ScienceDaily / Health & Medicine News (08.05.2026)"
+        },
+        {
+          "title": "Naechste Generation Adipositas-Medikament nutzt das 'Trojanische Pferd'-Prinzip",
+          "body": "Ein Forscherteam hat ein neuartiges Adipositas-Medikament entwickelt, das GLP-1/GIP-Signale als molekulares 'Trojanisches Pferd' nutzt, um einen potenten Stoffwechselwirkstoff gezielt in Zielzellen einzuschleusen. Im Vergleich zu bestehenden GLP-1-Rezeptoragonisten greift der Ansatz tiefer in den Zellstoffwechsel ein. Erste präklinische Studien zeigen eine deutlich stärkere Gewichtsreduktion als aktuelle Medikamente.",
+          "relevance": "Relevanz: GLP-1-Wirkstoffe wie Semaglutid sind derzeit die meistdiskutierten Medikamente weltweit. Eine zielgenauere Weiterentwicklung könnte Nebenwirkungen reduzieren, die Wirksamkeit erhöhen und die nächste Welle von Adipositastherapien einläuten.",
+          "source": "Quelle: ScienceDaily / Health & Medicine News (07.05.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Halbleiter & Prozessoren",
+      "items": [
+        {
+          "title": "Globale Chip-Verkäufe steigen in Q1 2026 um 25 % – Billionen-Dollar-Markt in Sicht",
+          "body": "Die Semiconductor Industry Association (SIA) meldete, dass der globale Halbleiterumsatz im ersten Quartal 2026 auf 298,5 Milliarden USD stieg – ein Plus von 25 % gegenüber Q4 2025. KI-Infrastruktur-Chips dominieren dabei umsatzseitig mit rund der Hälfte des Gesamtumsatzes, obwohl sie weniger als 0,2 % des Stückvolumens ausmachen. Der Jahresumsatz 2026 steuert auf einen historischen Rekord nahe einer Billion USD zu.",
+          "relevance": "Relevanz: Die Zahlen belegen, wie grundlegend KI-Beschleuniger-Chips wie GPUs und TPUs den Halbleitermarkt umstrukturieren und traditionelle Logik- sowie Speicherchips in der Umsatzbedeutung überholen.",
+          "source": "Quelle: Semiconductor Industry Association (SIA) (08.05.2026)"
+        },
+        {
+          "title": "Arm betritt erstmals den Silicon-Markt mit eigenem AGI-CPU",
+          "body": "Arm Holdings kündigte mit dem Arm AGI CPU seinen ersten vollständigen Produktionschip an – ein strategischer Schritt weg vom reinen IP-Lizenzierungsmodell. Der Chip soll OEMs einen schnelleren und risikoärmeren Einstieg in KI-Infrastruktur bieten. Gleichzeitig verändert dieser Schritt die Machtbalance in der Halbleiterwertschöpfungskette erheblich.",
+          "relevance": "Relevanz: Arm hat bewusst nie mit seinen Kunden (Qualcomm, Apple, Nvidia) konkurriert. Der Einstieg in die Chip-Fertigung signalisiert einen Paradigmenwechsel und könnte bestehende Partnerschaften und Lizenzvereinbarungen neu verhandeln.",
+          "source": "Quelle: Omdia / EE Times (08.05.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Automobilindustrie",
+      "items": [
+        {
+          "title": "Tesla Model Y 2026 besteht als erstes Fahrzeug NHTSAs neue ADAS-Benchmark-Tests",
+          "body": "Die US-Verkehrssicherheitsbehörde NHTSA gab bekannt, dass der Tesla Model Y 2026 als erstes Fahrzeug die überarbeiteten ADAS-Benchmark-Tests im aktualisierten New Car Assessment Program bestanden hat. Die neuen Tests bewerten fortgeschrittene Fahrerassistenzsysteme unter realitätsnäheren Bedingungen als bisherige Protokolle. Tesla setzt damit einen neuen Industriestandard.",
+          "relevance": "Relevanz: Standardisierte ADAS-Tests sind ein Schlüsselelement für die gesellschaftliche Akzeptanz und Regulierung autonomer Fahrfunktionen. Ein Bestehen signalisiert technologische Reife und dürfte die regulatorischen Erwartungen an Wettbewerber erhöhen.",
+          "source": "Quelle: NHTSA / InsideEVs (08.05.2026)"
+        },
+        {
+          "title": "BMW produziert zwei Millionen Elektrofahrzeuge – i5 M60 als Meilensteinfahrzeug",
+          "body": "BMW Group feierte am 5. Mai 2026 in Werk Dingolfing die Produktion des zweimillionsten vollelektrischen Fahrzeugs: ein BMW i5 M60 xDrive Sedan. Der Konzern ist damit einer der ersten Premiumhersteller weltweit, der diese Marke überschreitet. Der Hochlauf der Elektroflotte erfolgt trotz eines verlangsamten globalen EV-Marktes.",
+          "relevance": "Relevanz: Die Produktionszahl unterstreicht, dass der Wandel zur Elektromobilität auch im Premiumsegment unumkehrbar voranschreitet – trotz kurzfristiger Marktabschwächungen und geopolitischer Unsicherheiten.",
+          "source": "Quelle: BMW Group Pressemitteilung (05.05.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Quantencomputing & Photonik",
+      "items": [
+        {
+          "title": "Quantum Computing Inc. stellt NeuraWave vor – photonische Plattform für Edge-KI",
+          "body": "Quantum Computing Inc. (QCi) präsentierte NeuraWave, eine einsatzbereite photonische Reservoir-Computing-Plattform für Echtzeit-KI-Inferenz am Edge. Die Architektur eignet sich für Zeitreihenanalyse, Anomalieerkennung und Signalverarbeitung in anspruchsvollen Bereichen wie autonome Fahrzeuge, Industrieüberwachung und Verteidigungsanwendungen. NeuraWave kommt ohne klassische GPU-Beschleuniger aus und bietet dadurch deutlich niedrigere Latenz und Energieverbrauch.",
+          "relevance": "Relevanz: Photonisches Reservoir Computing ist ein aufkommender Ansatz, der analoge Lichtpulse statt elektrischer Schaltkreise nutzt. Edge-KI ohne GPU-Abhängigkeit ist besonders wertvoll für Anwendungen mit harten Echtzeitanforderungen und eingeschränkten Energiebudgets.",
+          "source": "Quelle: Quantum Computing Inc. Pressemitteilung (08.05.2026)"
+        }
+      ]
+    }
+  ]
+}
