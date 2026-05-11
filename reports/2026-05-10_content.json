@@ -1,0 +1,149 @@
+{
+  "date": "2026-05-10",
+  "generated_date": "2026-05-11",
+  "footer_sources": "llm-stats.com, llm-updates.com, ScienceDaily, spaceflightnow.com, space.com, astronomy.com, star.ucl.ac.uk (APOD), insideevs.com, electrek.co, semiconductors.org (SIA), quantumcomputingreport.com, thequantuminsider.com",
+  "sections": [
+    {
+      "heading": "Künstliche Intelligenz",
+      "items": [
+        {
+          "title": "GPT-5.5 Instant wird Standard-ChatGPT mit 52,5 % weniger Halluzinationen",
+          "body": "OpenAI hat GPT-5.5 Instant zum neuen Standard-Modell in ChatGPT gemacht. Interne Evaluierungen zeigen 52,5 % weniger Halluzinationen bei risikoreichen Themen gegenüber dem Vorgänger. Das Modell priorisiert niedrige Latenz und ist auf alltägliche Nutzungsszenarien optimiert. Es folgt dem Trend, dass Frontier-Modelle zunehmend auf Zuverlässigkeit statt reine Leistung optimiert werden.",
+          "relevance": "Direkter Qualitätssprung für Millionen von Alltagsnutzern; markiert eine Verlagerung im LLM-Wettbewerb hin zu messbarer Faktentreue statt Benchmark-Scores.",
+          "source": "llm-stats.com / AI Updates Today (Mai 2026)"
+        },
+        {
+          "title": "SubQ: Subquadratisches Aufmerksamkeitsmodell mit 12-Millionen-Token-Kontext",
+          "body": "Das KI-Startup SubQ hat am 5. Mai 2026 sein gleichnamiges Sprachmodell mit subquadratischer Sparse-Attention-Architektur und einem 12-Millionen-Token-Kontextfenster veröffentlicht. Eine $29-Millionen-Seed-Finanzierung unterstreicht das Investoreninteresse. Diese Architektur überwindet den quadratischen Rechenaufwand klassischer Transformer bei sehr langen Kontexten. Sie gilt als architektonische Voraussetzung für echte Long-Horizon-Agenten, die über Stunden oder Tage hinweg kohärent handeln können.",
+          "relevance": "Subquadratische Attention ist ein langjährig diskutiertes Forschungsproblem; der erste kommerzielle Einsatz signalisiert, dass lange Kontextfenster bald kein Engpass mehr darstellen.",
+          "source": "llm-stats.com / AI Model Release Timeline (Mai 2026)"
+        },
+        {
+          "title": "MoE-Architektur etabliert sich als neuer LLM-Standard",
+          "body": "Mixture-of-Experts (MoE) hat sich laut aktuellem LLM-Forschungsbericht 2026 als dominante Trainingsarchitektur durchgesetzt. DeepSeek V3 gilt als Referenzmodell mit 671 Milliarden Gesamtparametern, von denen nur 37 Milliarden pro Inferenz aktiv sind, bei Trainingskosten von lediglich 5,57 Millionen Dollar. Der Trend verlagert sich von reiner Skalierung hin zu Effizienz und Safety. Test-Time Compute Scaling übertrifft dabei klassische Skalierungsgesetze.",
+          "relevance": "Für KI-Studierende zentral: MoE definiert neu, wie Modelle gebaut werden – weniger ist mehr, wenn die richtigen Experten aktiviert werden.",
+          "source": "freeai.help / LLM Research Progress Report 2026"
+        }
+      ]
+    },
+    {
+      "heading": "Luft- und Raumfahrt",
+      "items": [
+        {
+          "title": "SpaceX verschiebt nächsten Starship-Orbitaltest auf Juni 2026",
+          "body": "SpaceX-CEO Elon Musk gab am 29. April bekannt, den nächsten Starship-Orbitaltest von Ende Mai auf Ende Juni 2026 zu verschieben. Die Verzögerung betrifft das für die NASA zentrale Human Landing System (HLS) für die Artemis-III-Mission. Die Artemis-III-Mission wurde daraufhin auf Ende 2027 verschoben, eine bemannte Mondlandung ist nun frühestens 2028 realistisch. SpaceX feuerte zuletzt alle 33 Triebwerke des Super-Heavy-Boosters erfolgreich am Boden.",
+          "relevance": "Jede Starship-Verzögerung verschiebt NASAs gesamte Mondstrategie; die Abhängigkeit von einem einzigen kommerziellen Anbieter für eine kritische Missionsstufe wächst zum strategischen Risiko.",
+          "source": "spaceflightnow.com, space.com / Artemis III Update (Mai 2026)"
+        },
+        {
+          "title": "Smallsat-Markt: 16.900 Satelliten bis 2035 prognostiziert",
+          "body": "Der 11. Novaspace-Bericht zu Kleinsatelliten (unter 500 kg) prognostiziert 16.900 Starts zwischen 2026 und 2035. Das entspricht einem massiven Anstieg der Konstellation kommerzieller und staatlicher Raumfahrzeuge im niedrigen Erdorbit. Treiber sind vor allem Breitbandkonnektivität (Starlink-Konkurrenten) sowie Erdbeobachtung für Klima und Sicherheit. Die Zahl der aktiven LEO-Objekte dürfte sich in diesem Zeitraum verdoppeln.",
+          "relevance": "Wachsende Debris-Problematik und zunehmende Regulierungsfragen im Orbit; gleichzeitig Grundlage für globale Konnektivität und Echtzeiterdbeobachtung.",
+          "source": "SpaceNews / Novaspace Smallsat Market Report (Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin und Biologie",
+      "items": [
+        {
+          "title": "TRPV4-Molekül als neuronales 'Hör-auf-zu-kratzen'-Signal entdeckt",
+          "body": "Neurowissenschaftler haben ein bislang unbekanntes Hemmsignal im Nervensystem identifiziert, das dem Gehirn meldet, wann ausreichend gekratzt wurde. Zentrales Molekül ist TRPV4, ein Ionenkanal, der als Teil eines internen Bremssystems fungiert. Die Entdeckung erklärt, warum bei bestimmten Erkrankungen wie chronischem Juckreiz diese Bremse versagt. Gezielte TRPV4-Modulatoren könnten neue Therapieansätze für Ekzeme und neuropathischen Juckreiz eröffnen.",
+          "relevance": "Chronischer Juckreiz betrifft Millionen von Patienten; ein molekularer Schaltmechanismus bietet einen konkreten pharmakologischen Angriffspunkt.",
+          "source": "ScienceDaily / Neurowissenschaften (Mai 2026)"
+        },
+        {
+          "title": "Jugendliche Darmbakterien reversieren Leberalterung in Tiermodell",
+          "body": "Forscher transplantierten Darmbakterienstämme junger Tiere in ältere Versuchsgruppen und beobachteten eine signifikante Rückbildung altersbedingter Leberschäden. Der Mechanismus scheint über Metaboliten zu wirken, die entzündliche Signalwege im Lebergewebe dämpfen. In ersten Ansätzen konnte sogar das Risiko für leberbedingten Krebs gesenkt werden. Die Ergebnisse legen nahe, dass das Darmmikrobiom ein aktives Werkzeug gegen Alterungsprozesse sein könnte.",
+          "relevance": "Eröffnet einen neuen Forschungszweig für Anti-Aging-Strategien, der ohne genetische Eingriffe auskommt und potenziell klinisch anwendbar ist.",
+          "source": "ScienceDaily / Mikrobiom-Forschung (Mai 2026)"
+        },
+        {
+          "title": "SP-Gene als universeller Schlüssel zur Geweberegenaration identifiziert",
+          "body": "Ein internationales Forschungsteam analysierte Regenerationsprozesse bei Axolotl, Zebrafisch und Mäusen und identifizierte einen gemeinsamen Satz sogenannter SP-Gene, die bei der Gliedmaßen- und Geweberegeneration entscheidend sind. Diese Gene sind evolutionär konserviert und finden sich auch im menschlichen Genom. Das Aktivieren dieser Genkaskade könnte langfristig die Grundlage für regenerative Medizin beim Menschen legen. Die Studie gilt als Schritt hin zur Erforschung, warum Säugetiere die Regenerationsfähigkeit verloren haben.",
+          "relevance": "Könnte die Grundlage für zukünftige Therapien bei Querschnittslähmungen, Amputationen oder Organschäden bilden.",
+          "source": "ScienceDaily / Regenerationsbiologie (Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Automobilindustrie",
+      "items": [
+        {
+          "title": "Nuro erhält Erlaubnis für vollständig fahrerloses Robotaxi-Testing für Ubers Flotte",
+          "body": "Die kalifornische DMV hat Nuro eine Genehmigung erteilt, Lucid-Gravity-SUVs ohne menschlichen Sicherheitsfahrer auf öffentlichen Straßen in Santa Clara und San Mateo County zu testen – bei Geschwindigkeiten bis 45 mph, tagsüber und nachts. Dies ist ein entscheidender Meilenstein vor dem geplanten Start von Ubers kommerzieller Robotaxi-Flotte mit mindestens 35.000 Fahrzeugen. Nuro ist damit einer der ersten Anbieter mit einer solch umfassenden driverlosen Testerlaubnis in Californien. Der Start des kommerziellen Dienstes ist für später in 2026 geplant.",
+          "relevance": "Zeigt, dass der Massenmarkt für autonome Taxis näher rückt; die Kombination Nuro/Uber könnte Waymo direkten Konkurrenzdruck bringen.",
+          "source": "electrek.co / InsideEVs (Mai 2026)"
+        },
+        {
+          "title": "Tesla FSD absolviert Küste-zu-Küste-Fahrt über 2.833 Meilen ohne Eingriff",
+          "body": "Tesla hat eine vollständig autonome Fahrt von der Ost- zur Westküste der USA über 2.833 Meilen (ca. 4.560 km) mit Full Self-Driving (FSD) ohne eine einzige menschliche Intervention dokumentiert. Damit übertraf das System frühere Rekorde für ununterbrochene autonome Langstreckenfahrten erheblich. Die Fahrt diente als Demonstration der Zuverlässigkeit des neuesten FSD-Softwarestands unter realen Bedingungen. Tesla betrachtet dies als wichtigen Schritt für die Zertifizierung als vollständig autonomes Fahrzeug.",
+          "relevance": "Wichtiger Datenpunkt für Regulierungsbehörden und Versicherungen; stärkt Teslas Position im Wettbewerb um den Robotaxi-Markt.",
+          "source": "electrek.co / Tesla FSD Record (Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "Komet C/2025 R3 PanSTARRS zeigt spektakuläre Doppelschweif-Struktur",
+          "body": "Der Komet C/2025 R3 PanSTARRS ist derzeit auf dem Weg aus dem inneren Sonnensystem und in Richtung der Konstellation Orion sichtbar. Amateurastronomen und das NASA Astronomy Picture of the Day dokumentierten am 10. Mai zwei deutlich getrennte Schweifarme: einen kurzen Staubschweif und einen langen, welligen Ionenschweif, der vom blauen Leuchten von angeregtem Kohlenmonoxid stammt. Im Hintergrund ist der Orionnebel sichtbar. Der Komet ist noch mehrere Wochen mit mittleren Teleskopen beobachtbar.",
+          "relevance": "Seltenes visuelles Ereignis mit wissenschaftlichem Wert: Die Schweifstruktur gibt Aufschluss über Sonnenwind-Intensität und Kometenkomposition.",
+          "source": "APOD / star.ucl.ac.uk (10. Mai 2026)"
+        },
+        {
+          "title": "Komet 10P/Tempel 2 hellt in Aquila auf – astronomisch beobachtbar",
+          "body": "Komet 10P/Tempel 2 befindet sich derzeit in der Konstellation Aquila und hellt rapide auf – aktuell bei Magnitude 15, aber rasch heller werdend. Erfahrene Beobachter mit größeren Teleskopen können ihn in den frühen Morgenstunden beobachten, wenn er gegen 2 Uhr MESZ etwa 20 Grad über dem südöstlichen Horizont steht. Der Komet gehört zur Jupiter-Familie und hat eine Umlaufzeit von etwa 5,4 Jahren. Die nächste Perihelpassage wird von Astronomen aufmerksam verfolgt.",
+          "relevance": "Gelegenheit für Amateurastronomen; wissenschaftlich relevant wegen möglicher Koma-Aktivitätsanalysen für Kometenmodelle.",
+          "source": "astronomy.com / Sky Today 10. Mai 2026"
+        }
+      ]
+    },
+    {
+      "heading": "Chips und Prozessoren",
+      "items": [
+        {
+          "title": "Weltweite Halbleiterumsätze Q1 2026: 298,5 Mrd. USD – +25 % gegenüber Q4 2025",
+          "body": "Die Semiconductor Industry Association (SIA) meldete globale Halbleiterverdienste von 298,5 Milliarden US-Dollar für das erste Quartal 2026, ein Anstieg von 25 % gegenüber dem Vorquartal. Treiber sind anhaltende KI-Chip-Nachfrage, insbesondere für Training und Inferenz in Rechenzentren. TSMC, Samsung und Intel verzeichnen starke Auftragseingänge, während DRAM- und NAND-Preise sich erholen. Der Markt zeigt damit eine robuste Fortsetzung des 2025 begonnenen Aufschwungs.",
+          "relevance": "Bestätigt, dass der KI-getriebene Chip-Boom keine temporäre Erscheinung ist; relevant für Investitionen in Fertigungskapazitäten und geopolitische Halbleiterpolitik.",
+          "source": "Semiconductor Industry Association / SIA Quarterly Report (Mai 2026)"
+        },
+        {
+          "title": "AMD kündigt MI440X für kleinere Unternehmens-Rechenzentren an",
+          "body": "AMD hat den MI440X angekündigt, einen neuen Beschleuniger-Chip, der speziell auf kleinere und mittlere Unternehmens-Rechenzentren ausgerichtet ist. Damit adressiert AMD ein Marktsegment unterhalb der Hyperscaler, das bislang hauptsächlich von NVIDIA-H-Serie-Chips bedient wurde. Der MI440X ist energie- und kosteneffizienter konzipiert als AMDs bisherige Flaggschiff-GPUs und soll mit dem ROCm-Software-Stack vollständig kompatibel sein. Eine breite Verfügbarkeit ist für Q3 2026 geplant.",
+          "relevance": "Demokratisierung von KI-Rechenleistung für mittelgroße Unternehmen; erhöht den Wettbewerbsdruck auf NVIDIAs dominante Marktposition.",
+          "source": "SIA / Semiconductor Industry Changes 2026"
+        }
+      ]
+    },
+    {
+      "heading": "Quantencomputing",
+      "items": [
+        {
+          "title": "Quantum Motion sichert 160 Mio. USD Series C für Silizium-Transistor-Quantencomputer",
+          "body": "Das britische Startup Quantum Motion schloss eine Series-C-Finanzierungsrunde über 160 Millionen US-Dollar ab, angeführt von DCVC und Kembara. Das Unternehmen entwickelt Quantenprozessoren auf Basis klassischer Siliziumtransistor-Technologie (CMOS-kompatibel), was die Massenproduktion mit bestehenden Chipfabrikationsprozessen ermöglichen würde. Der Ansatz gilt als einer der vielversprechendsten für skalierbare Fehlerkorrektur. Die Mittel sollen in Prototypen mit deutlich erhöhter Qubit-Zahl fließen.",
+          "relevance": "CMOS-Kompatibilität ist der potenzielle Gamechanger für Quantencomputing – Standard-Chipfabriken könnten Quantenchips produzieren, was Kosten und Skalierbarkeit revolutionieren würde.",
+          "source": "Quantum Computing Report (Mai 2026)"
+        },
+        {
+          "title": "Drei Quantencomputing-Unternehmen gehen 2026 an die Börse",
+          "body": "Im Jahr 2026 haben bislang drei Quantencomputing-Startups ihren Börsengang vollzogen: Xanadu Quantum Technologies (photonik-basiert, IPO am 27. März), Infleqtion sowie Horizon Quantum. Xanadu ist das erste börsennotierte reine Photonik-Quantencomputing-Unternehmen weltweit. Die Börsengänge signalisieren zunehmende Investorenbereitschaft, langfristige Wetten auf Quantentechnologie einzugehen. Der Markt bewertet insbesondere Plattformen, die in den nächsten drei Jahren kommerzielle Anwendungsfälle vorweisen können.",
+          "relevance": "IPOs bringen Transparenz und Kapital; sie markieren den Übergang vom Forschungsstadium zur kommerziellen Relevanz – ein wichtiger Reifeindikator für das gesamte Feld.",
+          "source": "The Motley Fool / Quantum Computing IPOs 2026 (10. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Robotik",
+      "items": [
+        {
+          "title": "Sony-KI schlägt Profispieler im Tischtennis – Nature-Cover-Studie",
+          "body": "Sony AI veröffentlichte in Nature eine Studie über das System 'Ace', das erste bekannte autonome Robotersystem, das Tischtennis auf Elite- und Profiniveau gegen menschliche Spieler gewinnen kann. Das Ergebnis markiert das erste Mal in einem weit verbreiteten Wettkampfsport, dass ein Roboter echtes menschliches Expertenniveau in der physischen Welt erreicht. Das System kombiniert Echtzeit-Bildverarbeitung, motorische Kontrolle und strategische Spielplanung. Die Studie erschien auf dem Cover der Ausgabe, was ihren wissenschaftlichen Impact unterstreicht.",
+          "relevance": "Meilenstein für Physical AI: Tischtennis erfordert Millisekunden-Reaktionen und Strategieanpassung – Kompetenzen, die für industrielle und Serviceroboter hochrelevant sind.",
+          "source": "Sony AI / Nature Cover Study (Mai 2026)"
+        }
+      ]
+    }
+  ]
+}
