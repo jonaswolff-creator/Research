@@ -1,0 +1,132 @@
+{
+  "date": "2026-05-13",
+  "generated_date": "2026-05-14",
+  "footer_sources": "NASA / SpaceX Blog, Space.com, NASASpaceFlight.com, Google Research Blog, GitHub/TurboQuant, ScienceDaily, Quantum Computing Report, Claims Journal, GlobeNewswire, Electrek, University of Florida News, SciTechDaily, Sky & Telescope, Universe Today",
+  "sections": [
+    {
+      "heading": "Künstliche Intelligenz",
+      "items": [
+        {
+          "title": "Google TurboQuant: 6-fache KV-Cache-Kompression ohne Qualitätsverlust",
+          "body": "Googles auf der ICLR 2026 vorgestellter Algorithmus TurboQuant komprimiert den Key-Value-Cache von Large Language Models auf nur 3 Bit pro Koordinate – das entspricht einer mindestens 6-fachen Speicherreduktion gegenüber FP16. Das Verfahren basiert auf einer zweistufigen Vektorquantisierung (PolarQuant + 1-Bit-QJL-Residualkorrektur) und benötigt kein Nachtraining des Modells. Auf NVIDIA-H100-GPUs wurde zusätzlich eine bis zu 8-fach schnellere Attention-Berechnung gemessen; erste Open-Source-Implementierungen für llama.cpp sind verfügbar.",
+          "relevance": "TurboQuant löst einen der zentralen Engpässe bei der Inferenz großer Sprachmodelle: den enormen Speicherbedarf des KV-Cache. Mit 6-facher Kompression wird das Ausführen langer Kontextfenster auf Consumer-Hardware deutlich realistischer – ein direkter Schritt Richtung demokratisierter LLM-Nutzung.",
+          "source": "Google Research Blog / ICLR 2026 (Mai 2026)"
+        },
+        {
+          "title": "DeepSeek-V4-Flash: 284-Milliarden-Parameter-MoE mit 13B aktiven Parametern",
+          "body": "DeepSeek veröffentlichte das Modell V4-Flash, das eine Mixture-of-Experts-Architektur (MoE) mit 284 Milliarden Gesamtparametern einsetzt, aber nur 13 Milliarden pro Token aktiviert. Damit kombiniert das Modell die Ausdrucksstärke sehr großer Modelle mit der Inferenzgeschwindigkeit kompakterer Systeme. Die selektive Parameteraktivierung senkt den Rechenaufwand drastisch, ohne die Modellqualität zu beeinträchtigen.",
+          "relevance": "MoE-Architekturen sind derzeit einer der vielversprechendsten Ansätze, um Skalierungs-Effizienz-Trade-offs zu umgehen. DeepSeeks konsequenter Einsatz dieser Methode zeigt, wie chinesische KI-Labs weiterhin an der Forefront der Architekturentwicklung agieren.",
+          "source": "DeepSeek / arXiv (Anfang Mai 2026)"
+        },
+        {
+          "title": "Rivian rollt KI-Sprachassistenten für alle R1-Fahrzeuge per OTA aus",
+          "body": "Rivian verteilte per Over-the-Air-Update einen neuen KI-gestützten Sprachassistenten an alle Gen-1- und Gen-2-R1-Besitzer. Das System wird durch 'Hey Rivian' oder einen Lenkrad-Knopfdruck aktiviert und ist in die fahrzeugspezifischen Funktionen integriert. Es erfordert ein aktives Connect+-Abonnement.",
+          "relevance": "Rivians OTA-Ansatz zeigt, wie Fahrzeuge durch Softwareupdates nachträglich signifikant aufgewertet werden – ein Modell, das die Automobilbranche grundlegend verändert.",
+          "source": "InsideEVs (13. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Luft- und Raumfahrt",
+      "items": [
+        {
+          "title": "SpaceX CRS-34: Startabbruch wegen Wetter, neuer Termin 15. Mai",
+          "body": "NASA und SpaceX mussten den Start der 34. kommerziellen Versorgungsmission zur ISS (CRS-34) am 13. Mai mit noch 30 Sekunden auf dem Countdown-Timer abbrechen – Cumulus- und Amboswolken sorgten für unzureichende Startbedingungen. Die Falcon-9-Rakete sollte 6.500 Pfund Fracht, Experimente und Ausrüstung befördern; die Dragon-Kapsel hätte einen neuen Rekord als sechstmalig wiederverwendetes Frachtraumschiff gesetzt. Der nächste Startversuch ist für den 15. Mai um 18:05 Uhr EDT (22:05 UTC) geplant.",
+          "relevance": "CRS-34 transportiert unter anderem photonische Halbleiterchips der University of Florida, die im Orbit auf ihre Tauglichkeit für weltraumgestützte KI-Datenzentren getestet werden sollen – ein wachsendes Forschungsfeld angesichts des steigenden Energiebedarfs von KI.",
+          "source": "NASA Blog / Space.com / NASASpaceFlight.com (13. Mai 2026)"
+        },
+        {
+          "title": "Photonische Halbleiterchips zur ISS: KI-Rechenzentren im Weltraum erprobt",
+          "body": "Ingenieure der University of Florida entwickelten photonische Chips, die mit CRS-34 zur Internationalen Raumstation transportiert werden. Das Experiment soll klären, ob die Weltraumumgebung (Strahlung, Vakuum, Temperaturextreme) diese Chips beeinträchtigt – und ob Orbit-Rechenzentren eine realistische Option sind, um dem wachsenden Energieverbrauch terrestrischer KI-Infrastruktur entgegenzuwirken.",
+          "relevance": "Weltraumbasierte Datenzentren könnten Solar-Energie direkt nutzen und thermische Abstrahlung ins Vakuum ermöglichen, was den Energieverbrauch gegenüber Erdrechenzentren erheblich senken könnte.",
+          "source": "University of Florida News (13. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin und Biologie",
+      "items": [
+        {
+          "title": "Sprachmuster als Frühindikator für Demenzrisiko identifiziert",
+          "body": "Forschende haben gezeigt, dass charakteristische Sprachmuster – Pausen, Füllwörter ('ähm'), Wortfindungsschwierigkeiten – eng mit der exekutiven Funktion des Gehirns korrelieren und ein Frühwarnzeichen für Demenz sein können. Die Studie analysierte Alltagsgespräche und verknüpfte die Sprachmerkmale mit kognitivem Screening. Die Methode könnte in Zukunft als nicht-invasives diagnostisches Werkzeug eingesetzt werden.",
+          "relevance": "Ein sprach-basiertes Screening wäre einfach skalierbar, kostengünstig und könnte Risikopatientinnen und -patienten Jahre vor dem klinischen Auftreten der Erkrankung identifizieren.",
+          "source": "ScienceDaily (13. Mai 2026)"
+        },
+        {
+          "title": "Methylsiloxane in der Atmosphäre: Silikonbasierte Schadstoffe ubiquitär nachgewiesen",
+          "body": "Wissenschaftlerinnen und Wissenschaftler entdeckten unerwartet hohe Konzentrationen methylsiloxanbasierter Schadstoffe (aus Kosmetika, Industrie) in der Atmosphäre – sowohl über Städten als auch über ländlichen Regionen und Wäldern. Die Substanzen akkumulieren in der Luft und könnten langfristig Ökosysteme belasten. Über Abbau und Toxikologie bestehen noch erhebliche Wissenslücken.",
+          "relevance": "Methylsiloxane sind bislang wenig reguliert. Der ubiquitäre Nachweis unterstreicht die Notwendigkeit, diese Stoffklasse in zukünftige Luftschadstoff-Regularien aufzunehmen.",
+          "source": "ScienceDaily (13. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Automobilindustrie",
+      "items": [
+        {
+          "title": "Europa investiert 235 Milliarden Dollar in Elektromobilität-Ökosystem",
+          "body": "Länder des Europäischen Wirtschaftsraums und der Schweiz haben Investitionen von fast 200 Milliarden Euro (ca. 235 Mrd. USD) in ihr Elektromobilitäts-Ökosystem zugesagt. Davon entfallen 109 Mrd. Euro auf die Batterielieferkette, 60 Mrd. Euro auf die EV-Fertigung und 23–46 Mrd. Euro auf öffentliche Ladeinfrastruktur; über eine Million öffentliche Ladepunkte wurden bereits errichtet.",
+          "relevance": "Die Größenordnung der Investitionen verdeutlicht Europas strategische Entschlossenheit, die Transformation zur Elektromobilität trotz geopolitischer und wirtschaftlicher Gegenwinds voranzutreiben.",
+          "source": "Claims Journal (13. Mai 2026)"
+        },
+        {
+          "title": "Tesla verdoppelt Batteriezellenkapazität in Berliner Gigafactory",
+          "body": "Tesla kündigte an, rund 250 Millionen Dollar zusätzlich in die Batteriezellenfertigung im Grünheider Werk außerhalb Berlins zu investieren und die geplante Kapazität damit auf 18 Gigawattstunden pro Jahr mehr als zu verdoppeln. Dadurch sollen über 1.500 batteriebezogende Arbeitsplätze entstehen.",
+          "relevance": "Die Investition stärkt Europas eigene Batterieproduktionskapazitäten und reduziert die Abhängigkeit von asiatischen Lieferketten – ein wichtiger Schritt für die Resilienz der europäischen Elektromobilität.",
+          "source": "Electrek (13. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "JWST kartiert kosmisches Netz mit bisher höchster Auflösung",
+          "body": "Astronominnen und Astronomen haben mithilfe des James-Webb-Weltraumteleskops die bislang detaillierteste Karte des sogenannten kosmischen Netzes erstellt – der riesigen Filament- und Knotenstruktur, die Galaxien im Universum verbindet. Die Karte enthüllt feine Strukturen in der Masseverteilung des frühen Universums, die bisher unter der Nachweisgrenze lagen.",
+          "relevance": "Das kosmische Netz bestimmt, wie sich Materie und Galaxien im Universum verteilen. Eine präzisere Karte ermöglicht schärfere Tests der Kosmologie und des Standardmodells.",
+          "source": "SciTechDaily / JWST-Team (Mai 2026)"
+        },
+        {
+          "title": "Citizen Scientists identifizieren über 3.000 Braune-Zwerg-Kandidaten",
+          "body": "Durch systematische Auswertung von WISE-Infrarotarchivdaten fanden Freiwillige im Citizen-Science-Projekt mehr als 3.000 potenzielle Braune Zwerge in der Sonnenumgebung – das würde die Gesamtzahl bekannter Brauner Zwerge mehr als verdoppeln. Diese 'Versagssterne' sind in optischem Licht kaum sichtbar und galten bisher als schwer auffindbar.",
+          "relevance": "Ein derart großer Zuwachs an Braunen-Zwerg-Kandidaten könnte die Statistiken zur Häufigkeit substellarer Objekte revidieren und unser Bild von der solaren Nachbarschaft grundlegend verändern.",
+          "source": "Universe Today / ScienceDaily (Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Chips und Halbleiter",
+      "items": [
+        {
+          "title": "Halbleiterumsatz Q1 2026: Rekordwachstum von 25 % auf 298 Milliarden USD",
+          "body": "Der globale Halbleitermarkt erzielte im ersten Quartal 2026 einen Umsatz von 298,5 Milliarden US-Dollar – ein Anstieg von 25 % gegenüber Q4 2025 und die stärkste Quartalswachstumsrate in der 70-jährigen Geschichte der Branche. TSMC prognostiziert, dass der Markt bis 2030 auf über 1,5 Billionen USD anwächst.",
+          "relevance": "Die KI-Nachfrage nach Hochleistungschips bleibt der primäre Wachstumstreiber. Das Rekordumsatzwachstum unterstreicht, wie zentral Halbleiter für die gesamte technologische Transformation geworden sind.",
+          "source": "SIA / Deloitte Semiconductor Outlook (Mai 2026)"
+        },
+        {
+          "title": "US-China-Gespräche über Halbleiter-Exportkontrollen vor Trump-Xi-Gipfel",
+          "body": "Am 12./13. Mai führten die USA und China in Seoul vorbereitende Gespräche für ein erwartetes Gipfeltreffen zwischen Präsident Trump und Xi Jinping. Im Mittelpunkt standen Handelsfragen, Technologietransfer und insbesondere die US-Halbleiter-Exportkontrollen gegenüber China. Die Verhandlungen könnten Erleichterungen bei bestimmten Chipexporten nach sich ziehen.",
+          "relevance": "Halbleiter-Exportkontrollen sind zu einem zentralen Instrument geopolitischer Auseinandersetzung geworden. Ein möglicher Kompromiss hätte weitreichende Auswirkungen auf die globalen Lieferketten und die strategische Wettbewerbsfähigkeit beider Länder.",
+          "source": "DigiTimes (12./13. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Quantencomputing",
+      "items": [
+        {
+          "title": "Japan entwickelt Methode zur Sofort-Detektion quantenmechanischer W-Zustände",
+          "body": "Japanische Forschende stellten eine neue Technik vor, mit der sich sogenannte W-Zustände – eine Form verschränkter Mehrteilchen-Quantenzustände – unmittelbar und zuverlässig nachweisen lassen. W-Zustände sind für Quantenkommunikation und Quantenteleportation besonders relevant, da sie robuster gegenüber dem Verlust einzelner Qubits sind als GHZ-Zustände.",
+          "relevance": "Die Detektion von W-Zuständen war bisher aufwändig und fehleranfällig. Die neue Methode ist ein wichtiger Schritt für praktische Quantennetzwerke und könnte künftige Quantencomputer effizienter machen.",
+          "source": "ScienceDaily (13. Mai 2026)"
+        },
+        {
+          "title": "Quanten-inspirierter Algorithmus simuliert Quasikristalle erstmals realistisch",
+          "body": "Forscherinnen und Forscher veröffentlichten einen Quanten-inspirierten Algorithmus, der die Simulation von Quasikristallen – hochkomplexen Quantenmaterialien mit aperiodischer Struktur – ermöglicht, an denen klassische Supercomputer scheitern. Das Verfahren nutzt Tensornetzwerke und Konzepte aus der Quanteninformation, ohne physischen Quantenhardwareeinsatz.",
+          "relevance": "Quasikristalle zeigen ungewöhnliche elektronische und thermodynamische Eigenschaften; ihre realistische Simulation könnte die Entwicklung neuer Materialien für Supraleiter, Batterien und Katalysatoren beschleunigen.",
+          "source": "ScienceDaily / Quantum Computing Report (13. Mai 2026)"
+        }
+      ]
+    }
+  ]
+}
