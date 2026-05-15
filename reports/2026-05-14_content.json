@@ -1,0 +1,115 @@
+{
+  "date": "2026-05-14",
+  "generated_date": "2026-05-15",
+  "footer_sources": "SiliconANGLE, Bloomberg Law, Releasebot / Anthropic, Crescendo AI News, Spaceflight Now, Space.com, Digitimes, Semiconductor Industry Association (SIA), ScienceDaily, The Quantum Insider",
+  "sections": [
+    {
+      "heading": "Künstliche Intelligenz",
+      "items": [
+        {
+          "title": "Anthropic startet Claude-for-Small-Business-Roadshow und 12 neue Rechts-KI-Plugins",
+          "body": "Anthropic hat am 14. Mai in Chicago die \"Claude for Small Business\"-Roadshow gestartet: ein kostenloser, halbtägiger Live-Workshop für bis zu 100 lokale Unternehmer pro Stadt. Parallel dazu enthüllte Anthropic auf Bloomberg Law 12 neue KI-Plugins für juristische Fachgebiete – darunter Unternehmens-, Regulierungs- und Arbeitsrecht. Beide Maßnahmen ergänzen die kürzlich angekündigte Trennung von interaktiven und API-Credits im Agent SDK ab dem 15. Juni.",
+          "relevance": "Anthropic verschiebt seine Positionierung spürbar: weg vom reinen Enterprise-Fokus, hin zu Branchen-Verticals und dem breiten KMU-Markt – ein wichtiger Schritt im Wettbewerb mit OpenAI und Google.",
+          "source": "SiliconANGLE / Bloomberg Law (14. Mai 2026)"
+        },
+        {
+          "title": "Google TurboQuant: Neuer Algorithmus reduziert KV-Cache-Speicherbedarf in LLMs",
+          "body": "Googles Forschungsteam präsentierte auf der ICLR 2026 den TurboQuant-Algorithmus, der den Speicher-Overhead des Key-Value-Cache in großen Sprachmodellen deutlich reduziert. Der KV-Cache ist ein zentraler Engpass beim Betrieb von Transformermodellen mit langen Kontexten, da sein Speicherbedarf linear mit der Sequenzlänge wächst. TurboQuant verwendet einen adaptiven Quantisierungsansatz, der gespeicherte KV-Paare komprimiert, ohne messbare Qualitätsverluste in Benchmarks zu erzeugen. Die Methode könnte On-Device-Inferenz und Rechenzentrumsbetrieb gleichermaßen verbilligen.",
+          "relevance": "Für KI-Studierende besonders relevant: TurboQuant steht exemplarisch für den aktuellen Paradigmenwechsel in der LLM-Forschung – weg von blindem Parameter-Scaling, hin zu Effizienzoptimierungen auf Architekturebene.",
+          "source": "Crescendo AI News / ICLR 2026 (Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Raumfahrt",
+      "items": [
+        {
+          "title": "SpaceX Cargo Dragon 34 dockt erfolgreich an der ISS an",
+          "body": "Die 34. kommerzielle Cargo-Dragon-Mission von SpaceX hat am 14. Mai um ca. 7:35 Uhr UTC erfolgreich an der Internationalen Raumstation angedockt. Das Raumschiff transportiert Nachschub, Ausrüstung und wissenschaftliche Nutzlasten für die Crew. Der Start war zuvor zweimal wegen ungünstiger Wetterbedingungen abgesagt worden, verlief beim dritten Versuch aber reibungslos.",
+          "relevance": "SpaceX demonstriert erneut die hohe Zuverlässigkeit kommerzieller Raumtransportsysteme, auf die NASA für die ISS-Versorgung angewiesen ist – ein Modell, das zunehmend auf internationale Raumfahrtprogramme ausstrahlt.",
+          "source": "Spaceflight Now (14. Mai 2026)"
+        },
+        {
+          "title": "ViaSat-3 F2: Satelliten-Reflektor entfaltet – Erde als spektakuläre Kulisse",
+          "body": "Der Kommunikationssatellit ViaSat-3 F2 hat seinen großen Antennenreflektor mehr als 35.000 km über der Erde erfolgreich entfaltet. Ein Foto, das zum 'Space Photo of the Day' am 14. Mai gekürt wurde, zeigt die Erde als Hintergrund hinter dem sich öffnenden Reflektor. Der Satellit ist Teil von ViaSats globalem Hochkapazitäts-Breitbandnetz.",
+          "relevance": "Die erfolgreiche Inbetriebnahme des Reflektors ist entscheidend für ViaSats Strategie, abgelegene Regionen mit Hochgeschwindigkeitsinternet zu versorgen und im Wettbewerb mit Starlink zu bestehen.",
+          "source": "Space.com – Photo of the Day (14. Mai 2026)"
+        },
+        {
+          "title": "NASA-Sonde Psyche fotografiert Mars vor geplantem Flyby",
+          "body": "Die NASA-Sonde Psyche, auf dem Weg zum metallischen Asteroiden (16) Psyche im Asteroidengürtel, hat am 14. Mai eindrucksvolle Aufnahmen des Mars eingefangen – unmittelbar vor einem Schwerkraft-Assistenzmanöver am 15. Mai. Der Mars-Flyby soll die Sonde auf ihren finalen Kurs beschleunigen und dabei Treibstoff sparen. Die Psyche-Mission soll erstmals einen metalldominanten Asteroiden aus der Nähe untersuchen, um Erkenntnisse über planetare Kerne zu gewinnen.",
+          "relevance": "Der Flyby ist ein Schlüsselmoment der Mission: Gelingt er, ist Psyche auf Kurs zu einem wissenschaftlich einzigartigen Zielobjekt, das möglicherweise einem freiliegenden Planetenkern ähnelt.",
+          "source": "Space.com (14. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "Bürgerwissenschaftler verdoppeln Zahl bekannter Brauner Zwerge in Sonnennähe",
+          "body": "Ein Konsortium aus Bürgerwissenschaftlern und professionellen Astronomen hat mehr als 3.000 neue Kandidaten-Braune Zwerge in der stellaren Nachbarschaft der Sonne identifiziert. Damit wird die bisher bekannte Gesamtzahl Brauner Zwerge in unserer kosmischen Umgebung mehr als verdoppelt. Braune Zwerge sind Objekte zwischen Planeten und Sternen: zu massereich für dauerhafte Fusionsreaktionen, zu leicht, um als Sterne zu leuchten.",
+          "relevance": "Die massiv erweiterte Stichprobe ermöglicht präzisere Modelle der Massenverteilung in der Galaxis und könnte Hinweise auf die Entstehungsgeschichte des Sonnensystems liefern.",
+          "source": "Space.com (14. Mai 2026)"
+        },
+        {
+          "title": "KI macht kosmologische Messungen viermal präziser",
+          "body": "Forscher haben eine KI-Methode entwickelt, die Rauschen in astronomischen Daten in einem einzigen Schritt eliminiert – insbesondere bei der Distanzmessung von Supernovae Typ Ia. Die Methode verbessert die Präzision kosmologischer Distanzmessungen laut Angaben um den Faktor vier. Dies hat direkte Auswirkungen auf die Bestimmung der Hubble-Konstante und das Verständnis der dunklen Energie.",
+          "relevance": "Genauere Supernovae-Distanzen sind entscheidend für die Lösung der sogenannten Hubble-Tension – einem der größten ungelösten Widersprüche in der modernen Kosmologie.",
+          "source": "ScienceDaily (Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin & Biologie",
+      "items": [
+        {
+          "title": "Multivitamine können biologisches Altern laut klinischer Studie verlangsamen",
+          "body": "In einer großen, randomisierten klinischen Studie mit älteren Erwachsenen zeigten Teilnehmer, die zwei Jahre lang täglich Multivitaminpräparate einnahmen, eine messbar langsamere Alterung in mehreren DNA-basierten epigenetischen Uhren. Diese Biomarker messen nicht das chronologische, sondern das biologische Alter auf Zellebene. Die Effektgröße war statistisch signifikant, wenn auch moderat.",
+          "relevance": "Falls die Ergebnisse in unabhängigen Studien repliziert werden, könnten günstige und weitverbreitete Multivitaminpräparate zu einer ersten evidenzbasierten Anti-Aging-Intervention werden – ein wichtiger Befund für die Geroscience.",
+          "source": "ScienceDaily (Mai 2026)"
+        },
+        {
+          "title": "Genomstudie: Dritte Vorfahrengruppe in japanischen Genomen entdeckt",
+          "body": "Wissenschaftler, die die Genome tausender Menschen in Japan analysierten, fanden Belege für eine bisher unbekannte dritte Vorfahrengruppe. Bislang galt das Zwei-Quellen-Modell (Jōmon-Jäger und Yayoi-Bauern als Ahnen der modernen Japaner) als wissenschaftlicher Konsens. Die neue Gruppe hinterließ messbare genetische Signaturen im modernen japanischen Erbgut und scheint aus einer anderen Migrationsroute zu stammen.",
+          "relevance": "Der Fund schreibt die Migrationsgeschichte Ostasiens neu und zeigt, wie populationsgenetische Studien mit großen Genomdatenbanken historiografische Annahmen grundlegend revidieren können.",
+          "source": "ScienceDaily (Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Chips & Halbleiter",
+      "items": [
+        {
+          "title": "QBit Semiconductor: Börsennotierung mit Fokus auf Edge-KI-ASICs",
+          "body": "Das IC-Designunternehmen QBit Semiconductor steht laut einem Bericht vom 14. Mai kurz vor seiner Notierung am Emerging Stock Board am 15. Mai. Das Unternehmen, gegründet vom früheren Kinpo-Manager Simon Shen, spezialisiert sich auf maßgeschneiderte ASICs für Edge-KI-Anwendungen. Es profitiert vom strukturellen Wandel im ASIC-Markt, der durch den Übergang von allgemeinen zu spezialisierten KI-Inferenzchips angetrieben wird.",
+          "relevance": "Der Börsengang signalisiert das wachsende Investoreninteresse an Edge-KI-Chipdesign – einem Markt, der von zunehmenden Datenschutzanforderungen und dem Bedarf an energieeffizienter lokaler Inferenz profitiert.",
+          "source": "Digitimes (14. Mai 2026)"
+        },
+        {
+          "title": "Globale Halbleiterumsätze steigen um 25% im ersten Quartal 2026",
+          "body": "Die Semiconductor Industry Association (SIA) meldet globale Halbleiterumsätze von 298,5 Milliarden US-Dollar im ersten Quartal 2026 – ein Anstieg von 25% gegenüber dem Vorquartal. Der Haupttreiber ist die anhaltende KI-Infrastrukturnachfrage, insbesondere für GPU- und HBM-Speichersysteme. Für das Gesamtjahr 2026 prognostiziert die Branche einen historischen Rekord von rund 975 Milliarden US-Dollar Jahresumsatz.",
+          "relevance": "Die Zahlen belegen, dass die KI-getriebene Halbleiternachfrage kein Strohfeuer ist. TSMC, NVIDIA und die zugehörige Lieferkette positionieren sich als strategische Infrastruktur des digitalen Zeitalters.",
+          "source": "Semiconductor Industry Association – SIA Report (Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Quantencomputing",
+      "items": [
+        {
+          "title": "Japan: Neue Methode zur sofortigen Detektion von Quanten-W-Zuständen",
+          "body": "Japanische Wissenschaftler haben eine Methode entwickelt, um Quanten-W-Zustände unmittelbar und zuverlässig zu detektieren. W-Zustände sind eine Form mehrpartiger Quantenverschränkung, bei der die Verschränkung auch dann erhalten bleibt, wenn ein Qubit verloren geht – was sie robuster als GHZ-Zustände macht. Die neue Messmethode könnte Quantenkommunikation, Teleportation und verteiltes Quantenrechnen erheblich vereinfachen.",
+          "relevance": "W-Zustände gelten als vielversprechend für reale Quantennetzwerke, da ihre Fehlertoleranz praktische Implementierungen erst möglich macht. Die Detektion war bisher ein wesentliches Hindernis für skalierbare Quantenkommunikation.",
+          "source": "ScienceDaily (13.–14. Mai 2026)"
+        },
+        {
+          "title": "NVIDIA launcht Ising: KI-Modelle zur Beschleunigung des Quantencomputing",
+          "body": "NVIDIA hat Ising vorgestellt, die nach eigenen Angaben ersten offenen KI-Modelle, die explizit darauf ausgelegt sind, den Weg zu nützlichem Quantencomputing zu beschleunigen. Ising kombiniert klassische KI-Methoden mit Quantenoptimierungsproblemen und soll Forscher dabei unterstützen, quantenvorteilhafte Algorithmen schneller zu identifizieren und zu validieren. Die Modelle werden als Open-Source veröffentlicht.",
+          "relevance": "NVIDIAs Einstieg in hybride Quanten-KI-Werkzeuge zeigt, wie klassische KI zunehmend eingesetzt wird, um die noch junge Quantencomputingbranche zu beschleunigen – ein strategisch wichtiger Schachzug.",
+          "source": "NVIDIA Newsroom (Mai 2026)"
+        }
+      ]
+    }
+  ]
+}
