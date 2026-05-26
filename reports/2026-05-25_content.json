@@ -1,0 +1,102 @@
+{
+  "date": "2026-05-25",
+  "generated_date": "2026-05-26",
+  "footer_sources": "NIH / Nature Metabolism, ScienceDaily, McGill University / EMBO Reports, Google Research / ICLR 2026, Nature (Sony AI), Rocket Lab / SpaceNews, Big News Network, NASA, IEA Global EV Outlook 2026, IDC / TechInsights, University of Pennsylvania",
+  "sections": [
+    {
+      "heading": "Künstliche Intelligenz",
+      "items": [
+        {
+          "title": "Google TurboQuant: 6-fache KV-Cache-Kompression für LLM-Inferenz (ICLR 2026)",
+          "body": "Google Research präsentierte auf der ICLR 2026 den Algorithmus TurboQuant, der den Key-Value-Cache großer Sprachmodelle auf 3 Bit pro Koordinate komprimiert und dabei praktisch keinen Qualitätsverlust aufweist. Die Methode kombiniert PolarQuant (rotationsbasierte Koordinatentransformation) mit einer 1-Bit-QJL-Residualkorrektur und erreicht eine mindestens 6-fache Speicherreduktion sowie bis zu 8-fach schnellere Attention-Berechnungen auf NVIDIA-H100-GPUs. Der Ansatz ist trainings- und datenfrei und arbeitet nur 2,7-fach über der informationstheoretischen Grenze – nahezu optimal.",
+          "relevance": "KV-Cache-Speicher ist einer der zentralen Engpässe bei LLM-Inferenz mit langen Kontextfenstern. TurboQuant könnte die Betriebskosten von KI-Assistenten erheblich senken und größere Kontextfenster auf bestehender Hardware ermöglichen – direkt relevant für KI-Studenten und Ingenieure.",
+          "source": "Google Research Blog / arXiv 2504.19874 / ICLR 2026"
+        },
+        {
+          "title": "Sony AI 'Project Ace': Roboter besiegt erstmals professionelle Tischtennis-Spieler – Nature-Cover",
+          "body": "Sony AIs autonomes System 'Ace' wurde als erstes robotisches System dokumentiert, das professionelle menschliche Tischtennis-Spieler besiegt. Der Roboter setzt auf ereignisbasierte Vision-Sensoren (Event Cameras) für Hochgeschwindigkeitswahrnehmung und modellfreies Reinforcement Learning für Motorsteuerung. In Matches vom März 2026 gewann Ace gegen drei neue Profispieler jeweils mindestens einen Satz. Das Paper erschien auf dem Cover der Fachzeitschrift Nature.",
+          "relevance": "Dieser Meilenstein belegt, dass KI-gesteuerte Roboter komplexe dynamische Echtzeit-Interaktionen in der physischen Welt beherrschen können – ein Schlüsselschritt für allgemein-fähige physische KI und Robotik.",
+          "source": "Nature (23. April 2026) / Sony AI / Robotics and Automation News"
+        }
+      ]
+    },
+    {
+      "heading": "Luft- und Raumfahrt",
+      "items": [
+        {
+          "title": "Shenzhou-23-Crew betritt Tiangong: Erster Taikonaut aus Hongkong im All",
+          "body": "Die drei Astronauten der chinesischen Mission Shenzhou-23 betraten am 25. Mai 2026 die Raumstation Tiangong und wurden von der Shenzhou-21-Besatzung empfangen. Zur neuen Crew gehört Li Jiaying (kantonesisch: Lai Ka-ying), die erste Taikonautin aus der Sonderverwaltungsregion Hongkong. Die Mission leitet eine neue Runde des Crew-Austauschs ein; Tiangong ist seit 2022 durchgehend bemannt.",
+          "relevance": "China festigt seine Präsenz in der bemannten Raumfahrt und integriert erstmals Hongkong symbolisch und operativ in das nationale Raumfahrtprogramm – ein geopolitisch bedeutsames Signal.",
+          "source": "Big News Network / Space Policy Online (25. Mai 2026)"
+        },
+        {
+          "title": "Rocket Lab: 90-Millionen-Dollar-Vertrag der U.S. Space Force für zwei GEO-Überwachungssatelliten",
+          "body": "Das U.S. Space Force Space Systems Command vergab Rocket Lab einen Auftrag über 90 Millionen US-Dollar für den Bau, Start und fünfjährigen Betrieb von zwei geostationären Satelliten mit dem Heimdall-Payload zur Raumdomänen-Überwachung (Space Domain Awareness). Rocket Lab agiert als Hauptauftragnehmer und baut die Satelliten auf dem hauseigenen Lightning-Bus; der optische Sensor wird von Rocket Lab Optical Systems (ehemals GEOST) beigesteuert. Der Start erfolgt auf einem vom Staat beigestellten Träger.",
+          "relevance": "Dies ist Rocket Labs erster GEO-Produktionsauftrag und markiert den strategischen Aufstieg des Unternehmens zum End-to-End-Militärraum-Anbieter – ein wichtiger Schritt im wachsenden Markt für Weltraum-Lagebilder.",
+          "source": "Rocket Lab / SpaceNews / GlobeNewswire (22. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "NASA Nancy Grace Roman Space Telescope: Starttermin auf September 2026 vorgezogen",
+          "body": "Die NASA hat das Startdatum des Roman Space Telescope auf September 2026 vorgezogen, deutlich früher als die ursprüngliche Deadline (spätestens Mai 2027). Das Infrarot-Observatorium wird mit einer 288-Megapixel-Weitfeldkamera ausgestattet, die in einer Aufnahme die 100-fache Fläche des Hubble-Teleskops abdeckt. Roman ist darauf ausgelegt, dunkle Materie, dunkle Energie, Gravitationslinsen und Hunderte Millionen Galaxien zu kartieren.",
+          "relevance": "Das Roman-Teleskop gilt als das transformativste NASA-Observatorium seit dem James Webb Space Telescope und könnte grundlegende kosmologische Fragen zur Natur dunkler Materie und Energie beantworten.",
+          "source": "NASA / ScienceDaily (18. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin & Biologie",
+      "items": [
+        {
+          "title": "NIH entschlüsselt Wirkplateau von Ozempic/Wegovy auf molekularer Ebene",
+          "body": "NIH-Forscher haben in einer in Nature Metabolism veröffentlichten Studie gezeigt, warum Semaglutid bei vielen Patienten ein Gewichtsreduktions-Plateau erreicht: Das Medikament erhöht den Botenstoff cAMP in Neuronen des Area-postrema-Bereichs (appetitregulierend), doch bestimmte Neuronen internalisieren ihre GLP-1-Rezeptoren, was den cAMP-Anstieg auf vorübergehend begrenzt. Die Hemmung des Enzyms PDE4 durch Roflumilast verlängerte den Effekt in Mausversuchen signifikant.",
+          "relevance": "Mit über 130 Millionen GLP-1-Nutzern weltweit hat diese Erkenntnis großes klinisches Potenzial: Kombinationstherapien könnten das Plateau durchbrechen und die Wirksamkeit von GLP-1-Medikamenten deutlich verbessern.",
+          "source": "NIH / Nature Metabolism / ScienceDaily (25. Mai 2026)"
+        },
+        {
+          "title": "McGill University: NK-Zellen durch small-molecule-Hemmer reversibel gegen Tumoren 'aufgeladen'",
+          "body": "Forscher der McGill University hemmten zwei inhibitorische Proteine in natürlichen Killer-Zellen (NK-Zellen) mit kleinen Molekülen und steigerten deren Tumorbekämpfung erheblich. In präklinischen Modellen wurden Leukämie, Glioblastom, Nierenkarzinom und triple-negativer Brustkrebs wirksam bekämpft – ohne genetische Veränderung der Zellen. Der reversible small-molecule-Ansatz vermeidet die Risiken dauerhafter Genveränderung, die bei CAR-T-Therapien ein Problem darstellen. Das Paper erschien in EMBO Reports.",
+          "relevance": "Dieser Ansatz könnte die nächste Krebsimmuntherapie-Generation prägen: breiteres Tumorspektrum, geringeres Nebenwirkungsrisiko und einfachere Herstellung als individuelle CAR-T-Zelltherapien.",
+          "source": "McGill University / EMBO Reports (April 2026) / ScienceDaily (23. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Energie & Physikalisches Computing",
+      "items": [
+        {
+          "title": "Hybride Licht-Materie-Partikel: Energieeffizientes optisches Rechnen für KI",
+          "body": "Forscher der University of Pennsylvania erzeugten hybride Licht-Materie-Partikel (Polaritonen) in einem Festkörpersystem, die KI-Berechnungen potenziell drastisch beschleunigen und gleichzeitig den Energieverbrauch senken könnten. Diese Quasiteilchen vereinen Eigenschaften von Photonen (Lichtgeschwindigkeit, minimale Wärmeverluste) mit denen von Elektronen (Wechselwirkungsfähigkeit), was neue Architekturen für optisches Rechnen eröffnet. Die Arbeit erschien auf ScienceDaily und wurde als mögliche Alternative zu konventionellen Halbleiterprozessoren diskutiert.",
+          "relevance": "Angesichts des exponentiell wachsenden Stromverbrauchs von KI-Rechenzentren könnte lichtbasiertes Rechnen eine transformative Technologie sein – mit Potenzial für drastisch effizientere Hardware der nächsten Generation.",
+          "source": "University of Pennsylvania / ScienceDaily (18. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Halbleiter & Speichertechnologie",
+      "items": [
+        {
+          "title": "HBM4 vor Massenproduktion – globaler Halbleitermarkt auf Kurs zu 1,29 Billionen Dollar 2026",
+          "body": "Während Samsung, SK Hynix und Micron HBM3E aggressiv skalieren, wird HBM4 (16-Hi-Stacking) für die erste Jahreshälfte 2026 zur Volumenproduktion erwartet – passend zur nächsten KI-Beschleuniger-Generation. Der globale Halbleitermarkt erzielte im ersten Quartal 2026 bereits 298,5 Milliarden US-Dollar (25% Wachstum zu Q4 2025); IDC prognostiziert für das Gesamtjahr 2026 einen Rekordwert von 1,29 Billionen Dollar, ein Anstieg von 52,8% gegenüber 2025.",
+          "relevance": "HBM4 ist der kritische Engpassfaktor für die Leistungsfähigkeit künftiger KI-Chips. Das Marktrekord spiegelt die beispiellose KI-getriebene Investitionswelle wider – mit Auswirkungen auf Lieferketten und geopolitische Technologiekonkurrenz.",
+          "source": "IDC / TechInsights / EE Times / IndexBox (Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Elektromobilität",
+      "items": [
+        {
+          "title": "IEA Global EV Outlook 2026: 23 Millionen E-Autos – fast 30% aller Neuwagen weltweit elektrisch",
+          "body": "Laut dem aktuellen Global EV Outlook 2026 der Internationalen Energieagentur werden 2026 rund 23 Millionen Elektrofahrzeuge verkauft, knapp 30% aller weltweiten Neuzulassungen. Europa nähert sich einer Quote von einem Drittel, China überschreitet in einzelnen Monaten 60% Marktanteil. Steigende Kraftstoffpreise infolge der Naher-Osten-Energiekrise beschleunigen die Nachfrage. Stellantis und Leapmotor planen zudem eine Vertiefung ihrer Partnerschaft mit lokaler Fertigung des C-SUV B10.",
+          "relevance": "Der Kipppunkt der Elektromobilität ist überschritten: Fast jeder dritte Neuwagen weltweit ist elektrisch. Das verändert Lieferketten, Energienetze und den geopolitischen Wettbewerb um Batterierohstoffe grundlegend.",
+          "source": "IEA Global EV Outlook 2026 / Stellantis Pressemitteilung (Mai 2026)"
+        }
+      ]
+    }
+  ]
+}
