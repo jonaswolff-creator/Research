@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-29",
+  "generated_date": "2026-05-30",
+  "footer_sources": "Anthropic, TechCrunch, MarkTechPost, GitHub Changelog, CBS News, NPR, Spaceflight Now, Space.com, Washington Post, Xinhua, ScienceDaily, Journal of Geophysical Research: Space Physics (Wiley), BNN Bloomberg, GV Wire, Biohub, Axios, Nature, Digital Journal",
+  "sections": [
+    {
+      "heading": "Künstliche Intelligenz",
+      "items": [
+        {
+          "title": "Anthropic veröffentlicht Claude Opus 4.8 mit Dynamic Workflows für hunderte parallele Subagenten",
+          "body": "Anthropic hat am 28. Mai 2026 Claude Opus 4.8 veröffentlicht – mit verbesserter Ehrlichkeit (vier Mal weniger verschwiegene Codefehler als Opus 4.7), neuen Effort-Controls und gleichzeitig dem Launch von Dynamic Workflows in Research Preview. Das System schreibt automatisch Orchestrierungsskripte, startet bis zu 1.000 parallele Subagenten in einer Session, setzt adversarielle Agenten zur Überprüfung von Ergebnissen ein und iteriert bis zur Konvergenz. Der Fast-Mode kostet nun dreimal weniger als beim Vorgänger (10 USD/Mio. Input-Tokens) und ist sofort über API, Amazon Bedrock, Google Cloud Vertex AI und Microsoft Foundry verfügbar.",
+          "relevance": "Für KI-Studierende besonders relevant: Dynamic Workflows adressiert direkt das offene Problem der zuverlässigen Multi-Agenten-Koordination. Die Architektur aus adversariellen Verifikationsagenten und paralleler Exploration ist ein konkretes Beispiel für skalierbare Ansätze zur Lösung komplexer Langzeitaufgaben – ein aktuelles Kernthema der KI-Forschung.",
+          "source": "Anthropic (anthropic.com/news), TechCrunch, MarkTechPost, GitHub Changelog (28. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Raumfahrt",
+      "items": [
+        {
+          "title": "Blue Origin New Glenn explodiert auf Startrampe bei Cape Canaveral – schwerer Rückschlag für Amazon Kuiper",
+          "body": "In den frühen Morgenstunden des 29. Mai 2026 (UTC; ca. 01:00 Uhr) explodierte die 57 Meter hohe erste Stufe der New-Glenn-Rakete von Blue Origin während eines Triebwerk-Statiktests am Cape Canaveral Space Force Station. Beim Zünden der sieben methanbasierten BE-4-Triebwerke brach am Fuß der Rakete ein Feuer aus; die erste Stufe kollabierte und riss die Oberstufe mit. Alle Mitarbeiter wurden unverletzt evakuiert. Blue Origin hatte den nächsten Flug für einen Amazon-Kuiper-Satellitenstarts im Juni eingeplant und besitzt nur eine einzige New-Glenn-Startrampe, die nun beschädigt ist.",
+          "relevance": "Der Vorfall ist ein gravierender Rückschlag für Blue Origins Marktstellung und für Amazons Projekt Kuiper, das Tausende Satelliten zur Breitbandversorgung in den Orbit bringen will. Er verdeutlicht, wie riskant Triebwerkstests großer Trägerraketen bleiben – auch für finanzkräftige Unternehmen.",
+          "source": "CBS News, NPR, Spaceflight Now, CNBC, Space.com (29. Mai 2026)"
+        },
+        {
+          "title": "Shenzhou-21-Besatzung kehrt nach 210 Tagen zur Erde zurück – neuer chinesischer Rekord",
+          "body": "Die drei Taikonauten Zhang Lu, Wu Fei und Zhang Hongzhang landeten am 29. Mai 2026 um 12:11 UTC an der Dongfeng-Landestelle in der Inneren Mongolei, nach 210 Tagen an Bord der chinesischen Raumstation Tiangong – die längste Einzelmission einer chinesischen Besatzung bislang. Besonderheit der Mission: Ein Riss im Fenster der Shenzhou-20-Kapsel zwang die Crew, ihr eigenes Raumschiff der Ablösebesatzung zu überlassen und schließlich in der neu eingetroffenen Shenzhou-22-Kapsel zurückzukehren.",
+          "relevance": "China demonstriert mit dieser Mission wachsende operationelle Reife für Langzeitmissionen und Notfallmanagement im Orbit. Die 210-Tage-Marke ist ein Meilenstein auf dem Weg zu künftigen chinesischen Mondmissionen, für die ähnliche Aufenthaltsdauern vorgesehen sind.",
+          "source": "Space.com, Washington Post, Xinhua (29. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "JWST löst Jahrzehnte altes Rätsel um Saturns scheinbar schwankende Rotationsgeschwindigkeit",
+          "body": "Forschende der Northumbria University haben mithilfe des James Webb Space Telescope erstmals beobachtet, warum Messinstrumente Saturns Rotationsrate über Jahrzehnte unterschiedlich angaben: Nicht der Planet selbst dreht sich schneller oder langsamer, sondern sein Nordlicht treibt einen selbstverstärkenden Kreislauf aus Wärme, Höhenwinden und elektrischen Strömen an, der die messbaren elektromagnetischen Signaturen variieren lässt. JWST kartierte Saturns Nordpol-Auroraregion über einen vollständigen Saturnstag in bisher unerreichter Infrarot-Auflösung.",
+          "relevance": "Das Ergebnis, veröffentlicht im Journal of Geophysical Research: Space Physics, zeigt WEBBs Einzigartigkeit bei der Untersuchung planetarer Atmosphären. Das Verständnis aurora-getriebener Wärmemechanismen ist direkt übertragbar auf andere Gasriesen im Sonnensystem und auf Exoplaneten.",
+          "source": "ScienceDaily, Journal of Geophysical Research: Space Physics / Northumbria University (29. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Quantencomputing",
+      "items": [
+        {
+          "title": "IBM kündigt 10-Milliarden-Dollar-Investition für fehlertoleranten Quantencomputer bis 2029 an",
+          "body": "IBM gab am 28. Mai 2026 bekannt, in den nächsten fünf Jahren über 10 Milliarden US-Dollar in Quantencomputing zu investieren, mit dem Ziel eines ersten großskaligen, fehlertoleranten Quantencomputers bis 2029. Zusätzlich erhält IBM 1 Milliarde Dollar aus dem US-CHIPS-and-Science-Act für die neue Tochtergesellschaft Anderton – die erste dedizierte Quantenchip-Fabrik der USA (300-mm-Supralelter-Wafer, Standort Albany, NY). Die Ankündigung ließ IBMs Aktie um über 4 Prozent steigen und zog Quantencomputing-Aktien wie IonQ und D-Wave mit hoch.",
+          "relevance": "Die Kombination aus privatem Kapital und staatlichen CHIPS-Act-Mitteln markiert den Übergang des Quantencomputings von reiner Forschung zur industriellen Fertigung. Die 2029-Zielmarke für fehlertolerantes Quantencomputing wäre ein Wendepunkt für Kryptographie, Materialentwicklung und pharmazeutische Forschung.",
+          "source": "BNN Bloomberg, GV Wire, IBM (28. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Biologie & KI-gestützte Bioinformatik",
+      "items": [
+        {
+          "title": "Biohub veröffentlicht ESM Atlas: Open-Source-Datenbank mit 11 Milliarden Proteinstrukturen übertrifft AlphaFold um 800 Millionen Einträge",
+          "body": "Die Chan Zuckerberg Biohub hat am 27. Mai 2026 drei kostenlose KI-Systeme für die Biologie freigegeben: das Protein-Sprachmodell ESMC (trainiert auf 2,8 Mrd. Sequenzen), den Strukturvorhersager ESMFold2 sowie den ESM Atlas mit 1,1 Milliarden vorhergesagter Proteinstrukturen und 68 Milliarden Sequenzen. Die Datenbank übertrifft die AlphaFold-Datenbank von DeepMind um mehr als 800 Millionen Einträge und ist vollständig Open Source inklusive kommerzieller Nutzungserlaubnis. Nature würdigt die Veröffentlichung als Meilenstein für das Verständnis des Proteoms der gesamten Biosphäre.",
+          "relevance": "Mit 11 Milliarden vorhergesagten Strukturen wird das bisher unbekannte Proteom der Erde nahezu vollständig kartiert. Open-Source-Verfügbarkeit erlaubt Forschenden und Unternehmen weltweit sofortigen Zugang für Medikamentenentwicklung, Enzymdesign und Grundlagenforschung – vergleichbar mit dem Einfluss, den AlphaFold 2020 hatte, aber deutlich breiter in der Abdeckung.",
+          "source": "Biohub (biohub.org), Axios, Nature (27.–28. Mai 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Materialwissenschaften & Physik",
+      "items": [
+        {
+          "title": "Supraleitung in verdrehtem Graphen durch synthetischen Diamant gezielt ein- und ausschaltbar",
+          "body": "Ein Team der Ohio State University hat gezeigt, dass die Supraleitung in verdrehtem doppelschichtigem Graphen (Twisted Bilayer Graphene, TBG) durch ein angrenzendes synthetisches Kristallmaterial (Strontiumtitanat) präzise kontrolliert werden kann. Durch Erhöhung der dielektrischen Konstante der Umgebung konnten die Forscher die supraleitende Phase vollständig unterdrücken – ein Verhalten entgegengesetzt zu klassischen Supraleitern, bei denen reduzierte Elektronenabstoßung die Paarbildung verstärkt. Die Ergebnisse, veröffentlicht am 28. Mai, erschienen am selben Tag auf ScienceDaily.",
+          "relevance": "Die gezielte externe Steuerbarkeit von Supraleitung in Moiré-Systemen ist ein grundlegend neuer Freiheitsgrad für das Design supraleitender Bauelemente. Potenzielle Anwendungen umfassen verlustfreie Verbindungen in Quantenschaltkreisen, adaptive Quantencomputer-Komponenten und neuartige Sensoren.",
+          "source": "ScienceDaily, Digital Journal (28. Mai 2026)"
+        }
+      ]
+    }
+  ]
+}
