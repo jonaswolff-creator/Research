@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-02",
+  "generated_date": "2026-06-03",
+  "footer_sources": "SiliconAngle, The Quantum Insider, Microsoft News, ScienceDaily, SciTechDaily, TechTimes, Phys.org, University of Birmingham / International Journal of Hydrogen Energy, The Engineer, Tom's Hardware",
+  "sections": [
+    {
+      "heading": "Quantencomputing",
+      "items": [
+        {
+          "title": "Microsoft Majorana 2: 1.000-fach stabilere topologische Qubits",
+          "body": "Microsoft präsentierte seinen neuen Quantenchip Majorana 2, bei dem Qubit-Lebenszeiten von über 20 Sekunden – in manchen Fällen bis zu einer Minute – gemessen wurden; das entspricht einer mehr als 1.000-fachen Verbesserung gegenüber Majorana 1 (1–12 ms). Der Chip ersetzt Aluminium-Supraleiter durch Blei und nutzt ein Indiumarsenid-Antimonid-Halbleitergemisch, wodurch die schützende topologische Lücke auf rund 70 Mikroelektronenvolt anstieg – mehr als doppelt so groß wie zuvor. Der Entwicklungsprozess wurde mithilfe von Microsofts agentenbasierter KI-Plattform 'Microsoft Discovery' erheblich beschleunigt: Spezialisierte KI-Agenten übernahmen Mess- und Analysezyklen, die zuvor Monate in Anspruch nahmen. Microsoft rechnet nun damit, bis 2029 einen skalierbaren Quantencomputer zu bauen – eine Halbierung des bisherigen Zeitplans.",
+          "relevance": "Topologische Qubits gelten als robustester Ansatz für fehlertolerantes Quantencomputing; sollten sich die Stabilitätswerte bestätigen, rückt ein praktisch nutzbares Quantensystem greifbar näher. Zugleich ist der Einsatz von agentenbasierter KI zur Beschleunigung von Hardwareforschung ein starkes Signal dafür, wie KI den wissenschaftlichen Fortschritt selbst transformiert.",
+          "source": "SiliconAngle / The Quantum Insider (02.06.2026); Microsoft News; Tom's Hardware"
+        }
+      ]
+    },
+    {
+      "heading": "Künstliche Intelligenz",
+      "items": [
+        {
+          "title": "Agentenbasierte KI beschleunigt Quantenhardware-Entwicklung bei Microsoft",
+          "body": "Im Kontext des Majorana-2-Announcements dokumentierte Microsoft detailliert, wie sein KI-Forschungssystem 'Microsoft Discovery' den Chipentwicklungsprozess veränderte. Autonome KI-Agenten führten Messzyklen, Materialsimulationen und Auswertungsschleifen durch, was die experimentellen Iterationszeiten um Größenordnungen verkürzte. Dies ist eines der ersten öffentlich dokumentierten Beispiele, in denen agentenbasierte KI maßgeblich zur Entwicklung eines physikalischen Quantenhardware-Chips beitrug und konkrete, messbare Fortschritte (1.000× Qubit-Stabilität) erzielte.",
+          "relevance": "Für KI-Studierende besonders relevant: Das Beispiel zeigt, wie Multi-Agenten-Systeme den klassischen wissenschaftlichen Entwicklungszyklus (Hypothese → Experiment → Auswertung) strukturell beschleunigen können – ein zunehmend wichtiges Anwendungsfeld für agentenbasierte Architekturen jenseits reiner Textverarbeitung.",
+          "source": "Microsoft News / Microsoft Discovery (02.06.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin & Immuntherapie",
+      "items": [
+        {
+          "title": "NFIL3 als Hauptbremse für CAR-T-Zell-Therapien identifiziert",
+          "body": "Forscher der Columbia University und des Universitätsklinikums Tübingen identifizierten das Protein NFIL3 als zentralen Treiber der Erschöpfung von CAR-T-Zellen – dem Phänomen, bei dem diese gentechnisch modifizierten Immunzellen mit der Zeit ihre Tumorabwehr verlieren. Durch CRISPR/Cas9-Ausschalten des NFIL3-Gens blieben die CAR-T-Zellen in Mausmodellen deutlich länger aktiv, vermehrten sich effizienter und zeigten stärkere Anti-Tumor-Wirkung mit verlängertem Überleben der Versuchstiere. Der Ansatz könnte insbesondere für solide Tumoren relevant sein, bei denen CAR-T-Therapien bislang deutlich schwächer wirken als bei Blutkrebs.",
+          "relevance": "CAR-T-Zell-Erschöpfung ist derzeit einer der wichtigsten Limitierungsfaktoren für den breiten klinischen Einsatz von Zelltherapien. Ein genetischer Eingriff, der diese Erschöpfung verhindert, könnte den Anwendungsbereich auf schwer behandelbare Krebsarten wie Pankreas-, Lungen- oder Brustkrebs ausdehnen.",
+          "source": "ScienceDaily (02.06.2026); SciTechDaily – Columbia University / Uni Klinikum Tübingen"
+        }
+      ]
+    },
+    {
+      "heading": "Raumfahrt & Astronomie",
+      "items": [
+        {
+          "title": "Tianwen-2: Telemetrie entschlüsselt – Orbit-Insertion am 7. Juni geplant",
+          "body": "Amateurfunker entschlüsselten am 2. Juni die Telemetriedaten der chinesischen Raumsonde Tianwen-2, die auf den Asteroiden Kamoʻoalewa zusteuert – einem Quasi-Mond der Erde. Die Daten bestätigen, dass der Orbit-Einschuss für den 7. Juni 2026 geplant ist, gefolgt von einer einjährigen Näherungsstudie aus anfangs 20 km, später bis zu 600 m Abstand. Die Probenentnahme soll am 4. Juli 2026 beginnen; der Rücktransport zur Erde ist für 2027 vorgesehen.",
+          "relevance": "Tianwen-2 ist Chinas erste Asteroiden-Probenrückführungsmission und Teil eines breiteren Programms zur Erforschung von Kleinkörpern des Sonnensystems. Die Dekodierung durch Amateurfunker unterstreicht das wachsende globale Interesse und die Transparenz der Mission.",
+          "source": "TechTimes (02.06.2026)"
+        },
+        {
+          "title": "Mondherkunft von Kamoʻoalewa vor Tianwen-2-Ankunft in Frage gestellt",
+          "body": "Eine neue Studie, die pünktlich zum bevorstehenden Anflug von Tianwen-2 veröffentlicht wurde, stellt die bisher weitgehend akzeptierte Hypothese infrage, dass der Quasi-Mond Kamoʻoalewa ein Bruchstück des Erdmondes ist. Die Autoren präsentieren alternative geochemische Szenarien, die eine ursprüngliche Herkunft aus dem Hauptgürtel nicht ausschließen. Eine endgültige Klärung wird erst nach der Analyse der Proben auf der Erde nach 2027 möglich sein.",
+          "relevance": "Die Herkunft von Kamoʻoalewa bestimmt, was die Proben über die frühe Solargeschichte und das Erde-Mond-System aussagen können. Eine nicht-monare Herkunft würde die wissenschaftlichen Erwartungen an die Mission grundlegend verschieben.",
+          "source": "Phys.org (02.06.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Energie",
+      "items": [
+        {
+          "title": "Perowskit-Katalysator erzeugt Wasserstoff bei 500 °C niedrigerer Temperatur",
+          "body": "Ein Team um Prof. Yulong Ding von der University of Birmingham entwickelte den Perowskit-Katalysator BNCF100, der Wasser bei nur 150–500 °C in Wasserstoff spaltet – statt der üblichen 700–1.000 °C. Der Katalysator behält seine Funktionsfähigkeit über mindestens zehn Produktions-Regenerations-Zyklen und kann direkt an industrielle Abwärme aus Stahl-, Zement- oder Glaswerken angeschlossen werden. Die Studie wurde im International Journal of Hydrogen Energy veröffentlicht und zeitgleich von mehreren Technikmedien aufgegriffen.",
+          "relevance": "Günstigere Wasserstoffproduktion aus Abwärme ist ein Schlüsselbaustein für die Dekarbonisierung der energieintensiven Industrie. Sinken die Produktionskosten unter das Niveau von Elektrolyse und blauem Wasserstoff, wird Wasserstoff als Energieträger für Schifffahrt, Stahl und Chemie wirtschaftlich realistischer.",
+          "source": "University of Birmingham / International Journal of Hydrogen Energy (30.04.2026); ScienceDaily (01.06.2026); The Engineer; Innovation News Network"
+        }
+      ]
+    },
+    {
+      "heading": "Chips & Photonik",
+      "items": [
+        {
+          "title": "Photonischer Chip kodiert und verarbeitet Licht auf atomdünnen Materialien",
+          "body": "Wissenschaftler stellten einen miniaturisierten Chip vor, der Lichtinformationen auf Basis atomdünner Materialien und photonischer Nanokristallkavitäten erzeugt, lenkt und ausliest – in einer einzigen integrierten Einheit. Der Chip nutzt den 'Valley'-Freiheitsgrad von Photonen als neuartigen Informationskanal; in Demonstrationsversuchen wurden zwei Bilder simultan verarbeitet. Da Licht schneller propagiert und weniger Wärme erzeugt als Elektronen, bietet der Ansatz drastisch reduzierte Leistungsaufnahme.",
+          "relevance": "Photonische Chips gelten als vielversprechende Plattform für KI-Beschleuniger der nächsten Generation sowie für quanten-photonische Systeme. Valley-Photonik eröffnet zusätzliche Kodierungsfreiheitsgrade jenseits klassischer Wellenlängen- oder Polarisationsmodulation.",
+          "source": "ScienceDaily (01.06.2026); TechXplore"
+        }
+      ]
+    }
+  ]
+}
