@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-03",
+  "generated_date": "2026-06-04",
+  "footer_sources": "Microsoft AI / CNBC / Neowin (02.06.2026), Anthropic / TechCrunch / CNBC (01.06.2026), SpaceNews / SatNews / PR Newswire (03.06.2026), Spaceflight Now / AIAA (03.06.2026), Nature Astronomy / EarthSky / University of Oxford Physics (02.06.2026), Space.com / NASA (01.06.2026), Nature Neuroscience / ScienceDaily / Technology Networks (02.06.2026), Science Advances / SciTechDaily / Mirage News (02.06.2026)",
+  "sections": [
+    {
+      "heading": "Künstliche Intelligenz",
+      "items": [
+        {
+          "title": "Microsoft Build 2026: MAI-Thinking-1 und MAI-Code-1-Flash – erste eigene Reasoning- und Coding-Modelle",
+          "body": "Auf der Build-Entwicklerkonferenz am 2. Juni stellte Microsoft seine ersten vollständig hauseigenen KI-Modelle vor: MAI-Thinking-1, ein Reasoning-Modell, und MAI-Code-1-Flash, ein Code-Generierungsmodell, beide trainiert ohne OpenAI-Daten. MAI-Code-1-Flash basiert auf einer Mixture-of-Experts-Architektur mit 137 Milliarden Gesamtparametern und 5 Milliarden aktiven Parametern; es übertrifft Claude Haiku 4.5 auf allen getesteten Coding-Benchmarks und erzielt auf SWE-Bench Pro einen +16-Punkte-Vorsprung (51,2 % vs. 35,2 %). Das Modell nutzt 'Adaptive Solution Length Control', um Antworttiefe dynamisch an die Aufgabenkomplexität anzupassen, und löst schwierigere Probleme mit bis zu 60 % weniger Tokens. MAI-Code-1-Flash wird direkt in GitHub Copilot für alle Abo-Stufen ausgerollt.",
+          "relevance": "Für KI-Studierende besonders relevant: Microsofts MAI-Serie markiert den ersten ernsthaften Schritt, sich von der OpenAI-Abhängigkeit zu lösen. Die MoE-Architektur mit adaptiver Reasoning-Tiefe zeigt, wie effiziente Inference-Optimierung (weniger Tokens bei gleicher Qualität) zu einem zentralen Differenzierungsmerkmal bei Frontier-Modellen wird.",
+          "source": "Microsoft AI / CNBC / Neowin (02.06.2026)"
+        },
+        {
+          "title": "Anthropic reicht vertraulichen IPO-Prospekt (S-1) bei der SEC ein",
+          "body": "Am 1. Juni 2026 reichte Anthropic vertraulich einen S-1-Entwurf bei der US-Börsenaufsicht SEC ein und bereitet damit einen möglichen Börsengang vor. Das Unternehmen hatte kurz zuvor eine Series-H-Finanzierungsrunde über 65 Milliarden US-Dollar abgeschlossen, die die Bewertung auf rund 965 Milliarden Dollar hob, und meldete eine annualisierte Umsatzrate von 47 Milliarden Dollar – ein Anstieg von zuvor 10 Milliarden Dollar. Anzahl der Aktien und Ausgabepreis sind noch nicht festgelegt; der Börsengang hängt von Marktbedingungen und dem abgeschlossenen SEC-Review ab.",
+          "relevance": "Ein Anthropic-Börsengang würde die KI-Industrie fundamental verändern: Als erstes Frontier-AI-Unternehmen an den öffentlichen Märkten würde es einen Bewertungsanker für die gesamte Branche setzen und Kapitalflüsse in KI-Forschung und -Infrastruktur weiter beschleunigen.",
+          "source": "Anthropic / TechCrunch / CNBC (01.06.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Raumfahrt & Satellitentechnik",
+      "items": [
+        {
+          "title": "Muon Space stellt Condor-Ultra vor: Starship-Klasse-Satellitenplattform für orbitale Rechenzentren",
+          "body": "Am 3. Juni präsentierte das Raumfahrt-Startup Muon Space die Condor-Ultra-Plattform – einen Großsatelliten, der speziell für den Markt der orbitalen Rechenzentren entwickelt wurde. Die Plattform bietet 20 Kilowatt Grundleistung, mehr als 18 Quadratmeter nutzbarer Nutzlastfläche in Nadir-Ausrichtung sowie 100-Gbit/s-Intersatelliten-Glasfaser-Vernetzung; über SpaceX-Starlink-Laserterminals ist eine permanente 25-Gbit/s-Bodenverbindung möglich. Der flachfaltbare Bus ist auf die Nutzlastverkleidung von SpaceXs Starship ausgelegt, mit alternativen Konfigurationen für Falcon 9 und Rocket Lab Neutron; der erste Launch ist für 2028 nach Kundensicherung geplant.",
+          "relevance": "Orbitale Rechenzentren gelten als nächste Frontier der Cloud-Infrastruktur: permanente Sonneneinstrahlung, natürliche Kühlung durch den Weltraum und globale Abdeckung ohne terrestrische Energie- und Grundstückskosten. Condor-Ultra ist die erste öffentlich angekündigte Plattform, die diesen Markt mit Starship-Maßstab adressiert.",
+          "source": "SpaceNews / SatNews / PR Newswire (03.06.2026)"
+        },
+        {
+          "title": "Blue Origin bestätigt: New Glenn soll noch 2026 wieder fliegen – trotz Startpad-Explosion",
+          "body": "Nach der Explosion einer New-Glenn-Rakete beim statischen Triebwerkstest am 28. Mai erklärte Blue-Origin-CEO Dave Limp am 3. Juni öffentlich: 'Wir werden noch vor Jahresende wieder fliegen.' Die Begutachtung zeigte, dass Treibstofftanks, Hangar und der Hauptstützgalgen am Pad 36 (Cape Canaveral) den Blast überstanden haben und repariert werden können; lediglich die unmittelbaren Abschussstrukturen sind schwer beschädigt. Die Reparaturen sollen in den kommenden Monaten abgeschlossen werden.",
+          "relevance": "Blue Origins New Glenn war als direkte Konkurrenz zu SpaceXs Falcon 9 positioniert; jede Verzögerung stärkt SpaceXs Marktdominanz im kommerziellen Schwerlaststart-Segment. Das rasche Commitment des CEO signalisiert, dass die Schäden beherrschbar sind und das Startprogramm nicht grundlegend zurückgeworfen wird.",
+          "source": "Spaceflight Now / AIAA (03.06.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "Erstmals Magnetfeldstärken auf sieben Exoplaneten gemessen – Hot Jupiters mit Feldern wie in unserem Sonnensystem",
+          "body": "Ein internationales Forscherteam veröffentlichte am 2. Juni in Nature Astronomy die ersten direkten Messungen von Magnetfeldstärken auf sieben heißen Jupiter-Exoplaneten, gewonnen mit dem Very Large Telescope (ESO) und dem Gemini-North-Teleskop. Die Grundlage war eine Anomalie in den Windgeschwindigkeiten: Die beobachteten Winde waren viel stärker und strukturierter als rein hydrodynamische Modelle vorhersagen – ein Zeichen, dass Magnetfelder die Atmosphärendynamik dominieren. Die abgeleiteten Feldstärken liegen bei etwa dem Vierfachen von Saturns oder der Hälfte von Jupiters Magnetfeld.",
+          "relevance": "Magnetfelder schützen Planetenatmosphären vor Sternwind-Erosion und sind möglicherweise eine Voraussetzung für die Entstehung von Leben. Die neue Messmethode – Auswertung atmosphärischer Windanomalien – öffnet ein völlig neues Beobachtungsfenster und könnte künftig auch für kleinere, erdähnliche Exoplaneten angewendet werden.",
+          "source": "Nature Astronomy / EarthSky / University of Oxford Physics (02.06.2026)"
+        },
+        {
+          "title": "NASA Roman-Weltraumteleskop besteht finale Spiegelinspektion – Start im September 2026 geplant",
+          "body": "Ingenieure am Goddard Space Flight Center schlossen Anfang Juni die letzte visuelle Inspektion des 2,4-Meter-Primärspiegels des Nancy Grace Roman Space Telescope ab und bestätigten: keine Partikelkontamination, keine Ausrichtungsänderungen. Das Teleskop soll im Juni per Schwertransport zum Kennedy Space Center (Florida) verschifft werden; der Start auf einer SpaceX Falcon Heavy ist frühestens für den 30. August oder Anfang September 2026 geplant – Monate vor dem ursprünglichen Fristdatum Mai 2027.",
+          "relevance": "Das Roman-Teleskop wird mit seinem 0,28-Quadratgrad-Sichtfeld (100× größer als Hubble pro Aufnahme) die bisher größten Tiefenfeldsurveys im Infrarotbereich ermöglichen und soll Dunkle Energie, Dunkle Materie und die Häufigkeit von Exoplaneten mittels Mikrogravitationslinsen systematisch vermessen.",
+          "source": "Space.com / NASA (01.06.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin & Neurologie",
+      "items": [
+        {
+          "title": "Autismus-Forschung: Gehirnscans identifizieren zwei biologisch distinkte Subtypen",
+          "body": "Ein internationales Forscherteam kombinierte fMRI-Daten von knapp 1.000 Personen mit Autismus-Spektrum-Störung mit Erkenntnissen aus 20 gentechnisch veränderten Mausmodellen und identifizierte zwei reproduzierbare Subtypen: Beim 'Hyperconnectivity'-Subtyp kommunizieren Hirnregionen stärker als üblich, assoziiert mit Immunsystem-verwandten Signalwegen; beim 'Hypoconnectivity'-Subtyp ist die Konnektivität reduziert, verbunden mit synaptischen Pathways. Die Studie wurde in Nature Neuroscience veröffentlicht. Rund 75 % der Teilnehmer ließen sich nicht klar einem Subtyp zuordnen – ein Hinweis auf weitere biologische Varianten.",
+          "relevance": "Die Befunde legen nahe, dass 'Autismus' keine einheitliche Erkrankung ist, sondern ein Spektrum mit unterschiedlichen biologischen Ursachen. Für die Therapieentwicklung ist das entscheidend: Interventionen, die auf synaptische Pathways abzielen, sind möglicherweise nur für einen der Subtypen wirksam – und könnten beim anderen wirkungslos oder kontraproduktiv sein.",
+          "source": "Nature Neuroscience / ScienceDaily / Technology Networks (02.06.2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Physik",
+      "items": [
+        {
+          "title": "80 Jahre altes Turbulenzgesetz gebrochen: Energieflussrichtung lässt sich experimentell umkehren",
+          "body": "Forscher der University of Pittsburgh und der University of Turin zeigten in Science Advances, dass die Richtung des Energieflusses in Turbulenzen aktiv kontrolliert und umgekehrt werden kann – eine direkte Herausforderung an Kolmogorovs Kaskadentheorie von 1941. In 2D-Strömungen konnten sie durch gezielte geometrische Randbedingungen (physikalische Grenzen bis zu zehn Metern) den normalerweise von großen zu kleinen Skalen verlaufenden Energietransfer ins Gegenteil verkehren. Die Erkenntnisse könnten die Kontrolle von Meeresströmungen, die Dispersion von Küstenabwässern sowie medizinische Strömungsanwendungen verbessern.",
+          "relevance": "Turbulenz ist eines der letzten großen ungelösten Probleme der klassischen Physik. Eine aktive Steuerung des Energieflusses – bisher theoretisch weitgehend als deterministisch und unvermeidbar betrachtet – hätte transformative Auswirkungen auf Klimamodellierung, Strömungsmaschinen und biologische Transportsysteme.",
+          "source": "Science Advances / SciTechDaily / Mirage News (02.06.2026)"
+        }
+      ]
+    }
+  ]
+}
