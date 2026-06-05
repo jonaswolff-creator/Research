@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-04",
+  "generated_date": "2026-06-05",
+  "footer_sources": "Spaceflight Now, NASA Science, ScienceDaily, New England Journal of Medicine, Nature Immunology, Molecular Cell / Cell Press, China-in-space.com, Bloomberg, TechCrunch, Neowin, Dataconomy, Intel Newsroom",
+  "sections": [
+    {
+      "heading": "Raumfahrt",
+      "items": [
+        {
+          "title": "SpaceX: 24 Starlink-Satelliten erfolgreich gestartet",
+          "body": "SpaceX startete am 4. Juni 2026 eine Falcon-9-Rakete von der Vandenberg Space Force Base und brachte 24 Starlink-Satelliten in die niedrige Erdumlaufbahn. Der Start verlief nominal; die erste Stufe landete erfolgreich auf einer Drohnenbarge im Pazifik. Die Megakonstellation wächst damit auf über 7.000 aktive Satelliten.",
+          "relevance": "SpaceX baut seine Dominanz im kommerziellen Orbit-Markt kontinuierlich aus und verdichtet das globale Starlink-Netz für Hochgeschwindigkeits-Breitbandversorgung.",
+          "source": "Spaceflight Now (4. Juni 2026)"
+        },
+        {
+          "title": "China: Long March 6A startet 18 Qianfan-Konnektivitätssatelliten",
+          "body": "Am 4. Juni 2026 um 11:39 UTC hob eine Long March 6A vom Taiyuan Satellite Launch Center in der Mongolei ab und setzte 18 Satelliten des kommerziellen Betreibers Genesat in einen Polarorbit. Dies ist der elfte Schwarm der Qianfan-Konstellation (auch G60). Damit überholt Qianfan mit nun 182 Satelliten erstmals seit sieben Monaten wieder die staatliche Konkurrenzkonstellation GuoWang (168 Satelliten).",
+          "relevance": "Chinas kommerzielle Raumfahrtbranche schließt im Breitband-Satellite-Internet-Markt zu Starlink auf – der Start markiert einen Wettbewerbsmeilenstein zwischen staatlichen und privaten chinesischen Akteuren.",
+          "source": "China-in-space.com / Spaceflight Now (4. Juni 2026)"
+        },
+        {
+          "title": "NASA: Artemis-Mondlandung in Gefahr – Administrator fordert Alternativträger für Blue Moon nach New Glenn-Explosion",
+          "body": "NASA-Administrator Jared Isaacman verlangte am 4. Juni in einem Interview eine 'gesamtstaatliche Antwort' auf die Explosion der New Glenn-Rakete vom 28. Mai 2026, die den einzigen Startplatz von Blue Origin (LC-36, Cape Canaveral) schwer beschädigte. Der für Artemis 3 (geplant: Mitte 2027) vorgesehene Blue Moon Mk.2-Mondlander wurde exklusiv für New Glenn ausgelegt. Blue Origin hat zugesichert, noch 2026 wieder zu fliegen, ohne ein konkretes Datum zu nennen.",
+          "relevance": "NASA ist bis auf Weiteres vollständig auf SpaceX angewiesen, was die Verhandlungsposition von Elon Musk gegenüber der Behörde erheblich stärkt und den Artemis-Zeitplan ernsthaft gefährdet.",
+          "source": "Spaceflight Now / FOX Business (4. Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin & Biologie",
+      "items": [
+        {
+          "title": "Daraxonrasib fast verdoppelt Überlebenszeit bei Bauchspeicheldrüsenkrebs",
+          "body": "Eine Phase-3-Studie mit 500 Patienten (RASolute-302-Trial, Ergebnisse publiziert im New England Journal of Medicine am 31. Mai, breit berichtet am 4. Juni 2026) zeigt, dass das oral einzunehmende Daraxonrasib von Revolution Medicines die mediane Gesamtüberlebenszeit von 6,7 auf 13,2 Monate nahezu verdoppelt und das Sterberisiko um 60 % reduziert – gegenüber Standard-Chemotherapie. Das Molekül bindet über Cyclophilin A an aktives KRAS und blockiert dessen onkogene Signalkaskade. Revolution Medicines will die Daten der US-FDA einreichen.",
+          "relevance": "Daraxonrasib ist der erste KRAS-gerichtete Inhibitor mit belegt klinischem Überlebensvorteil in Phase 3 bei metastasiertem Pankreas-Adenokarzinom – einem der tödlichsten Krebstypen mit bisher kaum wirksamen Optionen.",
+          "source": "New England Journal of Medicine / ScienceDaily (4. Juni 2026)"
+        },
+        {
+          "title": "Neuer Zellimunmechanismus entdeckt: 'Antibody-directed xenophagy' (ADX)",
+          "body": "Forscher beschreiben in der Zeitschrift Molecular Cell (erschienen am 4. Juni 2026) einen bislang unbekannten Abwehrweg, den sie 'Antibody-directed xenophagy' (ADX) nennen. Darin verdauen bereits infizierte Zellen eindringende Bakterien und Viren durch einen autophagie-ähnlichen Prozess von innen heraus. Der Mechanismus wird durch intrazelluläre Antikörper gesteuert, die den Erreger markieren und dem lysosomalen Abbaupfad der Zelle übergeben.",
+          "relevance": "ADX eröffnet eine völlig neue Perspektive auf intrazelluläre Erreger-Abwehr und könnte als Ansatzpunkt für Wirkstoffe gegen antibiotikaresistente Bakterien oder persistent-virale Infektionen dienen.",
+          "source": "Molecular Cell / Cell Press (4. Juni 2026)"
+        },
+        {
+          "title": "Krebsimmunologie: MHC-I-Verlust macht Tumorzellen anfälliger für CD4+-T-Zellen via Ferroptose",
+          "body": "Ein internationales Team um Baylor College of Medicine und University of Michigan veröffentlichte in Nature Immunology (3. Juni 2026), dass Krebszellen, die den Immun-Erkennungsmarker MHC-I abschalten – eine gängige Strategie, um zytotoxischen CD8+-T-Zellen zu entkommen –, dadurch paradoxerweise sensitiver für CD4+-Helfer-T-Zellen werden. Ohne MHC-I-Expression werden Krebszellen anfälliger für Ferroptose, einen eisenabhängigen Zelltod, den CD4+-T-Zellen auslösen. Die Befunde wurden in Mausmodellen und humanen Transkriptom-Analysen bestätigt.",
+          "relevance": "Das Ergebnis kehrt ein jahrzehntealtes immunologisches Paradigma um und könnte die Entwicklung von Immuntherapien für Tumorarten inspirieren, die durch MHC-I-Verlust resistent gegen gängige Checkpoint-Inhibitoren sind.",
+          "source": "Nature Immunology / ScienceDaily (3. Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "James Webb Teleskop: Erstes direktes Methan-Nachweis auf interstellarem Kometen 3I/ATLAS",
+          "body": "NASAs James Webb Space Telescope hat beim interstellaren Kometen 3I/ATLAS per Infrarotspektroskopie erstmals Methan direkt nachgewiesen – ein Novum für einen Körper aus einem anderen Sternensystem. Außergewöhnlich hohe CO₂-Konzentrationen unterscheiden 3I/ATLAS deutlich von Kometen unseres Sonnensystems. Wissenschaftler vermuten, dass das Methan durch solare Erwärmung aus tieferen Eisschichten freigesetzt wurde. Die Beobachtungen stammen aus Dezember 2025 und wurden in den Astrophysical Journal Letters publiziert.",
+          "relevance": "3I/ATLAS ist erst das dritte bekannte interstellare Objekt; seine ungewöhnliche Chemie gibt beispiellose Hinweise auf die Zusammensetzung von Planetensystemen fremder Sterne.",
+          "source": "NASA Science Blog / Astrophysical Journal Letters / ScienceDaily (3. Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Künstliche Intelligenz & Technologie",
+      "items": [
+        {
+          "title": "Alphabet hebt $84,75 Milliarden – größte Eigenkapitalemission der Unternehmensgeschichte für KI-Infrastruktur",
+          "body": "Alphabet schloss am 3. Juni 2026 eine Aktienemission von $84,75 Milliarden ab – die größte Eigenkapitalerhöhung eines Unternehmens aller Zeiten. Das Paket umfasst ein $40 Mrd. At-the-market-Programm sowie eine $10 Mrd. Privatplatzierung bei Berkshire Hathaway. Die Mittel sind für den Ausbau von KI-Rechenkapazitäten und Google-Rechenzentren bestimmt; Alphabets angekündigte Investitionsausgaben für 2026 liegen bei $180–190 Milliarden.",
+          "relevance": "Die Rekordsumme unterstreicht den KI-Infrastruktur-Wettrüsten der Hyperscaler. Google, das bei agentenbasierter KI und LLMs zuletzt von Microsoft und OpenAI überholt wurde, signalisiert damit entschlossenes Aufholen.",
+          "source": "Bloomberg / TechCrunch (3. Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Chips & Halbleiter",
+      "items": [
+        {
+          "title": "Intel Xeon 6+ 'Clearwater Forest': 288 Kerne auf eigenem 18A-Prozessknoten vorgestellt",
+          "body": "Intel stellte am 2. Juni 2026 auf der Computex in Taipei den Xeon 6+ (Codename Clearwater Forest) vor und startete unmittelbar die Markteinführung. Der Prozessor bietet bis zu 288 Effizienz-Kerne, 576 MB L3-Cache und ist auf Intels eigenem 18A-Fertigungsknoten produziert – dem ersten 'Angstrom-Era'-Prozess des Unternehmens. Das Flaggschiff Xeon 6990E+ unterstützt 12-Kanal-DDR5 mit 8.000 MT/s. Intel gibt 30 % mehr durchschnittliche Performance pro Thread gegenüber AMDs EPYC 9965 an.",
+          "relevance": "Clearwater Forest ist Intels wichtigstes Argument für die Wettbewerbsfähigkeit des 18A-Prozesses und für eine Rückgewinnung von Rechenzentrumsmarktanteilen gegenüber AMD – und ein Signal, dass die Foundry-Strategie trägt.",
+          "source": "Neowin / Dataconomy / Intel Newsroom (2. Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Robotik & Sicherheit",
+      "items": [
+        {
+          "title": "Infineon integriert Hardware-Sicherheitschip in NVIDIAs Jetson Thor für autonome Roboter",
+          "body": "Infineon Technologies und NVIDIA haben am 3. Juni 2026 die Integration von Infineons OPTIGA TPM 2.0-Sicherheitschip mit NVIDIAs Jetson Thor-Plattform bekannt gegeben. Der TPM-Chip bietet kryptografische Identitätsverifikation auf Siliziumebene und schützt KI-gesteuerte autonome Roboter und 'Physical AI'-Systeme vor Manipulation, Firmware-Angriffen und unbefugtem Zugriff. Jetson Thor ist auf Edge-KI-Anwendungen in Robotik, Logistik und Industrie ausgelegt.",
+          "relevance": "Mit dem Einzug von KI-Systemen in physische Infrastruktur wird Hardware-Root-of-Trust entscheidend; die Kooperation setzt einen neuen Sicherheitsstandard für autonome Maschinen.",
+          "source": "Infineon / NVIDIA Newsroom (3. Juni 2026)"
+        }
+      ]
+    }
+  ]
+}
