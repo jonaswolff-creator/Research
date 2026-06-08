@@ -1,0 +1,51 @@
+{
+  "date": "2026-06-07",
+  "generated_date": "2026-06-08",
+  "footer_sources": "Spaceflight Now / SpaceX, Tokyo Metropolitan University / phys.org / ScienceDaily, Los Alamos National Laboratory / ScienceDaily / Yahoo News, Helmholtz-Zentrum Berlin (HZB) / ScienceDaily",
+  "sections": [
+    {
+      "heading": "Luft- und Raumfahrt",
+      "items": [
+        {
+          "title": "SpaceX-Booster B1067 setzt neuen Wiederverwendbarkeitsrekord: 35. Flug",
+          "body": "Am 7. Juni 2026 startete SpaceX von SLC-40 an der Cape Canaveral Space Force Station die Mission Starlink Group 10-35 – angetrieben von Erststufen-Booster B1067 auf seinem rekordverdächtigen 35. Einsatz. Der Booster debütierte im Juni 2021 auf der CRS-22-Mission und absolvierte seitdem u. a. Crew-Missionen, Galileo-Satelliten und 23 Starlink-Missionen bei einer Turnaround-Zeit von nur 69 Tagen. Nach der Stufentrennung landete B1067 planmäßig auf dem autonomen Drohnenschiff 'A Shortfall of Gravitas' im Atlantik. Die Nutzlast umfasst 29 Starlink-Breitbandsatelliten in niedrige Erdumlaufbahn.",
+          "relevance": "SpaceX peilt bis zu 40 Flüge pro Booster an; mit 35 ist das Ziel greifbar nah. Jeder weitere Flugrekord senkt den Fixkostenanteil pro Kilogramm Nutzlast und vertieft SpaceX' wirtschaftlichen Vorteil gegenüber staatlichen wie privaten Konkurrenten im Startmarkt.",
+          "source": "Spaceflight Now / SpaceX (7. Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie & Planetenwissenschaft",
+      "items": [
+        {
+          "title": "Kompaktes Röntgenteleskop könnte erstmals vollständige chemische Mondkarte liefern",
+          "body": "Forscher der Tokyo Metropolitan University zeigten per Simulation, dass ein neu entwickeltes, unter 10 Kilogramm leichtes Röntgenteleskop auf einem Mondorbiter innerhalb von zwei Jahren fünf Schlüsselelemente – Sauerstoff, Eisen, Magnesium, Aluminium und Silizium – mit 70 × 70 km Auflösung über die gesamte Oberfläche kartieren kann. Ein 5 × 5-Detektorarray würde die Auflösung auf 30 × 30 km steigern und zusätzlich Natrium erfassen. Das Teleskop wurde ursprünglich für Erdmagnetosphären-Beobachtungen entworfen und eignet sich durch sein geringes Gewicht für eine kostengünstige Integration in künftige Mondorbiter-Missionen. Die Studie wurde am 6. Juni 2026 via phys.org und ScienceDaily veröffentlicht.",
+          "relevance": "Bisher gibt es keine vollständige elementare Oberflächenkarte des Mondes. Eine solche Karte würde die geologische Entwicklung und Differenzierung des Mondes entschlüsseln, potenzielle Rohstoffvorkommen für Mondmissionen lokalisieren und das Verständnis früher Planetenformation im gesamten inneren Sonnensystem verbessern.",
+          "source": "Tokyo Metropolitan University / phys.org / ScienceDaily (6. Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Physik & Mathematik",
+      "items": [
+        {
+          "title": "Schrödingers 100 Jahre alte Farbtheorie mathematisch vervollständigt",
+          "body": "Ein Team um Roxana Bujack vom Los Alamos National Laboratory löste ein zentrales offenes Problem in Erwin Schrödingers Farbwahrnehmungstheorie aus dem Jahr 1920: die mathematisch exakte Definition der neutralen Achse – der Graustufenlinie von Schwarz nach Weiß. Die Forscher leiteten diese Achse mithilfe der Riemannschen Geometrie direkt aus der intrinsischen Struktur des Farbraums ab, ohne externe kulturelle oder erfahrungsbasierte Konstrukte. Die Studie zeigt, dass Farbqualitäten wie Sättigung und Helligkeit keine willkürlichen Empfindungen sind, sondern mathematisch zwingend aus der Metrik des Farbraums folgen. Die Arbeit wurde am 6. Juni 2026 über ScienceDaily breit kommuniziert.",
+          "relevance": "Die Vervollständigung dieser Theorie hat direkte Anwendungen in der Farbkalibrierung von Displays, medizinischer Bildgebung und computergestützten Vision-Systemen, die menschliche Wahrnehmungsräume präzise modellieren müssen. Sie schließt zudem eine über ein Jahrhundert offene Lücke in der Grundlagenforschung zur visuellen Wahrnehmung.",
+          "source": "Los Alamos National Laboratory / ScienceDaily / Yahoo News (6. Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Materialwissenschaft & Quantenphysik",
+      "items": [
+        {
+          "title": "Verborgenes Quantennetzwerk in Kobalt bei Raumtemperatur entdeckt",
+          "body": "Ein internationales Team um Dr. Jaime Sánchez-Barriga vom Helmholtz-Zentrum Berlin (HZB) analysierte mit Spin- und Winkel-aufgelöster Photoelektronenspektroskopie (Spin-ARPES) am BESSY-II-Synchrotron die elektronische Struktur von Kobalt in bisher unerreichter Auflösung. Dabei entdeckten die Forscher ein dichtes Netzwerk topologischer Zustände – sogenannte magnetische Knotenlinien, entlang derer spinpolarisierte Elektronen kreuzen, ohne zu streuen. Diese Zustände bleiben bei Raumtemperatur stabil, obwohl Kobalt lange als vollständig verstandenes Metall galt. Die Ergebnisse wurden am 4. Juni 2026 in ScienceDaily vorgestellt.",
+          "relevance": "Topologische Zustände in einem allgemein verfügbaren Massenmetall wie Kobalt sind für die Spintronikindustrie hochattraktiv: Sie ermöglichen schnelle, verlustfreie Elektronenbewegung über Magnetfelder steuerbar – ein möglicher Baustein für neue nichtflüchtige Computerspeicher und ultraschnelle Logikbausteine jenseits klassischer CMOS-Technologie.",
+          "source": "Helmholtz-Zentrum Berlin (HZB) / BESSY II / ScienceDaily (4. Juni 2026)"
+        }
+      ]
+    }
+  ]
+}
