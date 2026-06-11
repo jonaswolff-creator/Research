@@ -1,0 +1,96 @@
+{
+  "date": "2026-06-10",
+  "generated_date": "2026-06-11",
+  "footer_sources": "Bloomberg, CNBC, The Japan Times, spacepolicyonline.com, Spaceflight Now, TechCrunch, ScienceDaily, The Decoder, Yahoo Finance, theaiinsider.tech, dentro.de/ai, TLDL.io, TechPowerUp, Vattenfall, Live Science",
+  "sections": [
+    {
+      "heading": "Robotik & Humanoid-Systeme",
+      "items": [
+        {
+          "title": "Neura Robotics sichert sich 1,4 Mrd. Dollar Series C",
+          "body": "Das deutsche Startup Neura Robotics gab am 10. Juni 2026 bekannt, dass es eine Series-C-Finanzierungsrunde über rund 1,4 Milliarden US-Dollar abgeschlossen hat. Angeführt wird die Runde vom Stablecoin-Unternehmen Tether; weitere Investoren sind Nvidia, Amazon, Qualcomm, Bosch, die Europäische Investitionsbank sowie Schaeffler. Das Unternehmen wird damit mit rund 7 Milliarden Dollar bewertet und ist Europas am besten finanziertes Humanoid-Robotik-Startup. Tether plant zudem, seine Open-Source-Wallet-Technologie in Neuras Roboter zu integrieren, sodass Maschinen eigenständig Zahlungen empfangen und ausführen können.",
+          "relevance": "Diese Finanzierungsrunde zählt zu den größten im Bereich Physical AI weltweit und signalisiert, dass Europa im globalen Humanoid-Rennen zu einem ernstzunehmenden Akteur wird. Die Beteiligung von Nvidia, Amazon und Bosch unterstreicht, dass die Technologie industrielle Reife erreicht.",
+          "source": "Bloomberg / CNBC / theaiinsider.tech (10. Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Luft- und Raumfahrt",
+      "items": [
+        {
+          "title": "JAXA startet H3-30 – erster H3 ohne Feststoffraketen-Booster",
+          "body": "Am 10. Juni 2026 (9:53 Uhr JST) startete die japanische Raumfahrtbehörde JAXA den neunten Flug der H3-Trägerrakete vom Tanegashima Space Center. Die H3-30-Variante mit drei LE-9-Flüssigtriebwerken flog erstmals gänzlich ohne Feststoffraketen-Booster (SRBs) – eine kostenoptimierte Konfiguration für mehr Wirtschaftlichkeit. An Bord befanden sich der Dummy-Nutzlastträger VEP-5 sowie sechs Kleinsatelliten: PETREL, STARS-X, BRO-22, VERTECS, HORN-L und HORN-R. Der Flug dient der Leistungsverifikation nach der Überarbeitung des Nutzlastabschnitts infolge des fehlgeschlagenen Starts im Dezember 2025.",
+          "relevance": "Der Test der SRB-freien H3-30-Konfiguration ist entscheidend für Japans kommerzielle Raketenstrategie. Ein günstigerer Weltraumzugang stärkt JAXA im Wettbewerb mit SpaceX und Ariane 6 und öffnet den Markt für Kleinsatelliten-Missionen.",
+          "source": "The Japan Times / spacepolicyonline.com / Spaceflight Now (10. Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Künstliche Intelligenz",
+      "items": [
+        {
+          "title": "Anthropic startet Public Beta für Managed Agents",
+          "body": "Anthropic kündigte die Public Beta von Managed Agents an – KI-Agenten, die zeitgesteuert (Cron-basiert) laufen und sicher auf CLI-Tools sowie authentifizierte Dienste zugreifen können. Die Plattform umfasst sichere Vault-Speicherung für Umgebungsvariablen und browser-fähige Integrationen für wiederkehrende Aufgaben ohne manuelle Eingriffe. Damit erweitert Anthropic sein Angebot neben Claude Code und Claude Cowork um vollständig automatisierte, dauerhaft laufende Agenten-Workflows.",
+          "relevance": "Managed Agents markieren einen bedeutenden Schritt hin zu autonomen Enterprise-KI-Systemen. Für KI-Entwickler sind zeitgesteuerte, werkzeugfähige Agenten eine zentrale Architekturentwicklung: Sie ermöglichen komplexe Multi-Step-Aufgaben ohne menschliche Überwachung.",
+          "source": "The Decoder / dentro.de/ai / TLDL.io (Juni 2026)"
+        },
+        {
+          "title": "Google testet persönlichen KI-Agenten \"Remy\" – Meta entwickelt \"Hatch\"",
+          "body": "Google erprobt intern einen persönlichen KI-Agenten mit Codenamen \"Remy\", der in der Mitarbeiterversion der Gemini-App läuft und sich mit allen Google-Diensten vernetzt. Remy ist intern als \"24/7-Assistent für Arbeit, Schule und Alltag\" konzipiert und erledigt Aufgaben selbstständig. Parallel entwickelt Meta einen eigenen Agenten namens \"Hatch\" sowie ein agentisches Einkaufs-Tool für Instagram, das bis Ende Juni intern getestet werden soll.",
+          "relevance": "Der Wettlauf um persönliche KI-Agenten entscheidet, wer die tägliche Nutzerschnittstelle kontrolliert – strategisch vergleichbar mit dem Kampf um das Smartphone-Betriebssystem. Google und Meta versuchen so, den Vorsprung von OpenAI und Anthropic aufzuholen.",
+          "source": "The Decoder / dentro.de/ai (Juni 2026)"
+        },
+        {
+          "title": "Meta hebt KI-Investitionsplan auf bis zu 135 Mrd. Dollar an",
+          "body": "Meta hat seine geplanten Kapitalausgaben für KI-Infrastruktur auf 115–135 Milliarden US-Dollar für das Jahr 2026 angehoben – nahezu eine Verdoppelung gegenüber dem Vorjahr. Die Mittel fließen vor allem in den Aufbau massiver Rechenzentrumskapazitäten für das Training und die Inferenz großer Sprachmodelle. Damit will Meta den Rückstand gegenüber OpenAI und Google im LLM- und Agenten-Wettbewerb systematisch aufholen.",
+          "relevance": "Die Investitionshöhe zeigt, wie kapitalintensiv das KI-Skalenrennen geworden ist und beschleunigt den gesamten Infrastrukturausbau der Branche. Für KI-Studierende ist es ein Indikator, dass skaliertes Modelltraining auf höchstem Niveau de facto nur noch wenigen Akteuren zugänglich ist.",
+          "source": "TLDL.io / dentro.de/ai (Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Chips & Prozessoren",
+      "items": [
+        {
+          "title": "NVIDIA RTX Spark: Arm-SoC vereint CPU, GPU und NPU für AI-PCs",
+          "body": "Nvidia präsentierte auf der Computex 2026 (Anfang Juni) den RTX Spark Superchip – einen Arm-basierten System-on-Chip, der CPU, GPU und NPU mit nativer CUDA-Unterstützung auf einem Chip integriert. Ziel ist es, PCs als leistungsfähige Edge-KI-Geräte zu etablieren, die große Sprachmodelle lokal und ohne Cloud-Anbindung ausführen. Das Microsoft Surface Laptop Ultra ist das erste Gerät mit RTX Spark; die Ankündigung ließ Aktien von AMD, Intel und Qualcomm spürbar fallen.",
+          "relevance": "RTX Spark könnte die Architektur des Consumer-PCs fundamental verschieben: Leistungsstarke lokale Inferenz reduziert die Abhängigkeit von Cloud-KI-Diensten. Für KI-Studierende besonders relevant: CUDA-kompatible Arm-SoCs eröffnen neue Deployment-Szenarien für On-Device-Modelle.",
+          "source": "CNBC / TechPowerUp / Windows Forum (Computex 2026, Anfang Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Quantencomputing",
+      "items": [
+        {
+          "title": "Vollständig integrierter photonischer Chip für Quanteninformationsverarbeitung",
+          "body": "Wissenschaftler präsentierten einen miniaturisierten Chip, der Lichtsignale erzeugt, lenkt und auf einem einzigen Gerät wieder in elektrische Signale umwandelt – ohne externe Komponenten. Die Informationen werden über die quantenmechanische Eigenschaft des 'Valley Degree of Freedom' kodiert. Dieser Ansatz gilt als wesentlicher Schritt hin zu ultraschnellen, energieeffizienten Quantencomputern, die konventionelle Verkabelung und deren Wärmeverluste überwinden.",
+          "relevance": "Die vollständige Integration auf einem Chip ist ein lange gesuchter Meilenstein der photonischen Quanteninformatik. Eine funktionierende photonische Plattform würde Quantencomputer wesentlich kompakter und skalierbarer machen und den Weg zur praktischen Anwendung verkürzen.",
+          "source": "ScienceDaily (Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "JWST entdeckt tägliche Gesteins-Wolken auf Exoplanet WASP-94A b",
+          "body": "Das James-Webb-Weltraumteleskop hat auf dem gebunden rotierenden Gasplaneten WASP-94A b – rund 700 Lichtjahre entfernt im Sternbild Mikroskop – ein dramatisches tägliches Wetterphänomen dokumentiert: Minerale kondensieren jeden Morgen zu dichten Gesteins-Wolken und lösen sich abends vollständig auf. Der Zyklus entsteht durch extreme Temperaturunterschiede zwischen der permanent sonnenzugewandten Tag- und der Nachtseite.",
+          "relevance": "Diese Entdeckung zeigt die Fähigkeit des JWST, Atmosphärenchemie auf fernen Planeten mit bisher unerreichter Präzision zu charakterisieren. Die Methodik ist direkt auf die Suche nach bewohnbaren Exoplaneten übertragbar.",
+          "source": "ScienceDaily / NASA Science (Mai/Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Energie & Batterietechnologie",
+      "items": [
+        {
+          "title": "Chinesische Forscher entwickeln wasserbasierte Eisen-Flussbatterie mit 6.000+ Zyklen",
+          "body": "Chinesische Wissenschaftler stellten eine All-Iron-Flussbatterie mit wässrigem Elektrolyten vor, die mehr als 6.000 Lade-Entlade-Zyklen ohne messbaren Kapazitätsverlust absolviert. Die Technologie nutzt ausschließlich günstige, reichlich verfügbare Eisenverbindungen – kein Lithium, kein Kobalt – und ist nicht brennbar. Eine weitere Forschungsgruppe präsentierte parallel eine nicht-toxische wässrige Batterie, die zehnmal länger als aktuelle Spitzengeräte halten und im Freien sicher entsorgt werden soll.",
+          "relevance": "Langlebige, kostengünstige und sichere Batterien ohne kritische Rohstoffe sind Schlüsseltechnologien für die Energiewende. Sie ermöglichen stationäre Großspeicher, die schwankende Wind- und Solarenergie kostengünstig puffern – ohne die Lieferkettenrisiken von Lithium-Ionen-Technologien.",
+          "source": "Vattenfall Newsroom / Live Science / Battery Tech Online (Juni 2026)"
+        }
+      ]
+    }
+  ]
+}
