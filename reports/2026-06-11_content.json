@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-11",
+  "generated_date": "2026-06-12",
+  "footer_sources": "ScienceDaily, Nature Astronomy, Physical Review D, Spaceflight Now, Space.com, SpaceNews, Nature Communications (Leibniz FLI), EES Solar (Osaka Metropolitan University), Robotics Business News / Signaloid, phys.org",
+  "sections": [
+    {
+      "heading": "Astronomie",
+      "items": [
+        {
+          "title": "JWST enthüllt asymmetrische Atmosphäre auf Exoplanet WASP-121 b",
+          "body": "Ein Team um Cyril Gapp vom Max-Planck-Institut für Astronomie hat mit dem James-Webb-Weltraumteleskop dramatische Unterschiede zwischen der Morgen- und Abendseite des Heißen Jupiters WASP-121 b nachgewiesen. Mächtige Ostwinde transportieren Wärme von der permanent der Sonne zugewandten Seite, wodurch die Abendseite heißer und ausgedehnter ist als die Morgenseite. Dabei wurden auch Anzeichen für die Spaltung von Wassermoleküleln durch Extremtemperaturen (bis 2.500 °C) sowie mögliche Mineralwolken auf der kühleren Nachtseite entdeckt. Die Studie erschien in Nature Astronomy (DOI: 10.1038/s41550-026-02887-6).",
+          "relevance": "Erstmaliger observativer Nachweis der Ost-West-Asymmetrie bei Heißen Jupitern — ein bislang nur theoretisch vorhergesagtes Phänomen. Stärkt Modelle zur Atmosphärendynamik und Chemie von tidally locked Exoplaneten erheblich.",
+          "source": "Nature Astronomy / Max-Planck-Institut für Astronomie (11. Juni 2026)"
+        },
+        {
+          "title": "Neue Gravastern-Theorie: Mini-Universum verhindert Schwarzlochbildung",
+          "body": "Daniel Jampolski und Luciano Rezzolla von der Goethe-Universität Frankfurt veröffentlichten in Physical Review D ein Modell, nach dem der Gravitationskollaps eines Sterns nicht zwingend in einem Schwarzen Loch endet. In ihrem Szenario löst der kollabierte Materie-Kern einen Big Bang aus, der ein sich ausdehnendes Mini-Universum innerhalb des Sterns erzeugt. Dieser Gegendruck stabilisiert die entstehende Struktur als sogenannten Gravastar — ein mit Dunkler Energie gefülltes Objekt, das von außen einem Schwarzen Loch ähnelt. Das verschachtelte Modell (Nestar) überwindet frühere Stabilitätsprobleme klassischer Gravastar-Theorien.",
+          "relevance": "Das Modell bietet eine mathematisch konsistente Alternative zur Singularitätshypothese und könnte die Interpretation von Gravitationswellensignalen beeinflussen. Für KI-Studenten interessant als Beispiel, wie physikalische Gleichungssysteme neue Lösungsräume aufdecken können.",
+          "source": "Physical Review D / Goethe-Universität Frankfurt (11. Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Raumfahrt",
+      "items": [
+        {
+          "title": "SpaceX: Falcon 9 bringt 24 Starlink-Satelliten in Erdumlaufbahn",
+          "body": "Um 15:05:59 UTC hob eine Falcon 9 mit Booster B1071 (34. Flug) von der Vandenberg Space Force Base ab und beförderte 24 Starlink-Satelliten der Mission Starlink 17-44 in den niedrigen Erdorbit. Die Nutzlast wurde rund eine Stunde nach dem Start erfolgreich ausgesetzt. Der Erstufenbooster landete auf dem Drohnenschiff 'Of Course I Still Love You' — die 202. Landung auf diesem Schiff und SpaceXs insgesamt 622. Booster-Landung.",
+          "relevance": "Routine-Mission mit Meilenstein-Charakter: Booster B1071 gehört zu den meistgeflogenen Raketen der Welt. Die kontinuierliche Erweiterung der Starlink-Konstellation stärkt die globale Breitband-Abdeckung.",
+          "source": "Spaceflight Now / Space.com (11. Juni 2026)"
+        },
+        {
+          "title": "China: Long March 5 Y11 transportiert Kommunikationssatelliten TJSW-25",
+          "body": "Um 07:30 UTC startete die Long March 5 Y11 vom Wenchang Space Launch Site und brachte den TJSW-25-Satelliten (Tongxin Jishu Shiyan Weixing-25) in einen geostationären Transferorbit. Der Satellit der China Academy of Space Technology dient der Erprobung von Mehrbandkommunikation mit hohem Datendurchsatz für Rundfunk und Datenübertragung. Es handelte sich um die 11. Mission für die Long March 5, das 18. Exemplar der Long March-5-Familie und den 650. Start der gesamten Long March-Serie.",
+          "relevance": "Meilenstein der chinesischen Raumfahrt. Die Long March 5 ist Chinas schwerste Trägerrakete und spielt eine Schlüsselrolle für künftige Mondmissionen (Chang'e) und den Tianwen-Marsprogramm.",
+          "source": "SpaceNews / china-in-space.com (11. Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medizin & Biologie",
+      "items": [
+        {
+          "title": "Rückgang von Phosphatidylcholin als treibende Ursache des mitochondrialen Alterns identifiziert",
+          "body": "Forscherinnen und Forscher des Leibniz-Instituts für Alternsforschung – Fritz-Lipmann-Institut (FLI) veröffentlichten in Nature Communications, dass der altersbedingte Rückgang von Phosphatidylcholin — dem häufigsten Lipid in Mitochondrienmembranen — ein wesentlicher Auslöser für mitochondriale Dysfunktion und Energieverlust ist. Durch Kombination von Omics-Analysen, Genetik und funktionalen Studien in C. elegans sowie Transkriptomik- und Metabolomik-Daten beim Menschen konnte das Team zeigen, dass eine Supplementierung dieses Nährstoffs die mitochondriale Leistung auf ein jüngeres Niveau zurückbringt. Der Effekt erwies sich als korrigierbar, was neue interventionelle Ansätze eröffnet.",
+          "relevance": "Erstmals identifizierter, reversibler molekularer Auslöser des natürlichen mitochondrialen Alterns. Phosphatidylcholin ist ein bekannter Nährstoff (u. a. in Eiern und Soja), was direkte Anknüpfungspunkte für diätetische oder pharmazeutische Interventionen schafft.",
+          "source": "Nature Communications / Leibniz-Institut FLI (11. Juni 2026)"
+        },
+        {
+          "title": "Echinococcus multilocularis erstmals an US-Westküste in Kojoten nachgewiesen",
+          "body": "Forschende der University of Washington haben in einer in PLOS Neglected Tropical Diseases erschienenen Studie (weitreichende Medienberichterstattung ab 11. Juni) berichtet, dass der gefährliche Fuchsbandwurm Echinococcus multilocularis in 37 % der untersuchten Kojoten im Puget-Sound-Gebiet (Washington State) gefunden wurde. Die Parasitose verursacht beim Menschen und bei Hunden schwere, krebsartige Zysten in der Leber. Frühere Nachweise in Nordamerika beschränkten sich auf die Prärieregionen; dies ist der erste bestätigte Fund an der Westküste der USA.",
+          "relevance": "Öffentliches Gesundheitsrisiko: Da Kojoten zunehmend in Stadtrandgebieten vorkommen, erhöht sich das Übertragungsrisiko auf Hunde und Menschen. Veterinärmedizinische und epidemiologische Überwachungsprogramme müssen auf die Westküste ausgeweitet werden.",
+          "source": "PLOS Neglected Tropical Diseases / ScienceDaily (11. Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Energie & Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Batteriefreie künstliche Photosynthese: Selbstregulierendes System erzeugt stabilen Solarbrennstoff",
+          "body": "Wissenschaftlerinnen und Wissenschaftler der Osaka Metropolitan University beschrieben in EES Solar ein neues System zur künstlichen Photosynthese, das ohne externe Batterien oder Steuerelektronik auskommt. Kernstück ist ein selbstregulierender Festelektrolyt, der direkt in den Elektrolyseur integriert ist und die Maximum-Power-Point-Tracking-Funktion (MPPT) eigenständig übernimmt. Das System wandelt Sonnenlicht, Wasser und CO₂ in Ameisensäure um — einen potenziellen Energieträger. Ein Machbarkeitsnachweis gelang durch die autonome Stromversorgung einer Miniaturinstallation.",
+          "relevance": "Drastische Reduktion der Systemkomplexität und -kosten für solar-chemische Energiespeicherung. Beseitigt eine der Haupthürden für den praktischen Einsatz künstlicher Photosynthese in dezentralen Anwendungen.",
+          "source": "EES Solar / Osaka Metropolitan University (11. Juni 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Chips & Physische KI",
+      "items": [
+        {
+          "title": "Signaloid C0-ASIC: Bis zu 1000× bessere Performance-per-Watt für Robotik und Physical AI",
+          "body": "Das britische Chip-Start-up Signaloid präsentierte auf der Bosch Connected World (10.–11. Juni, Berlin) den Tapeout und die vorläufigen Spezifikationen seines C0-ASIC. Der Chip wurde gemeinsam mit TSMC (über imec IC-Link und Cadence) gefertigt und implementiert Signaloids Distribution-Extended-Computing-Architektur, die probabilistische und mit Unsicherheit behaftete KI-Berechnungen effizienter durchführt als herkömmliche CPUs oder GPUs. Erste Engineering-Samples für Kunden sind für Q3 2026 geplant; FPGA-basierte Systeme des Designs sollen später 2026 in Großbritannien und der Schweiz eingesetzt werden.",
+          "relevance": "Physische KI (Robotik, Industrieautomatisierung) erfordert Berechnungen unter Unsicherheit in Echtzeit — ein Engpass aktueller Architekturen. Ein 1000-facher Effizienzsprung wäre transformativ für autonome Systeme und Edge-Robotik.",
+          "source": "Robotics Business News / Signaloid / imec (11. Juni 2026)"
+        }
+      ]
+    }
+  ]
+}
