@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-13",
+  "generated_date": "2026-06-14",
+  "footer_sources": "Ramp AI Index, VentureBeat, BuildFastWithAI, TokenMix, CNBC, NPR, CNN Business, ScienceDaily, Keck Observatory, The Astronomical Journal, Scientific Reports, Nature Communications, Kyoto University, The Next Web, Bloomberg",
+  "sections": [
+    {
+      "heading": "Artificial Intelligence",
+      "items": [
+        {
+          "title": "Anthropic Overtakes OpenAI in US Business Adoption",
+          "body": "The June 2026 Ramp AI Index shows Anthropic's Claude at 41% of US businesses with paid AI subscriptions, surpassing OpenAI for the first time ever. The surge is driven by enterprise migration to Claude for coding and agentic workflows. The report simultaneously cautions that Anthropic's lead may be fragile given compute constraints and token-based pricing pressures.",
+          "relevance": "Marks the first time a challenger has displaced OpenAI in enterprise AI market share, signaling a structural shift in commercial AI adoption.",
+          "source": "Ramp AI Index / VentureBeat (June 13, 2026)"
+        },
+        {
+          "title": "GPT-5.6 Internal Checkpoint Surfaces in Developer Channels",
+          "body": "A checkpoint labeled GPT-5.6 'kindle-alpha' appeared in Codex-related developer testing paths, with users reporting stronger reasoning, coding, and vision performance, including improved SVG output. OpenAI has made no official announcement, and independent analysis classifies the checkpoint as real-but-unannounced. Prediction markets priced a June 30 official release at 89% probability.",
+          "relevance": "Signals OpenAI is preparing a significant mid-cycle capability upgrade, intensifying competitive pressure in a June 2026 model release window also expected to include Anthropic's Mythos and Google's Gemini 3.5 Pro.",
+          "source": "BuildFastWithAI / TokenMix (June 13, 2026)"
+        },
+        {
+          "title": "Snap: AI Now Writes 65% of New Code as Layoffs Continue",
+          "body": "Snap disclosed that AI tools generate over 65% of its new code and handle more than one million monthly developer queries, enabling smaller engineering teams to achieve the same output as before. The company cut 1,000 employees (16% of its workforce) citing these AI productivity gains. June 13 analysis widely cited Snap as the clearest current data point on AI-driven software workforce restructuring.",
+          "relevance": "One of the most concrete corporate disclosures yet on the pace at which generative AI is displacing software engineering headcount at a major technology company.",
+          "source": "CNBC / BuildFastWithAI (June 13, 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Aerospace & Space Industry",
+      "items": [
+        {
+          "title": "SpaceX Completes Largest IPO in History on Nasdaq",
+          "body": "SpaceX began trading on Nasdaq on June 12, 2026 under the ticker SPCX, raising $75 billion at $135/share — the largest initial public offering in history. Shares closed up 19% at $161.11 on the first day, giving SpaceX a market cap above $2 trillion and making it the sixth-largest US-listed company. The historic debut and its implications for AI infrastructure investment dominated financial and tech news through June 13.",
+          "relevance": "SpaceX's public listing creates a new benchmark for the space and AI infrastructure investment sectors, and the $2 trillion valuation reflects markets pricing the convergence of reusable rockets, Starlink, and AI-driven space logistics.",
+          "source": "CNN Business / CNBC / NPR (June 12–13, 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Astronomy",
+      "items": [
+        {
+          "title": "Largest Exoplanet Spin Survey Reveals Clue to World Formation",
+          "body": "Astronomers using the W. M. Keck Observatory's Planet Imager and Characterizer (KPIC) instrument measured rotation rates of 32 giant planets and brown dwarfs orbiting distant stars. Giant planets were found to spin faster than more massive brown dwarfs — the opposite of simple mass-scaling predictions — pointing to magnetic braking and distinct formation pathways. Lead author Dino Chih-Chun Hsu stated that 'spin is a fossil record of how a planet formed.'",
+          "relevance": "Provides the most statistically robust observational test yet of competing theories distinguishing giant planet formation from brown dwarf formation, with implications for understanding how solar systems like our own assembled.",
+          "source": "ScienceDaily / Keck Observatory / The Astronomical Journal (June 13, 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Medicine & Neuroscience",
+      "items": [
+        {
+          "title": "Brain Health Can Improve at Any Age, Study of 4,000 Adults Finds",
+          "body": "A three-year study of nearly 4,000 adults aged 19–94, published in Scientific Reports by researchers at the University of Texas at Dallas, found that cognitive performance can improve across the full adult lifespan, not just in youth. The research challenges the long-standing assumption that mental sharpness inevitably declines after middle age. Participants across all age groups showed the capacity for measurable cognitive gains.",
+          "relevance": "Overturns a foundational assumption of cognitive aging research using one of the largest and most age-diverse longitudinal samples to date, with direct implications for public health messaging and cognitive rehabilitation.",
+          "source": "ScienceDaily / Scientific Reports / University of Texas at Dallas (June 13, 2026)"
+        },
+        {
+          "title": "Playing Music in Your 70s Protects Memory and Brain Structure",
+          "body": "A four-year Kyoto University study of 53 older adults found that those who continued musical instrument practice maintained verbal working memory and showed significantly less shrinkage in the putamen and cerebellum — regions central to memory and motor learning — compared to those who stopped. Benefits were measurable even in adults who began learning an instrument for the first time after age 70. The study provides longitudinal neuroimaging evidence for music-driven neuroprotection.",
+          "relevance": "First longitudinal evidence that initiating instrument training late in life produces measurable neuroprotective structural changes in the aging brain, supporting music-based interventions as a scalable dementia prevention strategy.",
+          "source": "ScienceDaily / Kyoto University (June 13, 2026)"
+        }
+      ]
+    },
+    {
+      "heading": "Robotics",
+      "items": [
+        {
+          "title": "EngineAI Files Confidentially for Hong Kong IPO",
+          "body": "Shenzhen-based humanoid robot startup EngineAI filed confidentially for a Hong Kong initial public offering, working with China International Capital Corp. and Citic Securities, Bloomberg reported on June 12–13, 2026. The three-year-old company opened a 12,000 m² factory on June 1, 2026, capable of producing one T800 humanoid robot every 15 minutes and targeting 10,000 units. EngineAI reached a $1.5 billion valuation after a $200 million Series B in April 2026.",
+          "relevance": "Part of a wave of Chinese humanoid robot companies — including Unitree and AgiBot — racing to public markets, accelerating global competition with US-based firms like Boston Dynamics and Figure AI.",
+          "source": "Bloomberg / The Next Web (June 12–13, 2026)"
+        }
+      ]
+    }
+  ]
+}
